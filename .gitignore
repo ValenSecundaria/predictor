@@ -1,0 +1,66 @@
+# Archivo .gitignore para el proyecto Predictor Mundial
+# Basado en una estructura monorepo con Backend (Python/FastAPI) y Frontend (Node.js/Next.js)
+
+### General ###
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de IDEs y editores
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de logs
+*.log
+
+### Variables de Entorno ###
+# Ignorar todos los archivos .env, ya que contienen secretos.
+.env
+.env.*
+
+# ¡PERO NO ignores los archivos de ejemplo! Estos deben estar en el repo.
+!/.env.example
+!/.env.sample
+!/backend/.env.sample
+!/frontend/.env.example
+
+### Backend - Python / FastAPI ###
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Carpetas de distribución y empaquetado
+build/
+dist/
+*.egg-info/
+
+# Reportes de testing y coverage
+.pytest_cache/
+coverage.xml
+htmlcov/
+
+### Frontend - Node.js / Next.js ###
+# Dependencias
+frontend/node_modules/
+
+# Archivos de log de gestores de paquetes
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Carpetas de build de Next.js
+frontend/.next/
+frontend/out/
+
+# Archivos de entorno locales (ya cubiertos por .env.*, pero es bueno ser explícito)
+frontend/.env.local
