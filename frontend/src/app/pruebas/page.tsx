@@ -13,13 +13,12 @@ type Goal = {
   minute: number;
 };
 
-// Nuevo tipo para los equipos que vendrán del API
+// Nuevo tipo para los equipos que vendrán de la API
 type Team = {
   name: string;
   code: string;
 };
 
-// Actualizamos el tipo Match para incluir los códigos de equipo, que son necesarios para el filtrado
 type Match = {
   team_a: string;
   team_b: string;
@@ -30,7 +29,7 @@ type Match = {
   goals: Goal[];
 };
 
-// Nuevo tipo para las estadísticas que vendrán del API
+// Nuevo tipo para las estadísticas que vendrán de la API
 type TeamStats = {
   wins: number;
   losses: number;
@@ -56,7 +55,7 @@ export default function PruebasPage() {
       setLoading(true);
       const res = await fetch('/api/v1/analisis', { cache: 'no-store' });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const json = (await res.json()) as Match[]; // Esto es para el botón de "ver JSON"
+      const json = (await res.json()) as Match[]; 
       setData(json);
     } catch (e: any) {
       setErr(e?.message ?? 'Error desconocido');
@@ -81,9 +80,6 @@ export default function PruebasPage() {
     }
   };
 
-
-  // --- NUEVA LÓGICA ---
-
   // 1. Cargar la lista de equipos cuando el componente se monta
   useEffect(() => {
     const fetchTeams = async () => {
@@ -97,13 +93,13 @@ export default function PruebasPage() {
       }
     };
     fetchTeams();
-  }, []); // El array vacío asegura que esto se ejecute solo una vez
+  }, []);
 
   // 2. Cargar los partidos del equipo seleccionado cada vez que cambie
   useEffect(() => {
     if (!selectedTeam) {
-      setData(null); // Limpiamos los datos si no hay equipo seleccionado
-      setStats(null); // Limpiamos las estadísticas también
+      setData(null); 
+      setStats(null); 
       return;
     }
 
@@ -123,7 +119,7 @@ export default function PruebasPage() {
     };
 
     fetchMatchesByTeam();
-  }, [selectedTeam]); // Este efecto se ejecuta cada vez que `selectedTeam` cambia
+  }, [selectedTeam]);
 
   return (
     <ChakraProvider>
@@ -140,9 +136,11 @@ export default function PruebasPage() {
             <Button colorScheme="blue" onClick={consultar} isDisabled={loading}>
               Ver JSON Completo
             </Button>
+            <Link href="/pruebas/teams" passHref>
+              <Button as="a" colorScheme="teal">Estadísticas por Equipo</Button>
+            </Link>
           </HStack>
 
-          {/* --- NUEVO COMPONENTE: Selector de Equipo --- */}
           <Box>
             <Heading as="h2" size="md" mb={2}>Filtrar por equipo</Heading>
             <Select
@@ -159,7 +157,6 @@ export default function PruebasPage() {
             </Select>
           </Box>
 
-          {/* --- NUEVO COMPONENTE: Botón y Display de Estadísticas --- */}
           {selectedTeam && (
             <Box>
               <Button colorScheme="green" onClick={consultarEstadisticas} isDisabled={loadingStats || !selectedTeam} isLoading={loadingStats}>
@@ -206,7 +203,6 @@ export default function PruebasPage() {
             </Box>
           )}
 
-          {/* --- NUEVO COMPONENTE: Tabla de Resultados --- */}
           {data && data.length > 0 && !('wins' in data[0]) && ( // Condición para no mostrar la tabla si data es el JSON completo
             <Box borderWidth="1px" borderRadius="lg" p={4}>
               <Heading as="h2" size="md" mb={4}>

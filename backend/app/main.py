@@ -2,7 +2,6 @@ from fastapi import FastAPI, APIRouter, HTTPException
 from typing import List
 from pathlib import Path
 
-# 1. Importar los nuevos módulos y los modelos de la API
 from app.core.entities import ApiMatch, TeamGroupInfo, TeamStats
 from app.data.ingestion.json_reader import load_worldcup_data_from_json, load_worldcup_groups_data_from_json
 from app.data.cleaning.match_cleaner import flatten_and_transform_matches, filter_matches_by_team
@@ -10,25 +9,32 @@ from app.analytics.stats_calculator import calculate_team_stats
 
 router = APIRouter(prefix="/api/v1", tags=["analisis"])
 
-# --- Solución: Definir rutas a los archivos de datos de forma robusta ---
-# Obtenemos la ruta al directorio donde se encuentra este archivo (main.py)
 BASE_DIR = Path(__file__).resolve().parent
-# Construimos las rutas a los archivos JSON basándonos en la ubicación de main.py
-WORLDCUP_GROUPS_JSON_PATH = BASE_DIR / "data" / "datasets" / "worldcup.groups.json"
-WORLDCUP_JSON_PATH = BASE_DIR / "data" / "datasets" / "worldcup.json"
+DATASETS_DIR = BASE_DIR / "data" / "datasets"
+YEARS = ["2014", "2018"]
 
-# --- Solución: Cargar y procesar los datos una sola vez al iniciar la app ---
 try:
-    # Cargar y procesar datos de equipos
-    worldcup_groups_data = load_worldcup_groups_data_from_json(WORLDCUP_GROUPS_JSON_PATH)
-    TEAMS_DATA = [team for group in worldcup_groups_data.groups for team in group.teams]
+    all_teams = {}
+    all_matches = []
 
-    # Cargar y procesar datos de partidos
-    worldcup_data = load_worldcup_data_from_json(WORLDCUP_JSON_PATH)
-    MATCHES_DATA = flatten_and_transform_matches(worldcup_data)
+    for year in YEARS:
+        year_dir = DATASETS_DIR / year
+        WORLDCUP_GROUPS_JSON_PATH = year_dir / "worldcup.groups.json"
+        WORLDCUP_JSON_PATH = year_dir / "worldcup.json"
+
+        # Cargar y procesar datos de equipos
+        worldcup_groups_data = load_worldcup_groups_data_from_json(WORLDCUP_GROUPS_JSON_PATH)
+        for group in worldcup_groups_data.groups:
+            for team in group.teams:
+                all_teams[team.code] = team
+
+        # Cargar y procesar datos de partidos
+        worldcup_data = load_worldcup_data_from_json(WORLDCUP_JSON_PATH)
+        all_matches.extend(flatten_and_transform_matches(worldcup_data))
+
+    TEAMS_DATA = sorted(list(all_teams.values()), key=lambda x: x.name)
+    MATCHES_DATA = all_matches
 except FileNotFoundError as e:
-    # Si los archivos no existen al iniciar, la aplicación no puede funcionar.
-    # Es mejor que falle rápido y con un mensaje claro.
     raise RuntimeError(f"No se pudo iniciar la aplicación: Archivo de datos no encontrado. {e}")
 except Exception as e:
     raise RuntimeError(f"Error crítico al procesar datos durante el inicio: {e}")
