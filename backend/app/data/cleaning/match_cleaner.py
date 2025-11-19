@@ -26,7 +26,8 @@ def flatten_and_transform_matches(world_cup_data: WorldCupData) -> List[ApiMatch
                 team_b_code=match_info.team2.code,
                 score_a=match_info.score1,
                 score_b=match_info.score2,
-                goals=[ApiGoal.model_validate(goal) for goal in all_goals]
+                goals=[ApiGoal.model_validate(goal.model_dump()) for goal in all_goals
+        ]
             )
             processed_matches.append(api_match)
 
