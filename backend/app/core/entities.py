@@ -62,6 +62,16 @@ class ApiMatch(BaseModel):
     score_b: int
     goals: List[ApiGoal]
 
+class TeamStats(BaseModel):
+    """Modelo para las estadísticas de un equipo."""
+    wins: int
+    losses: int
+    draws: int
+    total_matches: int
+    win_percentage: float
+    loss_percentage: float
+    draw_percentage: float
+
 
 class TeamGroupInfo(BaseModel):
     """Representa la información de un equipo en el JSON."""

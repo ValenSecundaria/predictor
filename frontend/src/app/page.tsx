@@ -1,41 +1,11 @@
 'use client';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import React, { useState, Fragment } from 'react';
-import { ChakraProvider, Container, Heading, Button, Code, Box, Spinner, Alert, AlertIcon } from '@chakra-ui/react';
-
-type Goal = {
-  player: string;
-  minute: number;
-};
-
-type Match = {
-  team_a: string;
-  team_b: string;
-  score_a: number;
-  score_b: number;
-  goals: Goal[];
-};
+import React, { useState } from 'react';
+import { ChakraProvider, Container, Heading, Button, Box, Alert, AlertIcon } from '@chakra-ui/react';
+import Link from 'next/link';
 
 export default function Page() {
-  const [mode, setMode] = useState<'usuario' | 'pruebas' | null>(null);
-  const [data, setData] = useState<Match[] | null>(null);
-  const [loading, setLoading] = useState(false);
-  const [err, setErr] = useState<string | null>(null);
-
-  const consultar = async () => {
-    try {
-      setErr(null);
-      setLoading(true);
-      const res = await fetch('/api/v1/analisis', { cache: 'no-store' });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const json = (await res.json()) as Match[];
-      setData(json);
-    } catch (e: any) {
-      setErr(e?.message ?? 'Error desconocido');
-    } finally {
-      setLoading(false);
-    }
-  };
+  const [mode, setMode] = useState<'usuario' | null>(null);
 
   return (
     <ChakraProvider>
@@ -49,9 +19,11 @@ export default function Page() {
             <Button colorScheme="teal" onClick={() => setMode('usuario')} mr={3}>
               Modo Usuario
             </Button>
-            <Button colorScheme="blue" onClick={() => setMode('pruebas')}>
-              Modo pruebas
-            </Button>
+            <Link href="/pruebas" passHref>
+              <Button as="a" colorScheme="blue">
+                Modo pruebas
+              </Button>
+            </Link>
           </Box>
         )}
 
@@ -63,43 +35,6 @@ export default function Page() {
             </Alert>
             <Button mt={4} onClick={() => setMode(null)}>Volver</Button>
           </Box>
-        )}
-
-        {mode === 'pruebas' && (
-          <Fragment>
-            <Heading as="h1" size="lg" mb={4}>
-              ⚽ Modo Pruebas: FastAPI + Next (Chakra + Bootstrap)
-            </Heading>
-
-            <div className="mb-3 d-flex align-items-center">
-              <Button colorScheme="teal" onClick={consultar} isDisabled={loading} mr={4}>
-                {loading ? 'Consultando…' : 'Consultar análisis'}
-              </Button>
-              <Button onClick={() => setMode(null)}>Volver</Button>
-            </div>
-
-            {loading && (
-              <Box mb={3}>
-                <Spinner mr={2} /> Ejecutando pipeline (extracción de txt → parseo)...
-              </Box>
-            )}
-
-            {err && (
-              <Alert status="error" mb={3}>
-                <AlertIcon />
-                {err}
-              </Alert>
-            )}
-
-            {data && (
-              <Box borderWidth="1px" borderRadius="lg" p={4}>
-                <Heading as="h2" size="md" mb={2}>Respuesta</Heading>
-                <Code whiteSpace="pre" width="100%" p={3}>
-                  {JSON.stringify(data, null, 2)}
-                </Code>
-              </Box>
-            )}
-          </Fragment>
         )}
       </Container>
     </ChakraProvider>

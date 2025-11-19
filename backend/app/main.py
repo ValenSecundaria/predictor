@@ -3,9 +3,10 @@ from typing import List
 from pathlib import Path
 
 # 1. Importar los nuevos módulos y los modelos de la API
-from app.core.entities import ApiMatch, TeamGroupInfo
+from app.core.entities import ApiMatch, TeamGroupInfo, TeamStats
 from app.data.ingestion.json_reader import load_worldcup_data_from_json, load_worldcup_groups_data_from_json
 from app.data.cleaning.match_cleaner import flatten_and_transform_matches, filter_matches_by_team
+from app.analytics.stats_calculator import calculate_team_stats
 
 router = APIRouter(prefix="/api/v1", tags=["analisis"])
 
@@ -45,6 +46,11 @@ def obtener_partidos_por_equipo(team_code: str):
     partidos_filtrados = filter_matches_by_team(MATCHES_DATA, team_code)
     return partidos_filtrados
 		
+@router.get("/stats/{team_code}", response_model=TeamStats)
+def obtener_estadisticas_por_equipo(team_code: str):
+    stats = calculate_team_stats(MATCHES_DATA, team_code)
+    return stats
+
 app = FastAPI(title="Plantilla Predictor - FastAPI")
 
 @app.get("/")
