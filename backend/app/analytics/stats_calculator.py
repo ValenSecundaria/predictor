@@ -15,11 +15,13 @@ def calculate_team_stats(matches: List[ApiMatch], team_code: str) -> TeamStats:
     wins = 0
     losses = 0
     draws = 0
+    goals_for = 0
+    goals_against = 0
     
     team_matches = [m for m in matches if m.team_a_code == team_code or m.team_b_code == team_code]
     
     if not team_matches:
-        return TeamStats(wins=0, losses=0, draws=0, total_matches=0, win_percentage=0, loss_percentage=0, draw_percentage=0)
+        return TeamStats(wins=0, losses=0, draws=0, total_matches=0, win_percentage=0, loss_percentage=0, draw_percentage=0, goals_for=0, goals_against=0)
 
     for match in team_matches:
         is_team_a = match.team_a_code == team_code
@@ -30,6 +32,13 @@ def calculate_team_stats(matches: List[ApiMatch], team_code: str) -> TeamStats:
             wins += 1
         else:
             losses += 1
+            
+        if is_team_a:
+            goals_for += match.score_a
+            goals_against += match.score_b
+        else:
+            goals_for += match.score_b
+            goals_against += match.score_a
             
     total_matches = len(team_matches)
     win_percentage = (wins / total_matches) * 100 if total_matches > 0 else 0
@@ -43,5 +52,7 @@ def calculate_team_stats(matches: List[ApiMatch], team_code: str) -> TeamStats:
         total_matches=total_matches,
         win_percentage=win_percentage,
         loss_percentage=loss_percentage,
-        draw_percentage=draw_percentage
+        draw_percentage=draw_percentage,
+        goals_for=goals_for,
+        goals_against=goals_against
     )

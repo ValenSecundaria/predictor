@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import {
-  ChakraProvider, Container, Heading, Button, Box, Spinner, Alert, AlertIcon,
+  ChakraProvider, Container, Heading, Button, Box, Spinner, Alert, AlertIcon, Text,
   Progress, Stat, StatLabel, StatNumber, StatGroup,
   Select, VStack, HStack
 } from '@chakra-ui/react';
@@ -23,7 +23,14 @@ type TeamStats = {
   win_percentage: number;
   loss_percentage: number;
   draw_percentage: number;
+  goals_for: number;
+  goals_against: number;
 };
+
+const worldCupYears = [
+  1930, 1934, 1938, 1950, 1954, 1958, 1962, 1966, 1970, 1974, 1978,
+  1982, 1986, 1990, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022
+];
 
 export default function TeamsPage() {
   const [teams, setTeams] = useState<Team[]>([]);
@@ -31,6 +38,11 @@ export default function TeamsPage() {
   const [stats, setStats] = useState<TeamStats | null>(null);
   const [loading, setLoading] = useState(false);
   const [err, setErr] = useState<string | null>(null);
+
+  // Estados para los nuevos filtros de año
+  const [fromYear, setFromYear] = useState('');
+  const [toYear, setToYear] = useState('');
+  const [yearError, setYearError] = useState<string | null>(null);
 
   // 1. Cargar la lista de equipos cuando el componente se monta
   useEffect(() => {
@@ -75,6 +87,20 @@ export default function TeamsPage() {
     fetchStatsByTeam();
   }, [selectedTeam]);
 
+  // 3. Validar el rango de años cada vez que cambian
+  useEffect(() => {
+    if (fromYear && toYear && parseInt(fromYear) > parseInt(toYear)) {
+      setYearError('El año "Desde" no puede ser mayor que el año "Hasta".');
+    } else {
+      setYearError(null);
+    }
+  }, [fromYear, toYear]);
+
+  const handleApplyFilter = () => {
+    // Lógica para aplicar el filtro (se implementará más adelante)
+    console.log(`Aplicando filtro de años: Desde ${fromYear} hasta ${toYear}`);
+  };
+
   return (
     <ChakraProvider>
       <Container maxW="container.lg" className="pt-4">
@@ -83,10 +109,43 @@ export default function TeamsPage() {
         </Heading>
 
         <VStack spacing={4} align="stretch">
-          <HStack spacing={4}>
+          <HStack spacing={4} justify="space-between">
             <Link href="/pruebas" passHref>
               <Button as="a">Volver a Pruebas</Button>
             </Link>
+
+            {/* NUEVOS FILTROS DE AÑO */}
+            <VStack align="flex-end" spacing={1}>
+              <HStack spacing={2}>
+                <Text fontSize="sm" fontWeight="medium" whiteSpace="nowrap">Filtrar por año:</Text>
+                <Select 
+                  placeholder="Desde" 
+                  size="sm" 
+                  w="110px"
+                  value={fromYear}
+                  onChange={(e) => setFromYear(e.target.value)}
+                  isInvalid={!!yearError}
+                >
+                  {worldCupYears.map(year => <option key={year} value={year}>{year}</option>)}
+                </Select>
+                <Select 
+                  placeholder="Hasta" 
+                  size="sm" 
+                  w="110px"
+                  value={toYear}
+                  onChange={(e) => setToYear(e.target.value)}
+                  isInvalid={!!yearError}
+                >
+                  {worldCupYears.map(year => <option key={year} value={year}>{year}</option>)}
+                </Select>
+                <Button size="sm" colorScheme="blue" onClick={handleApplyFilter} isDisabled={!!yearError || !fromYear}>Aplicar</Button>
+              </HStack>
+              {yearError && (
+                <Text fontSize="xs" color="red.500" pr="4.5rem">
+                  {yearError}
+                </Text>
+              )}
+            </VStack>
           </HStack>
 
           <Box>
@@ -134,6 +193,14 @@ export default function TeamsPage() {
                     <Stat>
                     <StatLabel>Empates</StatLabel>
                     <StatNumber color="gray.500">{stats.draws}</StatNumber>
+                    </Stat>
+                    <Stat>
+                      <StatLabel>Goles a Favor</StatLabel>
+                      <StatNumber color="green.500">{stats.goals_for}</StatNumber>
+                    </Stat>
+                    <Stat>
+                      <StatLabel>Goles en Contra</StatLabel>
+                      <StatNumber color="red.500">{stats.goals_against}</StatNumber>
                     </Stat>
                 </StatGroup>
 

@@ -71,6 +71,8 @@ class TeamStats(BaseModel):
     win_percentage: float
     loss_percentage: float
     draw_percentage: float
+    goals_for: int
+    goals_against: int
 
 
 class TeamGroupInfo(BaseModel):

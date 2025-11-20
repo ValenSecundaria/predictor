@@ -114,7 +114,9 @@ predictor-mundial/
 ## 🧩 Arquitectura Técnica
 
 ### 🔹 Backend (FastAPI)
+
 El backend implementa una arquitectura por capas:
+
 1. **Extracción de datos:** obtención desde APIs, archivos o DB (mock en esta plantilla).
 2. **Limpieza / Analítica:** filtros y conteos base.
 3. **Intermediaria (API):** expone `/api/v1/analisis` vía FastAPI.
@@ -122,6 +124,7 @@ El backend implementa una arquitectura por capas:
 > En desarrollo local corre en `http://localhost:8000`.
 
 ### 🔹 Frontend (Next.js + Chakra + Bootstrap)
+
 - Usa el **App Router moderno** (`src/app/`).
 - Chakra UI y Bootstrap coexisten para usar componentes de ambos ecosistemas.
 - Llama al endpoint del backend (`/api/v1/analisis`) y muestra los resultados.
@@ -129,12 +132,14 @@ El backend implementa una arquitectura por capas:
 > En desarrollo local corre en `http://localhost:3000`.
 
 ### 🔹 Comunicación entre ambos
+
 - En **desarrollo local**, Next.js tiene un proxy configurado en `next.config.js`:
   ```js
   rewrites() {
     return [{ source: '/api/:path*', destination: 'http://localhost:8000/api/:path*' }];
   }
-Esto evita errores CORS y permite usar rutas relativas (fetch('/api/v1/analisis')).
+  Esto evita errores CORS y permite usar rutas relativas (fetch('/api/v1/analisis')).
+  ```
 
 En producción (Docker), el tráfico pasa por Nginx, que redirige:
 
@@ -159,9 +164,9 @@ python -m uvicorn app.main:app --host 127.0.0.1 --port 8001
 
 Flujo de datos:
 Usuario → Frontend (Next.js)
-        → /api/v1/analisis
-        → Proxy interno (Next.js o Nginx)
-        → Backend (FastAPI)
-        → Extracción → Limpieza → Analítica
-        ← Resultado JSON
-        ← Renderizado en interfaz con Chakra + Bootstrap
+→ /api/v1/analisis
+→ Proxy interno (Next.js o Nginx)
+→ Backend (FastAPI)
+→ Extracción → Limpieza → Analítica
+← Resultado JSON
+← Renderizado en interfaz con Chakra + Bootstrap
