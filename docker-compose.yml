@@ -1,8 +1,9 @@
 version: "3.9"
+
 services:
   reverse-proxy:
     image: nginx:1.27-alpine
-    container_name: reverse-proxy
+    container_name: predictor-proxy
     ports:
       - "80:80"
     volumes:
@@ -10,21 +11,35 @@ services:
     depends_on:
       - frontend
       - backend
+    networks:
+      - predictor-network
+    restart: always
 
   backend:
     build:
       context: ./backend
-    container_name: backend
+    container_name: predictor-backend
     expose:
       - "8000"
     environment:
       - PYTHONUNBUFFERED=1
+    networks:
+      - predictor-network
+    restart: always
 
   frontend:
     build:
       context: ./frontend
-    container_name: frontend
+    container_name: predictor-frontend
     expose:
       - "3000"
     environment:
       - NODE_ENV=production
+      - API_URL=http://backend:8000
+    networks:
+      - predictor-network
+    restart: always
+
+networks:
+  predictor-network:
+    driver: bridge
