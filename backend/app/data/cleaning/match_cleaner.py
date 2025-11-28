@@ -1,13 +1,15 @@
 from typing import List
 from app.core.entities import WorldCupData, ApiMatch, ApiGoal
 
-def flatten_and_transform_matches(world_cup_data: WorldCupData) -> List[ApiMatch]:
+def flatten_and_transform_matches(world_cup_data: WorldCupData, year: str, competition: str = "World Cup") -> List[ApiMatch]:
     """
     Toma los datos crudos del mundial y los transforma en una lista plana de partidos
     con el formato que espera la API y el frontend.
 
     Args:
         world_cup_data: El objeto Pydantic con todos los datos del torneo.
+        year: El año del mundial.
+        competition: El nombre de la competición (por defecto "World Cup").
 
     Returns:
         Una lista de objetos ApiMatch.
@@ -26,8 +28,9 @@ def flatten_and_transform_matches(world_cup_data: WorldCupData) -> List[ApiMatch
                 team_b_code=match_info.team2.code,
                 score_a=match_info.score1,
                 score_b=match_info.score2,
-                goals=[ApiGoal.model_validate(goal.model_dump()) for goal in all_goals
-        ]
+                goals=[ApiGoal.model_validate(goal.model_dump()) for goal in all_goals],
+                year=year,
+                competition=competition
             )
             processed_matches.append(api_match)
 

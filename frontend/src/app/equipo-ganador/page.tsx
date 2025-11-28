@@ -18,6 +18,8 @@ import {
   AlertIcon,
 } from '@chakra-ui/react';
 import Link from 'next/link';
+import HistoryStats from '../../components/HistoryStats';
+import { HeadToHeadStats } from '../../types';
 
 // Tipo para los equipos que vienen de la API
 type Team = {
@@ -30,6 +32,7 @@ export default function EquipoGanadorPage() {
   const [teamA, setTeamA] = useState<string>('');
   const [teamB, setTeamB] = useState<string>('');
   const [result, setResult] = useState<string | null>(null);
+  const [historyStats, setHistoryStats] = useState<HeadToHeadStats | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
@@ -59,11 +62,28 @@ export default function EquipoGanadorPage() {
     fetchTeams();
   }, []);
 
-  const handleCompare = () => {
+  const handleCompare = async () => {
     if (teamA === teamB) {
       setResult('Selecciona dos equipos distintos para comparar.');
+      setHistoryStats(null);
       return;
     }
+
+    setResult(null);
+    setHistoryStats(null);
+
+    try {
+      const res = await fetch(`/api/v1/predict/history/${teamA}/${teamB}`);
+      if (res.ok) {
+        const data: HeadToHeadStats = await res.json();
+        setHistoryStats(data);
+      } else {
+        console.error("Error fetching history stats");
+      }
+    } catch (e) {
+      console.error(e);
+    }
+
     const teamAName = teams.find(t => t.code === teamA)?.name;
     const teamBName = teams.find(t => t.code === teamB)?.name;
     const winner = (teamAName ?? '').localeCompare(teamBName ?? '') < 0 ? teamAName : teamBName;
@@ -71,6 +91,9 @@ export default function EquipoGanadorPage() {
       `Según este mock de datos, ${winner} tiene una ligera ventaja histórica sobre su rival.`
     );
   };
+
+  const teamAName = teams.find(t => t.code === teamA)?.name || teamA;
+  const teamBName = teams.find(t => t.code === teamB)?.name || teamB;
 
   return (
     <ChakraProvider>
@@ -149,8 +172,12 @@ export default function EquipoGanadorPage() {
           </CardBody>
         </Card>
 
+        {historyStats && (
+          <HistoryStats stats={historyStats} teamAName={teamAName} teamBName={teamBName} />
+        )}
+
         {result && (
-          <Card>
+          <Card mt={6}>
             <CardBody>
               <Text fontWeight="bold" mb={2}>
                 Resultado (mock):

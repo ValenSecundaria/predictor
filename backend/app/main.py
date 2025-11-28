@@ -7,6 +7,8 @@ from app.data.ingestion.json_reader import load_worldcup_data_from_json, load_wo
 from app.data.cleaning.match_cleaner import flatten_and_transform_matches, filter_matches_by_team
 from app.analytics.stats_calculator import calculate_team_stats
 
+from app.api.routers import predict as predict_router
+
 router = APIRouter(prefix="/api/v1", tags=["analisis"])
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -30,10 +32,15 @@ try:
 
         # Cargar y procesar datos de partidos
         worldcup_data = load_worldcup_data_from_json(WORLDCUP_JSON_PATH)
-        all_matches.extend(flatten_and_transform_matches(worldcup_data))
+        all_matches.extend(flatten_and_transform_matches(worldcup_data, year=year))
 
     TEAMS_DATA = sorted(list(all_teams.values()), key=lambda x: x.name)
     MATCHES_DATA = all_matches
+    
+    # Inject data into predict router
+    # This is a temporary solution to avoid major refactoring
+    predict_router.MATCHES_STORE = MATCHES_DATA
+
 except FileNotFoundError as e:
     raise RuntimeError(f"No se pudo iniciar la aplicación: Archivo de datos no encontrado. {e}")
 except Exception as e:
@@ -67,3 +74,4 @@ def read_root():
 def health(): return {"ok": True}
 
 app.include_router(router)
+app.include_router(predict_router.router)
