@@ -159,78 +159,76 @@ export default function EstadisticaEquipoPage() {
   }, [selectedTeam]);
 
   return (
-    <ChakraProvider>
-      <Container maxW="container.lg" py={10}>
-        <VStack spacing={6} align="stretch">
-          <HStack justify="space-between">
-            <Heading as="h1" size="lg">
-              Estadísticas por Equipo
-            </Heading>
-            <Link href="/">
-              <Button variant="outline">Volver al Menú</Button>
-            </Link>
-          </HStack>
+    <Container maxW="container.lg" py={10}>
+      <VStack spacing={6} align="stretch">
+        <HStack justify="space-between">
+          <Heading as="h1" size="lg">
+            Estadísticas por Equipo
+          </Heading>
+          <Link href="/">
+            <Button variant="outline">Volver al Menú</Button>
+          </Link>
+        </HStack>
 
-          <Box>
-            <Text mb={2} fontWeight="semibold">Selecciona un equipo para ver su rendimiento histórico:</Text>
-            <Select
-              placeholder="Selecciona un equipo"
-              value={selectedTeam}
-              onChange={(e) => setSelectedTeam(e.target.value)}
-              isDisabled={teams.length === 0 || loading}
-            >
-              {teams.map((team) => (
-                <option key={team.code} value={team.code}>
-                  {team.name}
-                </option>
-              ))}
-            </Select>
+        <Box>
+          <Text mb={2} fontWeight="semibold">Selecciona un equipo para ver su rendimiento histórico:</Text>
+          <Select
+            placeholder="Selecciona un equipo"
+            value={selectedTeam}
+            onChange={(e) => setSelectedTeam(e.target.value)}
+            isDisabled={teams.length === 0 || loading}
+          >
+            {teams.map((team) => (
+              <option key={team.code} value={team.code}>
+                {team.name}
+              </option>
+            ))}
+          </Select>
+        </Box>
+
+        {loading && (
+          <Box textAlign="center" p={5}>
+            <Spinner size="xl" />
+            <Text mt={2}>Cargando datos...</Text>
           </Box>
+        )}
 
-          {loading && (
-            <Box textAlign="center" p={5}>
-              <Spinner size="xl" />
-              <Text mt={2}>Cargando datos...</Text>
-            </Box>
-          )}
+        {error && (
+          <Alert status="error">
+            <AlertIcon />
+            {error}
+          </Alert>
+        )}
 
-          {error && (
-            <Alert status="error">
-              <AlertIcon />
-              {error}
-            </Alert>
-          )}
+        {stats && !loading && (
+          <Box borderWidth="1px" borderRadius="lg" p={6} bg="gray.50" boxShadow="md">
+            <Heading as="h3" size="lg" mb={6} textAlign="center" color="gray.700">
+              Rendimiento Histórico
+            </Heading>
 
-          {stats && !loading && (
-            <Box borderWidth="1px" borderRadius="lg" p={6} bg="gray.50" boxShadow="md">
-              <Heading as="h3" size="lg" mb={6} textAlign="center" color="gray.700">
-                Rendimiento Histórico
-              </Heading>
+            <SimpleGrid columns={{ base: 2, md: 3, lg: 5 }} spacing={5}>
+              <StatCard color="green.500" label="Victorias" value={stats.wins} />
+              <StatCard color="red.500" label="Derrotas" value={stats.losses} />
+              <StatCard color="gray.500" label="Empates" value={stats.draws} />
+              <StatCard color="blue.500" label="Goles a Favor" value={stats.goals_for} />
+              <StatCard color="orange.500" label="Goles en Contra" value={stats.goals_against} />
+            </SimpleGrid>
+          </Box>
+        )}
 
-              <SimpleGrid columns={{ base: 2, md: 3, lg: 5 }} spacing={5}>
-                <StatCard color="green.500" label="Victorias" value={stats.wins} />
-                <StatCard color="red.500" label="Derrotas" value={stats.losses} />
-                <StatCard color="gray.500" label="Empates" value={stats.draws} />
-                <StatCard color="blue.500" label="Goles a Favor" value={stats.goals_for} />
-                <StatCard color="orange.500" label="Goles en Contra" value={stats.goals_against} />
-              </SimpleGrid>
-            </Box>
-          )}
+        {goalStats && !loading && <GoalStats stats={goalStats} />}
+        {homeAwayStats && !loading && <HomeAwayStats stats={homeAwayStats} />}
+        {streakStats && !loading && <StreakStats stats={streakStats} />}
+        {momentumStats && !loading && <MomentumStats stats={momentumStats} />}
+        {graphStats && !loading && <GraphStats stats={graphStats} />}
 
-          {goalStats && !loading && <GoalStats stats={goalStats} />}
-          {homeAwayStats && !loading && <HomeAwayStats stats={homeAwayStats} />}
-          {streakStats && !loading && <StreakStats stats={streakStats} />}
-          {momentumStats && !loading && <MomentumStats stats={momentumStats} />}
-          {graphStats && !loading && <GraphStats stats={graphStats} />}
+        {/* Future Features */}
+        {goalPercentageStats && !loading && <GoalPercentageStats stats={goalPercentageStats} />}
+        {effectivenessStats && !loading && <EffectivenessStats stats={effectivenessStats} />}
+        {possessionStats && !loading && <PossessionStats stats={possessionStats} />}
 
-          {/* Future Features */}
-          {goalPercentageStats && !loading && <GoalPercentageStats stats={goalPercentageStats} />}
-          {effectivenessStats && !loading && <EffectivenessStats stats={effectivenessStats} />}
-          {possessionStats && !loading && <PossessionStats stats={possessionStats} />}
-
-        </VStack>
-      </Container>
-    </ChakraProvider>
+      </VStack>
+    </Container>
   );
 }
 

@@ -115,3 +115,16 @@ def get_possession_stats(team_code: str):
     
     stats = calculate_possession_stats(team_code, MATCHES_STORE)
     return stats
+
+from app.analytics.match_predictor import predict_match
+
+@router.get("/match-prediction/{team_a}/{team_b}")
+def get_match_prediction(team_a: str, team_b: str):
+    """
+    Predice el resultado entre dos equipos usando un algoritmo ponderado.
+    """
+    if not MATCHES_STORE:
+        raise HTTPException(status_code=503, detail="Data not loaded yet")
+    
+    prediction = predict_match(team_a, team_b, MATCHES_STORE)
+    return prediction
