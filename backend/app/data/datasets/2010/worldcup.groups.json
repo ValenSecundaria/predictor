@@ -1,0 +1,173 @@
+{
+  "name": "World Cup 2010",
+  "groups": [
+    {
+      "name": "Group A",
+      "teams": [
+        {
+          "name": "South Africa",
+          "code": "RSA"
+        },
+        {
+          "name": "Mexico",
+          "code": "MEX"
+        },
+        {
+          "name": "Uruguay",
+          "code": "URU"
+        },
+        {
+          "name": "France",
+          "code": "FRA"
+        }
+      ]
+    },
+    {
+      "name": "Group B",
+      "teams": [
+        {
+          "name": "Argentina",
+          "code": "ARG"
+        },
+        {
+          "name": "Nigeria",
+          "code": "NGA"
+        },
+        {
+          "name": "Korea Republic",
+          "code": "KOR"
+        },
+        {
+          "name": "Greece",
+          "code": "GRE"
+        }
+      ]
+    },
+    {
+      "name": "Group C",
+      "teams": [
+        {
+          "name": "England",
+          "code": "ENG"
+        },
+        {
+          "name": "United States",
+          "code": "USA"
+        },
+        {
+          "name": "Algeria",
+          "code": "ALG"
+        },
+        {
+          "name": "Slovenia",
+          "code": "SVN"
+        }
+      ]
+    },
+    {
+      "name": "Group D",
+      "teams": [
+        {
+          "name": "Germany",
+          "code": "GER"
+        },
+        {
+          "name": "Australia",
+          "code": "AUS"
+        },
+        {
+          "name": "Serbia",
+          "code": "SRB"
+        },
+        {
+          "name": "Ghana",
+          "code": "GHA"
+        }
+      ]
+    },
+    {
+      "name": "Group E",
+      "teams": [
+        {
+          "name": "Netherlands",
+          "code": "NED"
+        },
+        {
+          "name": "Denmark",
+          "code": "DEN"
+        },
+        {
+          "name": "Japan",
+          "code": "JPN"
+        },
+        {
+          "name": "Cameroon",
+          "code": "CMR"
+        }
+      ]
+    },
+    {
+      "name": "Group F",
+      "teams": [
+        {
+          "name": "Italy",
+          "code": "ITA"
+        },
+        {
+          "name": "Paraguay",
+          "code": "PAR"
+        },
+        {
+          "name": "New Zealand",
+          "code": "NZL"
+        },
+        {
+          "name": "Slovakia",
+          "code": "SVK"
+        }
+      ]
+    },
+    {
+      "name": "Group G",
+      "teams": [
+        {
+          "name": "Brazil",
+          "code": "BRA"
+        },
+        {
+          "name": "Korea DPR",
+          "code": "PRK"
+        },
+        {
+          "name": "Côte d'Ivoire",
+          "code": "CIV"
+        },
+        {
+          "name": "Portugal",
+          "code": "POR"
+        }
+      ]
+    },
+    {
+      "name": "Group H",
+      "teams": [
+        {
+          "name": "Spain",
+          "code": "ESP"
+        },
+        {
+          "name": "Switzerland",
+          "code": "SUI"
+        },
+        {
+          "name": "Honduras",
+          "code": "HON"
+        },
+        {
+          "name": "Chile",
+          "code": "CHI"
+        }
+      ]
+    }
+  ]
+}

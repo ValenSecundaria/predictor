@@ -1,0 +1,173 @@
+{
+  "name": "World Cup 2002",
+  "groups": [
+    {
+      "name": "Group A",
+      "teams": [
+        {
+          "name": "Denmark",
+          "code": "DEN"
+        },
+        {
+          "name": "Senegal",
+          "code": "SEN"
+        },
+        {
+          "name": "Uruguay",
+          "code": "URU"
+        },
+        {
+          "name": "France",
+          "code": "FRA"
+        }
+      ]
+    },
+    {
+      "name": "Group B",
+      "teams": [
+        {
+          "name": "Spain",
+          "code": "ESP"
+        },
+        {
+          "name": "Paraguay",
+          "code": "PAR"
+        },
+        {
+          "name": "South Africa",
+          "code": "RSA"
+        },
+        {
+          "name": "Slovenia",
+          "code": "SVN"
+        }
+      ]
+    },
+    {
+      "name": "Group C",
+      "teams": [
+        {
+          "name": "Brazil",
+          "code": "BRA"
+        },
+        {
+          "name": "Turkey",
+          "code": "TUR"
+        },
+        {
+          "name": "Costa Rica",
+          "code": "CRC"
+        },
+        {
+          "name": "China PR",
+          "code": "CHN"
+        }
+      ]
+    },
+    {
+      "name": "Group D",
+      "teams": [
+        {
+          "name": "Korea Republic",
+          "code": "KOR"
+        },
+        {
+          "name": "United States",
+          "code": "USA"
+        },
+        {
+          "name": "Portugal",
+          "code": "POR"
+        },
+        {
+          "name": "Poland",
+          "code": "POL"
+        }
+      ]
+    },
+    {
+      "name": "Group E",
+      "teams": [
+        {
+          "name": "Germany",
+          "code": "GER"
+        },
+        {
+          "name": "Republic of Ireland",
+          "code": "IRL"
+        },
+        {
+          "name": "Cameroon",
+          "code": "CMR"
+        },
+        {
+          "name": "Saudi Arabia",
+          "code": "KSA"
+        }
+      ]
+    },
+    {
+      "name": "Group F",
+      "teams": [
+        {
+          "name": "Sweden",
+          "code": "SWE"
+        },
+        {
+          "name": "England",
+          "code": "ENG"
+        },
+        {
+          "name": "Argentina",
+          "code": "ARG"
+        },
+        {
+          "name": "Nigeria",
+          "code": "NGA"
+        }
+      ]
+    },
+    {
+      "name": "Group G",
+      "teams": [
+        {
+          "name": "Mexico",
+          "code": "MEX"
+        },
+        {
+          "name": "Italy",
+          "code": "ITA"
+        },
+        {
+          "name": "Croatia",
+          "code": "CRO"
+        },
+        {
+          "name": "Ecuador",
+          "code": "ECU"
+        }
+      ]
+    },
+    {
+      "name": "Group H",
+      "teams": [
+        {
+          "name": "Japan",
+          "code": "JPN"
+        },
+        {
+          "name": "Belgium",
+          "code": "BEL"
+        },
+        {
+          "name": "Russia",
+          "code": "RUS"
+        },
+        {
+          "name": "Tunisia",
+          "code": "TUN"
+        }
+      ]
+    }
+  ]
+}

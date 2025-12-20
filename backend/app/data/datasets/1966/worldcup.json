@@ -1,0 +1,892 @@
+{
+  "name": "World Cup 1966",
+  "rounds": [
+    {
+      "name": "Matchday 1",
+      "matches": [
+        {
+          "num": 1,
+          "date": "1966-07-11",
+          "time": "00:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "wembleystadium",
+            "name": "Wembley Stadium"
+          },
+          "city": "London"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 2",
+      "matches": [
+        {
+          "num": 2,
+          "date": "1966-07-12",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "score1": 5,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "hillsboroughstadium",
+            "name": "Hillsborough Stadium"
+          },
+          "city": "Sheffield"
+        },
+        {
+          "num": 3,
+          "date": "1966-07-12",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Bulgaria",
+            "code": "BUL"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "goodisonpark",
+            "name": "Goodison Park"
+          },
+          "city": "Liverpool"
+        },
+        {
+          "num": 4,
+          "date": "1966-07-12",
+          "time": "00:00",
+          "team1": {
+            "name": "Soviet Union",
+            "code": "URS"
+          },
+          "team2": {
+            "name": "Korea DPR",
+            "code": "PRK"
+          },
+          "score1": 3,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "ayresomepark",
+            "name": "Ayresome Park"
+          },
+          "city": "Middlesbrough"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 3",
+      "matches": [
+        {
+          "num": 5,
+          "date": "1966-07-13",
+          "time": "00:00",
+          "team1": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "team2": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "wembleystadium",
+            "name": "Wembley Stadium"
+          },
+          "city": "London"
+        },
+        {
+          "num": 6,
+          "date": "1966-07-13",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "villapark",
+            "name": "Villa Park"
+          },
+          "city": "Birmingham"
+        },
+        {
+          "num": 7,
+          "date": "1966-07-13",
+          "time": "00:00",
+          "team1": {
+            "name": "Portugal",
+            "code": "POR"
+          },
+          "team2": {
+            "name": "Hungary",
+            "code": "HUN"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "oldtrafford",
+            "name": "Old Trafford"
+          },
+          "city": "Manchester"
+        },
+        {
+          "num": 8,
+          "date": "1966-07-13",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "rokerpark",
+            "name": "Roker Park"
+          },
+          "city": "Sunderland"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 4",
+      "matches": [
+        {
+          "num": 9,
+          "date": "1966-07-15",
+          "time": "00:00",
+          "team1": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "team2": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "whitecitystadium",
+            "name": "White City Stadium"
+          },
+          "city": "London"
+        },
+        {
+          "num": 10,
+          "date": "1966-07-15",
+          "time": "00:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "hillsboroughstadium",
+            "name": "Hillsborough Stadium"
+          },
+          "city": "Sheffield"
+        },
+        {
+          "num": 11,
+          "date": "1966-07-15",
+          "time": "00:00",
+          "team1": {
+            "name": "Hungary",
+            "code": "HUN"
+          },
+          "team2": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "goodisonpark",
+            "name": "Goodison Park"
+          },
+          "city": "Liverpool"
+        },
+        {
+          "num": 12,
+          "date": "1966-07-15",
+          "time": "00:00",
+          "team1": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "team2": {
+            "name": "Korea DPR",
+            "code": "PRK"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "ayresomepark",
+            "name": "Ayresome Park"
+          },
+          "city": "Middlesbrough"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 5",
+      "matches": [
+        {
+          "num": 13,
+          "date": "1966-07-16",
+          "time": "00:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "wembleystadium",
+            "name": "Wembley Stadium"
+          },
+          "city": "London"
+        },
+        {
+          "num": 14,
+          "date": "1966-07-16",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "villapark",
+            "name": "Villa Park"
+          },
+          "city": "Birmingham"
+        },
+        {
+          "num": 15,
+          "date": "1966-07-16",
+          "time": "00:00",
+          "team1": {
+            "name": "Portugal",
+            "code": "POR"
+          },
+          "team2": {
+            "name": "Bulgaria",
+            "code": "BUL"
+          },
+          "score1": 3,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "oldtrafford",
+            "name": "Old Trafford"
+          },
+          "city": "Manchester"
+        },
+        {
+          "num": 16,
+          "date": "1966-07-16",
+          "time": "00:00",
+          "team1": {
+            "name": "Soviet Union",
+            "code": "URS"
+          },
+          "team2": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "rokerpark",
+            "name": "Roker Park"
+          },
+          "city": "Sunderland"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 6",
+      "matches": [
+        {
+          "num": 17,
+          "date": "1966-07-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "team2": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "wembleystadium",
+            "name": "Wembley Stadium"
+          },
+          "city": "London"
+        },
+        {
+          "num": 18,
+          "date": "1966-07-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "hillsboroughstadium",
+            "name": "Hillsborough Stadium"
+          },
+          "city": "Sheffield"
+        },
+        {
+          "num": 19,
+          "date": "1966-07-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Portugal",
+            "code": "POR"
+          },
+          "team2": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "goodisonpark",
+            "name": "Goodison Park"
+          },
+          "city": "Liverpool"
+        },
+        {
+          "num": 20,
+          "date": "1966-07-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Korea DPR",
+            "code": "PRK"
+          },
+          "team2": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "ayresomepark",
+            "name": "Ayresome Park"
+          },
+          "city": "Middlesbrough"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 7",
+      "matches": [
+        {
+          "num": 21,
+          "date": "1966-07-20",
+          "time": "00:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "wembleystadium",
+            "name": "Wembley Stadium"
+          },
+          "city": "London"
+        },
+        {
+          "num": 22,
+          "date": "1966-07-20",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "villapark",
+            "name": "Villa Park"
+          },
+          "city": "Birmingham"
+        },
+        {
+          "num": 23,
+          "date": "1966-07-20",
+          "time": "00:00",
+          "team1": {
+            "name": "Hungary",
+            "code": "HUN"
+          },
+          "team2": {
+            "name": "Bulgaria",
+            "code": "BUL"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "oldtrafford",
+            "name": "Old Trafford"
+          },
+          "city": "Manchester"
+        },
+        {
+          "num": 24,
+          "date": "1966-07-20",
+          "time": "00:00",
+          "team1": {
+            "name": "Soviet Union",
+            "code": "URS"
+          },
+          "team2": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "rokerpark",
+            "name": "Roker Park"
+          },
+          "city": "Sunderland"
+        }
+      ]
+    },
+    {
+      "name": "Quarter-finals",
+      "matches": [
+        {
+          "num": 25,
+          "date": "1966-07-23",
+          "time": "00:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "wembleystadium",
+            "name": "Wembley Stadium"
+          },
+          "city": "London"
+        },
+        {
+          "num": 26,
+          "date": "1966-07-23",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "score1": 4,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "hillsboroughstadium",
+            "name": "Hillsborough Stadium"
+          },
+          "city": "Sheffield"
+        },
+        {
+          "num": 27,
+          "date": "1966-07-23",
+          "time": "00:00",
+          "team1": {
+            "name": "Soviet Union",
+            "code": "URS"
+          },
+          "team2": {
+            "name": "Hungary",
+            "code": "HUN"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "rokerpark",
+            "name": "Roker Park"
+          },
+          "city": "Sunderland"
+        },
+        {
+          "num": 28,
+          "date": "1966-07-23",
+          "time": "00:00",
+          "team1": {
+            "name": "Portugal",
+            "code": "POR"
+          },
+          "team2": {
+            "name": "Korea DPR",
+            "code": "PRK"
+          },
+          "score1": 5,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "goodisonpark",
+            "name": "Goodison Park"
+          },
+          "city": "Liverpool"
+        }
+      ]
+    },
+    {
+      "name": "Semi-finals",
+      "matches": [
+        {
+          "num": 29,
+          "date": "1966-07-25",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Soviet Union",
+            "code": "URS"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "goodisonpark",
+            "name": "Goodison Park"
+          },
+          "city": "Liverpool"
+        },
+        {
+          "num": 30,
+          "date": "1966-07-26",
+          "time": "00:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Portugal",
+            "code": "POR"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "wembleystadium",
+            "name": "Wembley Stadium"
+          },
+          "city": "London"
+        }
+      ]
+    },
+    {
+      "name": "Third-place match",
+      "matches": [
+        {
+          "num": 31,
+          "date": "1966-07-28",
+          "time": "00:00",
+          "team1": {
+            "name": "Portugal",
+            "code": "POR"
+          },
+          "team2": {
+            "name": "Soviet Union",
+            "code": "URS"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "wembleystadium",
+            "name": "Wembley Stadium"
+          },
+          "city": "London"
+        }
+      ]
+    },
+    {
+      "name": "Final",
+      "matches": [
+        {
+          "num": 32,
+          "date": "1966-07-30",
+          "time": "00:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "score1": 4,
+          "score2": 2,
+          "score1i": 2,
+          "score2i": 2,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 4,
+          "score2et": 2,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "wembleystadium",
+            "name": "Wembley Stadium"
+          },
+          "city": "London"
+        }
+      ]
+    }
+  ]
+}

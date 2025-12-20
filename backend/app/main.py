@@ -13,7 +13,17 @@ router = APIRouter(prefix="/api/v1", tags=["analisis"])
 
 BASE_DIR = Path(__file__).resolve().parent
 DATASETS_DIR = BASE_DIR / "data" / "datasets"
-YEARS = ["2014", "2018"]
+
+def get_available_years(datasets_dir: Path) -> List[str]:
+    years = []
+    if datasets_dir.exists():
+        for item in datasets_dir.iterdir():
+            if item.is_dir() and item.name.isdigit():
+                if (item / "worldcup.json").exists():
+                    years.append(item.name)
+    return sorted(years)
+
+YEARS = get_available_years(DATASETS_DIR)
 
 try:
     all_teams = {}

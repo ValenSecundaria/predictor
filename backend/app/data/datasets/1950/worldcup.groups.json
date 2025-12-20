@@ -1,0 +1,106 @@
+{
+  "name": "World Cup 1950",
+  "groups": [
+    {
+      "name": "Group 1",
+      "teams": [
+        {
+          "name": "Brazil",
+          "code": "BRA"
+        },
+        {
+          "name": "Mexico",
+          "code": "MEX"
+        },
+        {
+          "name": "Switzerland",
+          "code": "SUI"
+        },
+        {
+          "name": "Yugoslavia",
+          "code": "YUG"
+        }
+      ]
+    },
+    {
+      "name": "Group 2",
+      "teams": [
+        {
+          "name": "England",
+          "code": "ENG"
+        },
+        {
+          "name": "Chile",
+          "code": "CHI"
+        },
+        {
+          "name": "Spain",
+          "code": "ESP"
+        },
+        {
+          "name": "United States",
+          "code": "USA"
+        }
+      ]
+    },
+    {
+      "name": "Group 3",
+      "teams": [
+        {
+          "name": "Italy",
+          "code": "ITA"
+        },
+        {
+          "name": "India",
+          "code": "IND"
+        },
+        {
+          "name": "Paraguay",
+          "code": "PAR"
+        },
+        {
+          "name": "Sweden",
+          "code": "SWE"
+        }
+      ]
+    },
+    {
+      "name": "Group 4",
+      "teams": [
+        {
+          "name": "Uruguay",
+          "code": "URU"
+        },
+        {
+          "name": "Bolivia",
+          "code": "BOL"
+        },
+        {
+          "name": "France",
+          "code": "FRA"
+        }
+      ]
+    },
+    {
+      "name": "Group F",
+      "teams": [
+        {
+          "name": "Uruguay",
+          "code": "URU"
+        },
+        {
+          "name": "Brazil",
+          "code": "BRA"
+        },
+        {
+          "name": "Sweden",
+          "code": "SWE"
+        },
+        {
+          "name": "Spain",
+          "code": "ESP"
+        }
+      ]
+    }
+  ]
+}

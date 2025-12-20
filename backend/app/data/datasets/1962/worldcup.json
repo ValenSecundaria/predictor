@@ -1,0 +1,887 @@
+{
+  "name": "World Cup 1962",
+  "rounds": [
+    {
+      "name": "Matchday 1",
+      "matches": [
+        {
+          "num": 1,
+          "date": "1962-05-30",
+          "time": "00:00",
+          "team1": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "team2": {
+            "name": "Colombia",
+            "code": "COL"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "carlosdittborn",
+            "name": "Estadio Carlos Dittborn"
+          },
+          "city": "Arica"
+        },
+        {
+          "num": 2,
+          "date": "1962-05-30",
+          "time": "00:00",
+          "team1": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "team2": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "nacional",
+            "name": "Estadio Nacional"
+          },
+          "city": "Santiago"
+        },
+        {
+          "num": 3,
+          "date": "1962-05-30",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "sausalito",
+            "name": "Estadio Sausalito"
+          },
+          "city": "Viña del Mar"
+        },
+        {
+          "num": 4,
+          "date": "1962-05-30",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Bulgaria",
+            "code": "BUL"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "elteniente",
+            "name": "Estadio El Teniente"
+          },
+          "city": "Rancagua"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 2",
+      "matches": [
+        {
+          "num": 5,
+          "date": "1962-05-31",
+          "time": "00:00",
+          "team1": {
+            "name": "Soviet Union",
+            "code": "URS"
+          },
+          "team2": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "carlosdittborn",
+            "name": "Estadio Carlos Dittborn"
+          },
+          "city": "Arica"
+        },
+        {
+          "num": 6,
+          "date": "1962-05-31",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "nacional",
+            "name": "Estadio Nacional"
+          },
+          "city": "Santiago"
+        },
+        {
+          "num": 7,
+          "date": "1962-05-31",
+          "time": "00:00",
+          "team1": {
+            "name": "Czechoslovakia",
+            "code": "TCH"
+          },
+          "team2": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "sausalito",
+            "name": "Estadio Sausalito"
+          },
+          "city": "Viña del Mar"
+        },
+        {
+          "num": 8,
+          "date": "1962-05-31",
+          "time": "00:00",
+          "team1": {
+            "name": "Hungary",
+            "code": "HUN"
+          },
+          "team2": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "elteniente",
+            "name": "Estadio El Teniente"
+          },
+          "city": "Rancagua"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 3",
+      "matches": [
+        {
+          "num": 9,
+          "date": "1962-06-02",
+          "time": "00:00",
+          "team1": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "team2": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "carlosdittborn",
+            "name": "Estadio Carlos Dittborn"
+          },
+          "city": "Arica"
+        },
+        {
+          "num": 10,
+          "date": "1962-06-02",
+          "time": "00:00",
+          "team1": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "team2": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "nacional",
+            "name": "Estadio Nacional"
+          },
+          "city": "Santiago"
+        },
+        {
+          "num": 11,
+          "date": "1962-06-02",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Czechoslovakia",
+            "code": "TCH"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "sausalito",
+            "name": "Estadio Sausalito"
+          },
+          "city": "Viña del Mar"
+        },
+        {
+          "num": 12,
+          "date": "1962-06-02",
+          "time": "00:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "elteniente",
+            "name": "Estadio El Teniente"
+          },
+          "city": "Rancagua"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 4",
+      "matches": [
+        {
+          "num": 13,
+          "date": "1962-06-03",
+          "time": "00:00",
+          "team1": {
+            "name": "Soviet Union",
+            "code": "URS"
+          },
+          "team2": {
+            "name": "Colombia",
+            "code": "COL"
+          },
+          "score1": 4,
+          "score2": 4,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "carlosdittborn",
+            "name": "Estadio Carlos Dittborn"
+          },
+          "city": "Arica"
+        },
+        {
+          "num": 14,
+          "date": "1962-06-03",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "nacional",
+            "name": "Estadio Nacional"
+          },
+          "city": "Santiago"
+        },
+        {
+          "num": 15,
+          "date": "1962-06-03",
+          "time": "00:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "sausalito",
+            "name": "Estadio Sausalito"
+          },
+          "city": "Viña del Mar"
+        },
+        {
+          "num": 16,
+          "date": "1962-06-03",
+          "time": "00:00",
+          "team1": {
+            "name": "Hungary",
+            "code": "HUN"
+          },
+          "team2": {
+            "name": "Bulgaria",
+            "code": "BUL"
+          },
+          "score1": 6,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "elteniente",
+            "name": "Estadio El Teniente"
+          },
+          "city": "Rancagua"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 5",
+      "matches": [
+        {
+          "num": 17,
+          "date": "1962-06-06",
+          "time": "00:00",
+          "team1": {
+            "name": "Soviet Union",
+            "code": "URS"
+          },
+          "team2": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "carlosdittborn",
+            "name": "Estadio Carlos Dittborn"
+          },
+          "city": "Arica"
+        },
+        {
+          "num": 18,
+          "date": "1962-06-06",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "nacional",
+            "name": "Estadio Nacional"
+          },
+          "city": "Santiago"
+        },
+        {
+          "num": 19,
+          "date": "1962-06-06",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "sausalito",
+            "name": "Estadio Sausalito"
+          },
+          "city": "Viña del Mar"
+        },
+        {
+          "num": 20,
+          "date": "1962-06-06",
+          "time": "00:00",
+          "team1": {
+            "name": "Hungary",
+            "code": "HUN"
+          },
+          "team2": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "elteniente",
+            "name": "Estadio El Teniente"
+          },
+          "city": "Rancagua"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 6",
+      "matches": [
+        {
+          "num": 21,
+          "date": "1962-06-07",
+          "time": "00:00",
+          "team1": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "team2": {
+            "name": "Colombia",
+            "code": "COL"
+          },
+          "score1": 5,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "carlosdittborn",
+            "name": "Estadio Carlos Dittborn"
+          },
+          "city": "Arica"
+        },
+        {
+          "num": 22,
+          "date": "1962-06-07",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "score1": 3,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "nacional",
+            "name": "Estadio Nacional"
+          },
+          "city": "Santiago"
+        },
+        {
+          "num": 23,
+          "date": "1962-06-07",
+          "time": "00:00",
+          "team1": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "team2": {
+            "name": "Czechoslovakia",
+            "code": "TCH"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "sausalito",
+            "name": "Estadio Sausalito"
+          },
+          "city": "Viña del Mar"
+        },
+        {
+          "num": 24,
+          "date": "1962-06-07",
+          "time": "00:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Bulgaria",
+            "code": "BUL"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "elteniente",
+            "name": "Estadio El Teniente"
+          },
+          "city": "Rancagua"
+        }
+      ]
+    },
+    {
+      "name": "Quarter-finals",
+      "matches": [
+        {
+          "num": 25,
+          "date": "1962-06-10",
+          "time": "00:00",
+          "team1": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "team2": {
+            "name": "Soviet Union",
+            "code": "URS"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "carlosdittborn",
+            "name": "Estadio Carlos Dittborn"
+          },
+          "city": "Arica"
+        },
+        {
+          "num": 26,
+          "date": "1962-06-10",
+          "time": "00:00",
+          "team1": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "team2": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "nacional",
+            "name": "Estadio Nacional"
+          },
+          "city": "Santiago"
+        },
+        {
+          "num": 27,
+          "date": "1962-06-10",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "sausalito",
+            "name": "Estadio Sausalito"
+          },
+          "city": "Viña del Mar"
+        },
+        {
+          "num": 28,
+          "date": "1962-06-10",
+          "time": "00:00",
+          "team1": {
+            "name": "Czechoslovakia",
+            "code": "TCH"
+          },
+          "team2": {
+            "name": "Hungary",
+            "code": "HUN"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "elteniente",
+            "name": "Estadio El Teniente"
+          },
+          "city": "Rancagua"
+        }
+      ]
+    },
+    {
+      "name": "Semi-finals",
+      "matches": [
+        {
+          "num": 29,
+          "date": "1962-06-13",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "score1": 4,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "nacional",
+            "name": "Estadio Nacional"
+          },
+          "city": "Santiago"
+        },
+        {
+          "num": 30,
+          "date": "1962-06-13",
+          "time": "00:00",
+          "team1": {
+            "name": "Czechoslovakia",
+            "code": "TCH"
+          },
+          "team2": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "sausalito",
+            "name": "Estadio Sausalito"
+          },
+          "city": "Viña del Mar"
+        }
+      ]
+    },
+    {
+      "name": "Third-place match",
+      "matches": [
+        {
+          "num": 31,
+          "date": "1962-06-16",
+          "time": "00:00",
+          "team1": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "team2": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "nacional",
+            "name": "Estadio Nacional"
+          },
+          "city": "Santiago"
+        }
+      ]
+    },
+    {
+      "name": "Final",
+      "matches": [
+        {
+          "num": 32,
+          "date": "1962-06-17",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Czechoslovakia",
+            "code": "TCH"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "nacional",
+            "name": "Estadio Nacional"
+          },
+          "city": "Santiago"
+        }
+      ]
+    }
+  ]
+}

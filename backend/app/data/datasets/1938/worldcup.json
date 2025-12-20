@@ -1,0 +1,944 @@
+{
+  "name": "World Cup 1938",
+  "rounds": [
+    {
+      "name": "Matchday 1",
+      "matches": [
+        {
+          "num": 1,
+          "date": "1938-06-04",
+          "time": "00:00",
+          "team1": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "team2": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [
+            {
+              "name": "Abegglen",
+              "minute": 43,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Gauchel",
+              "minute": 29,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
+          "stadium": {
+            "key": "parcdesprinces",
+            "name": "Parc des Princes"
+          },
+          "city": "Paris"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 2",
+      "matches": [
+        {
+          "num": 2,
+          "date": "1938-06-05",
+          "time": "00:00",
+          "team1": {
+            "name": "Hungary",
+            "code": "HUN"
+          },
+          "team2": {
+            "name": "Indonesia",
+            "code": "IDN"
+          },
+          "score1": 6,
+          "score2": 0,
+          "score1i": 4,
+          "score2i": 0,
+          "goals1": [
+            {
+              "name": "Kohut",
+              "minute": 14,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Toldi",
+              "minute": 16,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Sárosi",
+              "minute": 25,
+              "score1": 3,
+              "score2": 0
+            },
+            {
+              "name": "' Zsengellér",
+              "minute": 30,
+              "score1": 4,
+              "score2": 0
+            }
+          ],
+          "goals2": [],
+          "stadium": {
+            "key": "velodromemunicipal",
+            "name": "Vélodrome Municipal"
+          },
+          "city": "Reims"
+        },
+        {
+          "num": 3,
+          "date": "1938-06-05",
+          "time": "00:00",
+          "team1": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "team2": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": 2,
+          "score2i": 1,
+          "goals1": [
+            {
+              "name": "Veinante",
+              "minute": 1,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Nicolas",
+              "minute": 16,
+              "score1": 2,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Isemborghs",
+              "minute": 38,
+              "score1": 2,
+              "score2": 1
+            }
+          ],
+          "stadium": {
+            "key": "stadeolympiquedecolombes",
+            "name": "Stade Olympique de Colombes"
+          },
+          "city": "Paris"
+        },
+        {
+          "num": 4,
+          "date": "1938-06-05",
+          "time": "00:00",
+          "team1": {
+            "name": "Cuba",
+            "code": "CUB"
+          },
+          "team2": {
+            "name": "Romania",
+            "code": "ROU"
+          },
+          "score1": 3,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [
+            {
+              "name": "Socorro",
+              "minute": 44,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Fernández",
+              "minute": 87,
+              "score1": 2,
+              "score2": 1
+            },
+            {
+              "name": "Tuñas",
+              "minute": 117,
+              "score1": 3,
+              "score2": 3
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Bindea",
+              "minute": 35,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Baratky",
+              "minute": 88,
+              "score1": 2,
+              "score2": 2
+            },
+            {
+              "name": "Dobay",
+              "minute": 105,
+              "score1": 2,
+              "score2": 3
+            }
+          ],
+          "stadium": {
+            "key": "stadechapou",
+            "name": "Stade Chapou"
+          },
+          "city": "Toulouse"
+        },
+        {
+          "num": 5,
+          "date": "1938-06-05",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Norway",
+            "code": "NOR"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [
+            {
+              "name": "Ferraris",
+              "minute": 2,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Piola",
+              "minute": 94,
+              "score1": 2,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Brustad",
+              "minute": 83,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "stadium": {
+            "key": "stadevelodrome",
+            "name": "Stade Vélodrome"
+          },
+          "city": "Marseille"
+        },
+        {
+          "num": 6,
+          "date": "1938-06-05",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "score1": 6,
+          "score2": 5,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [
+            {
+              "name": "Leônidas",
+              "minute": 18,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "' Romeu",
+              "minute": 25,
+              "score1": 2,
+              "score2": 1
+            },
+            {
+              "name": "Perácio",
+              "minute": 44,
+              "score1": 3,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Scherfke",
+              "minute": 23,
+              "score1": 1,
+              "score2": 1,
+              "penalty": true
+            },
+            {
+              "name": "Wilimowski",
+              "minute": 53,
+              "score1": 3,
+              "score2": 2
+            }
+          ],
+          "stadium": {
+            "key": "stadedelameinau",
+            "name": "Stade de la Meinau"
+          },
+          "city": "Strasbourg"
+        },
+        {
+          "num": 7,
+          "date": "1938-06-05",
+          "time": "00:00",
+          "team1": {
+            "name": "Czechoslovakia",
+            "code": "TCH"
+          },
+          "team2": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "score1": 3,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [
+            {
+              "name": "álek",
+              "minute": 93,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Nejedlý",
+              "minute": 111,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Zeman",
+              "minute": 118,
+              "score1": 3,
+              "score2": 0
+            }
+          ],
+          "goals2": [],
+          "stadium": {
+            "key": "stademunicipal",
+            "name": "Stade municipal"
+          },
+          "city": "Le Havre"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 3",
+      "matches": [
+        {
+          "num": 8,
+          "date": "1938-06-09",
+          "time": "00:00",
+          "team1": {
+            "name": "Cuba",
+            "code": "CUB"
+          },
+          "team2": {
+            "name": "Romania",
+            "code": "ROU"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": 0,
+          "score2i": 1,
+          "goals1": [
+            {
+              "name": "Socorro",
+              "minute": 51,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Oliveira",
+              "minute": 57,
+              "score1": 2,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Dobay",
+              "minute": 35,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
+          "stadium": {
+            "key": "stadechapou",
+            "name": "Stade Chapou"
+          },
+          "city": "Toulouse"
+        },
+        {
+          "num": 9,
+          "date": "1938-06-09",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "score1": 2,
+          "score2": 4,
+          "score1i": 2,
+          "score2i": 1,
+          "goals1": [
+            {
+              "name": "Hahnemann",
+              "minute": 8,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Lörtscher",
+              "minute": 22,
+              "score1": 1,
+              "score2": 1,
+              "owngoal": true
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Walaschek",
+              "minute": 42,
+              "score1": 1,
+              "score2": 2
+            },
+            {
+              "name": "Bickel",
+              "minute": 64,
+              "score1": 1,
+              "score2": 3
+            },
+            {
+              "name": "Abegglen",
+              "minute": 75,
+              "score1": 1,
+              "score2": 4
+            }
+          ],
+          "stadium": {
+            "key": "parcdesprinces",
+            "name": "Parc des Princes"
+          },
+          "city": "Paris"
+        }
+      ]
+    },
+    {
+      "name": "Quarter-finals",
+      "matches": [
+        {
+          "num": 10,
+          "date": "1938-06-12",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Czechoslovakia",
+            "code": "TCH"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [
+            {
+              "name": "Leônidas",
+              "minute": 30,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Nejedlý",
+              "minute": 65,
+              "score1": 1,
+              "score2": 1,
+              "penalty": true
+            }
+          ],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "parclescure",
+            "name": "Parc Lescure"
+          },
+          "city": "Bordeaux"
+        },
+        {
+          "num": 11,
+          "date": "1938-06-12",
+          "time": "00:00",
+          "team1": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "team2": {
+            "name": "Hungary",
+            "code": "HUN"
+          },
+          "score1": 0,
+          "score2": 2,
+          "score1i": 0,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [
+            {
+              "name": "Sárosi",
+              "minute": 40,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Zsengellér",
+              "minute": 89,
+              "score1": 0,
+              "score2": 2
+            }
+          ],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadevictorboucquey",
+            "name": "Stade Victor Boucquey"
+          },
+          "city": "Lille"
+        },
+        {
+          "num": 12,
+          "date": "1938-06-12",
+          "time": "00:00",
+          "team1": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "team2": {
+            "name": "Cuba",
+            "code": "CUB"
+          },
+          "score1": 8,
+          "score2": 0,
+          "score1i": 4,
+          "score2i": 0,
+          "goals1": [
+            {
+              "name": "H. Andersson",
+              "minute": 9,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "' Wetterström",
+              "minute": 32,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "' Keller",
+              "minute": 80,
+              "score1": 3,
+              "score2": 0
+            },
+            {
+              "name": "Nyberg",
+              "minute": 84,
+              "score1": 4,
+              "score2": 0
+            }
+          ],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadedufortcarre",
+            "name": "Stade du Fort Carré"
+          },
+          "city": "Antibes"
+        },
+        {
+          "num": 13,
+          "date": "1938-06-12",
+          "time": "00:00",
+          "team1": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "team2": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "score1": 1,
+          "score2": 3,
+          "score1i": 1,
+          "score2i": 1,
+          "goals1": [
+            {
+              "name": "Heisserer",
+              "minute": 10,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Colaussi",
+              "minute": 9,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Piola",
+              "minute": 51,
+              "score1": 1,
+              "score2": 2
+            }
+          ],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadeolympiquedecolombes",
+            "name": "Stade Olympique de Colombes"
+          },
+          "city": "Paris"
+        },
+        {
+          "num": 14,
+          "date": "1938-06-14",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Czechoslovakia",
+            "code": "TCH"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": 0,
+          "score2i": 1,
+          "goals1": [
+            {
+              "name": "Leônidas",
+              "minute": 57,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Roberto",
+              "minute": 62,
+              "score1": 2,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Kopecký",
+              "minute": 25,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "parclescure",
+            "name": "Parc Lescure"
+          },
+          "city": "Bordeaux"
+        }
+      ]
+    },
+    {
+      "name": "Semi-finals",
+      "matches": [
+        {
+          "num": 15,
+          "date": "1938-06-16",
+          "time": "00:00",
+          "team1": {
+            "name": "Hungary",
+            "code": "HUN"
+          },
+          "team2": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "score1": 5,
+          "score2": 1,
+          "score1i": 3,
+          "score2i": 1,
+          "goals1": [
+            {
+              "name": "Jacobsson",
+              "minute": 19,
+              "score1": 0,
+              "score2": 2,
+              "owngoal": true
+            },
+            {
+              "name": "Titkos",
+              "minute": 37,
+              "score1": 1,
+              "score2": 2
+            },
+            {
+              "name": "Zsengellér",
+              "minute": 39,
+              "score1": 2,
+              "score2": 2
+            },
+            {
+              "name": "' Sárosi",
+              "minute": 65,
+              "score1": 3,
+              "score2": 2
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Nyberg",
+              "minute": 1,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "parcdesprinces",
+            "name": "Parc des Princes"
+          },
+          "city": "Paris"
+        },
+        {
+          "num": 16,
+          "date": "1938-06-16",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [
+            {
+              "name": "Colaussi",
+              "minute": 51,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Meazza",
+              "minute": 60,
+              "score1": 2,
+              "score2": 0,
+              "penalty": true
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Romeu",
+              "minute": 87,
+              "score1": 2,
+              "score2": 1
+            }
+          ],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadevelodrome",
+            "name": "Stade Vélodrome"
+          },
+          "city": "Marseille"
+        }
+      ]
+    },
+    {
+      "name": "Third-place match",
+      "matches": [
+        {
+          "num": 17,
+          "date": "1938-06-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "team2": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "score1": 2,
+          "score2": 4,
+          "score1i": 2,
+          "score2i": 1,
+          "goals1": [
+            {
+              "name": "Jonasson",
+              "minute": 28,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Nyberg",
+              "minute": 38,
+              "score1": 2,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Romeu",
+              "minute": 44,
+              "score1": 2,
+              "score2": 1
+            },
+            {
+              "name": "Leônidas",
+              "minute": 63,
+              "score1": 2,
+              "score2": 2
+            },
+            {
+              "name": "' Perácio",
+              "minute": 80,
+              "score1": 2,
+              "score2": 3
+            }
+          ],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "parclescure",
+            "name": "Parc Lescure"
+          },
+          "city": "Bordeaux"
+        }
+      ]
+    },
+    {
+      "name": "Final",
+      "matches": [
+        {
+          "num": 18,
+          "date": "1938-06-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Hungary",
+            "code": "HUN"
+          },
+          "team2": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "score1": 2,
+          "score2": 4,
+          "score1i": 1,
+          "score2i": 3,
+          "goals1": [
+            {
+              "name": "Titkos",
+              "minute": 8,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Sárosi",
+              "minute": 70,
+              "score1": 2,
+              "score2": 2
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Colaussi",
+              "minute": 6,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "' Piola",
+              "minute": 16,
+              "score1": 1,
+              "score2": 2
+            }
+          ],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadeolympiquedecolombes",
+            "name": "Stade Olympique de Colombes"
+          },
+          "city": "Paris"
+        }
+      ]
+    }
+  ]
+}

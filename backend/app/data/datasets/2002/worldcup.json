@@ -1,0 +1,1764 @@
+{
+  "name": "World Cup 2002",
+  "rounds": [
+    {
+      "name": "Matchday 1",
+      "matches": [
+        {
+          "num": 1,
+          "date": "2002-05-31",
+          "time": "00:00",
+          "team1": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "team2": {
+            "name": "Senegal",
+            "code": "SEN"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "seoulworldcupstadium",
+            "name": "Seoul World Cup Stadium"
+          },
+          "city": "Seoul"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 2",
+      "matches": [
+        {
+          "num": 2,
+          "date": "2002-06-01",
+          "time": "00:00",
+          "team1": {
+            "name": "Republic of Ireland",
+            "code": "IRL"
+          },
+          "team2": {
+            "name": "Cameroon",
+            "code": "CMR"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "niigatastadium",
+            "name": "Niigata Stadium"
+          },
+          "city": "Niigata"
+        },
+        {
+          "num": 3,
+          "date": "2002-06-01",
+          "time": "00:00",
+          "team1": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "team2": {
+            "name": "Denmark",
+            "code": "DEN"
+          },
+          "score1": 1,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "munsucupstadium",
+            "name": "Munsu Cup Stadium"
+          },
+          "city": "Ulsan"
+        },
+        {
+          "num": 4,
+          "date": "2002-06-01",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Saudi Arabia",
+            "code": "KSA"
+          },
+          "score1": 8,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "sapporodome",
+            "name": "Sapporo Dome"
+          },
+          "city": "Sapporo"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 3",
+      "matches": [
+        {
+          "num": 5,
+          "date": "2002-06-02",
+          "time": "00:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "saitamastadium",
+            "name": "Saitama Stadium"
+          },
+          "city": "Saitama"
+        },
+        {
+          "num": 6,
+          "date": "2002-06-02",
+          "time": "00:00",
+          "team1": {
+            "name": "Paraguay",
+            "code": "PAR"
+          },
+          "team2": {
+            "name": "South Africa",
+            "code": "RSA"
+          },
+          "score1": 2,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "asiadmainstadium",
+            "name": "Asiad Main Stadium"
+          },
+          "city": "Busan"
+        },
+        {
+          "num": 7,
+          "date": "2002-06-02",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Nigeria",
+            "code": "NGA"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "kashimasoccerstadium",
+            "name": "Kashima Soccer Stadium"
+          },
+          "city": "Ibaraki"
+        },
+        {
+          "num": 8,
+          "date": "2002-06-02",
+          "time": "00:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "Slovenia",
+            "code": "SVN"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "gwangjuworldcupstadium",
+            "name": "Gwangju World Cup Stadium"
+          },
+          "city": "Gwangju"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 4",
+      "matches": [
+        {
+          "num": 9,
+          "date": "2002-06-03",
+          "time": "00:00",
+          "team1": {
+            "name": "Croatia",
+            "code": "CRO"
+          },
+          "team2": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group G",
+          "stadium": {
+            "key": "niigatastadium",
+            "name": "Niigata Stadium"
+          },
+          "city": "Niigata"
+        },
+        {
+          "num": 10,
+          "date": "2002-06-03",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Turkey",
+            "code": "TUR"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "munsucupstadium",
+            "name": "Munsu Cup Stadium"
+          },
+          "city": "Ulsan"
+        },
+        {
+          "num": 11,
+          "date": "2002-06-03",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Ecuador",
+            "code": "ECU"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group G",
+          "stadium": {
+            "key": "sapporodome",
+            "name": "Sapporo Dome"
+          },
+          "city": "Sapporo"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 5",
+      "matches": [
+        {
+          "num": 12,
+          "date": "2002-06-04",
+          "time": "00:00",
+          "team1": {
+            "name": "China PR",
+            "code": "CHN"
+          },
+          "team2": {
+            "name": "Costa Rica",
+            "code": "CRC"
+          },
+          "score1": 0,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "gwangjuworldcupstadium",
+            "name": "Gwangju World Cup Stadium"
+          },
+          "city": "Gwangju"
+        },
+        {
+          "num": 13,
+          "date": "2002-06-04",
+          "time": "00:00",
+          "team1": {
+            "name": "Japan",
+            "code": "JPN"
+          },
+          "team2": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "score1": 2,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group H",
+          "stadium": {
+            "key": "saitamastadium",
+            "name": "Saitama Stadium"
+          },
+          "city": "Saitama"
+        },
+        {
+          "num": 14,
+          "date": "2002-06-04",
+          "time": "00:00",
+          "team1": {
+            "name": "Korea Republic",
+            "code": "KOR"
+          },
+          "team2": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "asiadmainstadium",
+            "name": "Asiad Main Stadium"
+          },
+          "city": "Busan"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 6",
+      "matches": [
+        {
+          "num": 15,
+          "date": "2002-06-05",
+          "time": "00:00",
+          "team1": {
+            "name": "Russia",
+            "code": "RUS"
+          },
+          "team2": {
+            "name": "Tunisia",
+            "code": "TUN"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group H",
+          "stadium": {
+            "key": "kobewingstadium",
+            "name": "Kobe Wing Stadium"
+          },
+          "city": "Kobe"
+        },
+        {
+          "num": 16,
+          "date": "2002-06-05",
+          "time": "00:00",
+          "team1": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "team2": {
+            "name": "Portugal",
+            "code": "POR"
+          },
+          "score1": 3,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "suwonworldcupstadium",
+            "name": "Suwon World Cup Stadium"
+          },
+          "city": "Suwon"
+        },
+        {
+          "num": 17,
+          "date": "2002-06-05",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Republic of Ireland",
+            "code": "IRL"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "kashimasoccerstadium",
+            "name": "Kashima Soccer Stadium"
+          },
+          "city": "Ibaraki"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 7",
+      "matches": [
+        {
+          "num": 18,
+          "date": "2002-06-06",
+          "time": "00:00",
+          "team1": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "team2": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "asiadmainstadium",
+            "name": "Asiad Main Stadium"
+          },
+          "city": "Busan"
+        },
+        {
+          "num": 19,
+          "date": "2002-06-06",
+          "time": "00:00",
+          "team1": {
+            "name": "Denmark",
+            "code": "DEN"
+          },
+          "team2": {
+            "name": "Senegal",
+            "code": "SEN"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "daeguworldcupstadium",
+            "name": "Daegu World Cup Stadium"
+          },
+          "city": "Daegu"
+        },
+        {
+          "num": 19,
+          "date": "2002-06-06",
+          "time": "00:00",
+          "team1": {
+            "name": "Cameroon",
+            "code": "CMR"
+          },
+          "team2": {
+            "name": "Saudi Arabia",
+            "code": "KSA"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "saitamastadium",
+            "name": "Saitama Stadium"
+          },
+          "city": "Saitama"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 8",
+      "matches": [
+        {
+          "num": 21,
+          "date": "2002-06-07",
+          "time": "00:00",
+          "team1": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "team2": {
+            "name": "Nigeria",
+            "code": "NGA"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "kobewingstadium",
+            "name": "Kobe Wing Stadium"
+          },
+          "city": "Kobe"
+        },
+        {
+          "num": 22,
+          "date": "2002-06-07",
+          "time": "00:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "Paraguay",
+            "code": "PAR"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "jeonjuworldcupstadium",
+            "name": "Jeonju World Cup Stadium"
+          },
+          "city": "Jeonju"
+        },
+        {
+          "num": 23,
+          "date": "2002-06-07",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "sapporodome",
+            "name": "Sapporo Dome"
+          },
+          "city": "Sapporo"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 9",
+      "matches": [
+        {
+          "num": 24,
+          "date": "2002-06-08",
+          "time": "00:00",
+          "team1": {
+            "name": "South Africa",
+            "code": "RSA"
+          },
+          "team2": {
+            "name": "Slovenia",
+            "code": "SVN"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "daeguworldcupstadium",
+            "name": "Daegu World Cup Stadium"
+          },
+          "city": "Daegu"
+        },
+        {
+          "num": 25,
+          "date": "2002-06-08",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Croatia",
+            "code": "CRO"
+          },
+          "score1": 1,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group G",
+          "stadium": {
+            "key": "kashimasoccerstadium",
+            "name": "Kashima Soccer Stadium"
+          },
+          "city": "Ibaraki"
+        },
+        {
+          "num": 26,
+          "date": "2002-06-08",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "China PR",
+            "code": "CHN"
+          },
+          "score1": 4,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "jejuworldcupstadium",
+            "name": "Jeju World Cup Stadium"
+          },
+          "city": "Jeju"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 10",
+      "matches": [
+        {
+          "num": 27,
+          "date": "2002-06-09",
+          "time": "00:00",
+          "team1": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "team2": {
+            "name": "Ecuador",
+            "code": "ECU"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group G",
+          "stadium": {
+            "key": "miyagistadium",
+            "name": "Miyagi Stadium"
+          },
+          "city": "Miyagi"
+        },
+        {
+          "num": 28,
+          "date": "2002-06-09",
+          "time": "00:00",
+          "team1": {
+            "name": "Costa Rica",
+            "code": "CRC"
+          },
+          "team2": {
+            "name": "Turkey",
+            "code": "TUR"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "incheonmunhakstadium",
+            "name": "Incheon Munhak Stadium"
+          },
+          "city": "Incheon"
+        },
+        {
+          "num": 29,
+          "date": "2002-06-09",
+          "time": "00:00",
+          "team1": {
+            "name": "Japan",
+            "code": "JPN"
+          },
+          "team2": {
+            "name": "Russia",
+            "code": "RUS"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group H",
+          "stadium": {
+            "key": "internationalstadiumyokohama",
+            "name": "International Stadium Yokohama"
+          },
+          "city": "Yokohama"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 11",
+      "matches": [
+        {
+          "num": 30,
+          "date": "2002-06-10",
+          "time": "00:00",
+          "team1": {
+            "name": "Korea Republic",
+            "code": "KOR"
+          },
+          "team2": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "daeguworldcupstadium",
+            "name": "Daegu World Cup Stadium"
+          },
+          "city": "Daegu"
+        },
+        {
+          "num": 31,
+          "date": "2002-06-10",
+          "time": "00:00",
+          "team1": {
+            "name": "Tunisia",
+            "code": "TUN"
+          },
+          "team2": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group H",
+          "stadium": {
+            "key": "oitastadium",
+            "name": "Ōita Stadium"
+          },
+          "city": "Ōita"
+        },
+        {
+          "num": 32,
+          "date": "2002-06-10",
+          "time": "00:00",
+          "team1": {
+            "name": "Portugal",
+            "code": "POR"
+          },
+          "team2": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "score1": 4,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "jeonjuworldcupstadium",
+            "name": "Jeonju World Cup Stadium"
+          },
+          "city": "Jeonju"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 12",
+      "matches": [
+        {
+          "num": 33,
+          "date": "2002-06-11",
+          "time": "00:00",
+          "team1": {
+            "name": "Denmark",
+            "code": "DEN"
+          },
+          "team2": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "incheonmunhakstadium",
+            "name": "Incheon Munhak Stadium"
+          },
+          "city": "Incheon"
+        },
+        {
+          "num": 34,
+          "date": "2002-06-11",
+          "time": "00:00",
+          "team1": {
+            "name": "Senegal",
+            "code": "SEN"
+          },
+          "team2": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "score1": 3,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "suwonworldcupstadium",
+            "name": "Suwon World Cup Stadium"
+          },
+          "city": "Suwon"
+        },
+        {
+          "num": 35,
+          "date": "2002-06-11",
+          "time": "00:00",
+          "team1": {
+            "name": "Cameroon",
+            "code": "CMR"
+          },
+          "team2": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "score1": 0,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "shizuokastadium",
+            "name": "Shizuoka Stadium"
+          },
+          "city": "Shizuoka"
+        },
+        {
+          "num": 36,
+          "date": "2002-06-11",
+          "time": "00:00",
+          "team1": {
+            "name": "Saudi Arabia",
+            "code": "KSA"
+          },
+          "team2": {
+            "name": "Republic of Ireland",
+            "code": "IRL"
+          },
+          "score1": 0,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "internationalstadiumyokohama",
+            "name": "International Stadium Yokohama"
+          },
+          "city": "Yokohama"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 13",
+      "matches": [
+        {
+          "num": 37,
+          "date": "2002-06-12",
+          "time": "00:00",
+          "team1": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "team2": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "miyagistadium",
+            "name": "Miyagi Stadium"
+          },
+          "city": "Miyagi"
+        },
+        {
+          "num": 38,
+          "date": "2002-06-12",
+          "time": "00:00",
+          "team1": {
+            "name": "Nigeria",
+            "code": "NGA"
+          },
+          "team2": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "nagaistadium",
+            "name": "Nagai Stadium"
+          },
+          "city": "Osaka"
+        },
+        {
+          "num": 39,
+          "date": "2002-06-12",
+          "time": "00:00",
+          "team1": {
+            "name": "South Africa",
+            "code": "RSA"
+          },
+          "team2": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "score1": 2,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "daejeonworldcupstadium",
+            "name": "Daejeon World Cup Stadium"
+          },
+          "city": "Daejeon"
+        },
+        {
+          "num": 40,
+          "date": "2002-06-12",
+          "time": "00:00",
+          "team1": {
+            "name": "Slovenia",
+            "code": "SVN"
+          },
+          "team2": {
+            "name": "Paraguay",
+            "code": "PAR"
+          },
+          "score1": 1,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "jejuworldcupstadium",
+            "name": "Jeju World Cup Stadium"
+          },
+          "city": "Jeju"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 14",
+      "matches": [
+        {
+          "num": 41,
+          "date": "2002-06-13",
+          "time": "00:00",
+          "team1": {
+            "name": "Costa Rica",
+            "code": "CRC"
+          },
+          "team2": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "score1": 2,
+          "score2": 5,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "suwonworldcupstadium",
+            "name": "Suwon World Cup Stadium"
+          },
+          "city": "Suwon"
+        },
+        {
+          "num": 42,
+          "date": "2002-06-13",
+          "time": "00:00",
+          "team1": {
+            "name": "Turkey",
+            "code": "TUR"
+          },
+          "team2": {
+            "name": "China PR",
+            "code": "CHN"
+          },
+          "score1": 3,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "seoulworldcupstadium",
+            "name": "Seoul World Cup Stadium"
+          },
+          "city": "Seoul"
+        },
+        {
+          "num": 43,
+          "date": "2002-06-13",
+          "time": "00:00",
+          "team1": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "team2": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group G",
+          "stadium": {
+            "key": "oitastadium",
+            "name": "Ōita Stadium"
+          },
+          "city": "Ōita"
+        },
+        {
+          "num": 44,
+          "date": "2002-06-13",
+          "time": "00:00",
+          "team1": {
+            "name": "Ecuador",
+            "code": "ECU"
+          },
+          "team2": {
+            "name": "Croatia",
+            "code": "CRO"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group G",
+          "stadium": {
+            "key": "internationalstadiumyokohama",
+            "name": "International Stadium Yokohama"
+          },
+          "city": "Yokohama"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 15",
+      "matches": [
+        {
+          "num": 45,
+          "date": "2002-06-14",
+          "time": "00:00",
+          "team1": {
+            "name": "Tunisia",
+            "code": "TUN"
+          },
+          "team2": {
+            "name": "Japan",
+            "code": "JPN"
+          },
+          "score1": 0,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group H",
+          "stadium": {
+            "key": "nagaistadium",
+            "name": "Nagai Stadium"
+          },
+          "city": "Osaka"
+        },
+        {
+          "num": 46,
+          "date": "2002-06-14",
+          "time": "00:00",
+          "team1": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "team2": {
+            "name": "Russia",
+            "code": "RUS"
+          },
+          "score1": 3,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group H",
+          "stadium": {
+            "key": "shizuokastadium",
+            "name": "Shizuoka Stadium"
+          },
+          "city": "Shizuoka"
+        },
+        {
+          "num": 47,
+          "date": "2002-06-14",
+          "time": "00:00",
+          "team1": {
+            "name": "Portugal",
+            "code": "POR"
+          },
+          "team2": {
+            "name": "Korea Republic",
+            "code": "KOR"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "incheonmunhakstadium",
+            "name": "Incheon Munhak Stadium"
+          },
+          "city": "Incheon"
+        },
+        {
+          "num": 48,
+          "date": "2002-06-14",
+          "time": "00:00",
+          "team1": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "team2": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "daejeonworldcupstadium",
+            "name": "Daejeon World Cup Stadium"
+          },
+          "city": "Daejeon"
+        }
+      ]
+    },
+    {
+      "name": "Round of 16",
+      "matches": [
+        {
+          "num": 49,
+          "date": "2002-06-15",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Paraguay",
+            "code": "PAR"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "jejuworldcupstadium",
+            "name": "Jeju World Cup Stadium"
+          },
+          "city": "Jeju"
+        },
+        {
+          "num": 50,
+          "date": "2002-06-15",
+          "time": "00:00",
+          "team1": {
+            "name": "Denmark",
+            "code": "DEN"
+          },
+          "team2": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "score1": 0,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "niigatastadium",
+            "name": "Niigata Stadium"
+          },
+          "city": "Niigata"
+        },
+        {
+          "num": 51,
+          "date": "2002-06-16",
+          "time": "00:00",
+          "team1": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "team2": {
+            "name": "Senegal",
+            "code": "SEN"
+          },
+          "score1": 1,
+          "score2": 2,
+          "score1i": 1,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 1,
+          "score2et": 2,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "oitastadium",
+            "name": "Ōita Stadium"
+          },
+          "city": "Ōita"
+        },
+        {
+          "num": 52,
+          "date": "2002-06-16",
+          "time": "00:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "Republic of Ireland",
+            "code": "IRL"
+          },
+          "score1": 3,
+          "score2": 2,
+          "score1i": 1,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 1,
+          "score2et": 1,
+          "score1p": 3,
+          "score2p": 2,
+          "stadium": {
+            "key": "suwonworldcupstadium",
+            "name": "Suwon World Cup Stadium"
+          },
+          "city": "Suwon"
+        },
+        {
+          "num": 53,
+          "date": "2002-06-17",
+          "time": "00:00",
+          "team1": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "team2": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "score1": 0,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "jeonjuworldcupstadium",
+            "name": "Jeonju World Cup Stadium"
+          },
+          "city": "Jeonju"
+        },
+        {
+          "num": 54,
+          "date": "2002-06-17",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "kobewingstadium",
+            "name": "Kobe Wing Stadium"
+          },
+          "city": "Kobe"
+        },
+        {
+          "num": 55,
+          "date": "2002-06-18",
+          "time": "00:00",
+          "team1": {
+            "name": "Japan",
+            "code": "JPN"
+          },
+          "team2": {
+            "name": "Turkey",
+            "code": "TUR"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "miyagistadium",
+            "name": "Miyagi Stadium"
+          },
+          "city": "Miyagi"
+        },
+        {
+          "num": 56,
+          "date": "2002-06-18",
+          "time": "00:00",
+          "team1": {
+            "name": "Korea Republic",
+            "code": "KOR"
+          },
+          "team2": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": 1,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 2,
+          "score2et": 1,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "daejeonworldcupstadium",
+            "name": "Daejeon World Cup Stadium"
+          },
+          "city": "Daejeon"
+        }
+      ]
+    },
+    {
+      "name": "Quarter-finals",
+      "matches": [
+        {
+          "num": 57,
+          "date": "2002-06-21",
+          "time": "00:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "score1": 1,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "shizuokastadium",
+            "name": "Shizuoka Stadium"
+          },
+          "city": "Shizuoka"
+        },
+        {
+          "num": 58,
+          "date": "2002-06-21",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "munsucupstadium",
+            "name": "Munsu Cup Stadium"
+          },
+          "city": "Ulsan"
+        },
+        {
+          "num": 59,
+          "date": "2002-06-22",
+          "time": "00:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "Korea Republic",
+            "code": "KOR"
+          },
+          "score1": 3,
+          "score2": 5,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 0,
+          "score2et": 0,
+          "score1p": 3,
+          "score2p": 5,
+          "stadium": {
+            "key": "gwangjuworldcupstadium",
+            "name": "Gwangju World Cup Stadium"
+          },
+          "city": "Gwangju"
+        },
+        {
+          "num": 60,
+          "date": "2002-06-22",
+          "time": "00:00",
+          "team1": {
+            "name": "Senegal",
+            "code": "SEN"
+          },
+          "team2": {
+            "name": "Turkey",
+            "code": "TUR"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 0,
+          "score2et": 1,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "nagaistadium",
+            "name": "Nagai Stadium"
+          },
+          "city": "Osaka"
+        }
+      ]
+    },
+    {
+      "name": "Semi-finals",
+      "matches": [
+        {
+          "num": 61,
+          "date": "2002-06-25",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Korea Republic",
+            "code": "KOR"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "seoulworldcupstadium",
+            "name": "Seoul World Cup Stadium"
+          },
+          "city": "Seoul"
+        },
+        {
+          "num": 62,
+          "date": "2002-06-26",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Turkey",
+            "code": "TUR"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "saitamastadium",
+            "name": "Saitama Stadium"
+          },
+          "city": "Saitama"
+        },
+        {
+          "num": 63,
+          "date": "2002-06-29",
+          "time": "00:00",
+          "team1": {
+            "name": "Korea Republic",
+            "code": "KOR"
+          },
+          "team2": {
+            "name": "Turkey",
+            "code": "TUR"
+          },
+          "score1": 2,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "daeguworldcupstadium",
+            "name": "Daegu World Cup Stadium"
+          },
+          "city": "Daegu"
+        }
+      ]
+    },
+    {
+      "name": "Final",
+      "matches": [
+        {
+          "num": 64,
+          "date": "2002-06-30",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "score1": 0,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "internationalstadiumyokohama",
+            "name": "International Stadium Yokohama"
+          },
+          "city": "Yokohama"
+        }
+      ]
+    }
+  ]
+}

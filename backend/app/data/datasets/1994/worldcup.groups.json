@@ -1,0 +1,131 @@
+{
+  "name": "World Cup 1994",
+  "groups": [
+    {
+      "name": "Group A",
+      "teams": [
+        {
+          "name": "Romania",
+          "code": "ROU"
+        },
+        {
+          "name": "Switzerland",
+          "code": "SUI"
+        },
+        {
+          "name": "United States",
+          "code": "USA"
+        },
+        {
+          "name": "Colombia",
+          "code": "COL"
+        }
+      ]
+    },
+    {
+      "name": "Group B",
+      "teams": [
+        {
+          "name": "Brazil",
+          "code": "BRA"
+        },
+        {
+          "name": "Sweden",
+          "code": "SWE"
+        },
+        {
+          "name": "Russia",
+          "code": "RUS"
+        },
+        {
+          "name": "Cameroon",
+          "code": "CMR"
+        }
+      ]
+    },
+    {
+      "name": "Group C",
+      "teams": [
+        {
+          "name": "Germany",
+          "code": "GER"
+        },
+        {
+          "name": "Spain",
+          "code": "ESP"
+        },
+        {
+          "name": "Korea Republic",
+          "code": "KOR"
+        },
+        {
+          "name": "Bolivia",
+          "code": "BOL"
+        }
+      ]
+    },
+    {
+      "name": "Group D",
+      "teams": [
+        {
+          "name": "Nigeria",
+          "code": "NGA"
+        },
+        {
+          "name": "Bulgaria",
+          "code": "BUL"
+        },
+        {
+          "name": "Argentina",
+          "code": "ARG"
+        },
+        {
+          "name": "Greece",
+          "code": "GRE"
+        }
+      ]
+    },
+    {
+      "name": "Group E",
+      "teams": [
+        {
+          "name": "Mexico",
+          "code": "MEX"
+        },
+        {
+          "name": "Republic of Ireland",
+          "code": "IRL"
+        },
+        {
+          "name": "Italy",
+          "code": "ITA"
+        },
+        {
+          "name": "Norway",
+          "code": "NOR"
+        }
+      ]
+    },
+    {
+      "name": "Group F",
+      "teams": [
+        {
+          "name": "Netherlands",
+          "code": "NED"
+        },
+        {
+          "name": "Saudi Arabia",
+          "code": "KSA"
+        },
+        {
+          "name": "Belgium",
+          "code": "BEL"
+        },
+        {
+          "name": "Morocco",
+          "code": "MAR"
+        }
+      ]
+    }
+  ]
+}

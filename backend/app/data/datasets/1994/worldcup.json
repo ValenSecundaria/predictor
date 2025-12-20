@@ -1,0 +1,1464 @@
+{
+  "name": "World Cup 1994",
+  "rounds": [
+    {
+      "name": "Matchday 1",
+      "matches": [
+        {
+          "num": 1,
+          "date": "1994-06-17",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Bolivia",
+            "code": "BOL"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "soldierfield",
+            "name": "Soldier Field"
+          },
+          "city": "Chicago"
+        },
+        {
+          "num": 2,
+          "date": "1994-06-17",
+          "time": "00:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "Korea Republic",
+            "code": "KOR"
+          },
+          "score1": 2,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "cottonbowl",
+            "name": "Cotton Bowl"
+          },
+          "city": "Dallas"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 2",
+      "matches": [
+        {
+          "num": 3,
+          "date": "1994-06-18",
+          "time": "00:00",
+          "team1": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "team2": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "pontiacsilverdome",
+            "name": "Pontiac Silverdome"
+          },
+          "city": "Pontiac"
+        },
+        {
+          "num": 4,
+          "date": "1994-06-18",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Republic of Ireland",
+            "code": "IRL"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "giantsstadium",
+            "name": "Giants Stadium"
+          },
+          "city": "East Rutherford"
+        },
+        {
+          "num": 5,
+          "date": "1994-06-18",
+          "time": "00:00",
+          "team1": {
+            "name": "Colombia",
+            "code": "COL"
+          },
+          "team2": {
+            "name": "Romania",
+            "code": "ROU"
+          },
+          "score1": 1,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "rosebowl",
+            "name": "Rose Bowl"
+          },
+          "city": "Pasadena"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 3",
+      "matches": [
+        {
+          "num": 6,
+          "date": "1994-06-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "team2": {
+            "name": "Morocco",
+            "code": "MAR"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "citrusbowl",
+            "name": "Citrus Bowl"
+          },
+          "city": "Orlando"
+        },
+        {
+          "num": 7,
+          "date": "1994-06-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Norway",
+            "code": "NOR"
+          },
+          "team2": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "rfkstadium",
+            "name": "RFK Stadium"
+          },
+          "city": "Washington"
+        },
+        {
+          "num": 8,
+          "date": "1994-06-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Cameroon",
+            "code": "CMR"
+          },
+          "team2": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "score1": 2,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "rosebowl",
+            "name": "Rose Bowl"
+          },
+          "city": "Pasadena"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 4",
+      "matches": [
+        {
+          "num": 9,
+          "date": "1994-06-20",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Russia",
+            "code": "RUS"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "stanfordstadium",
+            "name": "Stanford Stadium"
+          },
+          "city": "Stanford"
+        },
+        {
+          "num": 10,
+          "date": "1994-06-20",
+          "time": "00:00",
+          "team1": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "team2": {
+            "name": "Saudi Arabia",
+            "code": "KSA"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "rfkstadium",
+            "name": "RFK Stadium"
+          },
+          "city": "Washington"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 5",
+      "matches": [
+        {
+          "num": 11,
+          "date": "1994-06-21",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Greece",
+            "code": "GRE"
+          },
+          "score1": 4,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "foxborostadium",
+            "name": "Foxboro Stadium"
+          },
+          "city": "Foxborough"
+        },
+        {
+          "num": 12,
+          "date": "1994-06-21",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "soldierfield",
+            "name": "Soldier Field"
+          },
+          "city": "Chicago"
+        },
+        {
+          "num": 13,
+          "date": "1994-06-21",
+          "time": "00:00",
+          "team1": {
+            "name": "Nigeria",
+            "code": "NGA"
+          },
+          "team2": {
+            "name": "Bulgaria",
+            "code": "BUL"
+          },
+          "score1": 3,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "cottonbowl",
+            "name": "Cotton Bowl"
+          },
+          "city": "Dallas"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 6",
+      "matches": [
+        {
+          "num": 14,
+          "date": "1994-06-22",
+          "time": "00:00",
+          "team1": {
+            "name": "Romania",
+            "code": "ROU"
+          },
+          "team2": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "score1": 1,
+          "score2": 4,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "pontiacsilverdome",
+            "name": "Pontiac Silverdome"
+          },
+          "city": "Pontiac"
+        },
+        {
+          "num": 15,
+          "date": "1994-06-22",
+          "time": "00:00",
+          "team1": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "team2": {
+            "name": "Colombia",
+            "code": "COL"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "rosebowl",
+            "name": "Rose Bowl"
+          },
+          "city": "Pasadena"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 7",
+      "matches": [
+        {
+          "num": 16,
+          "date": "1994-06-23",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Norway",
+            "code": "NOR"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "giantsstadium",
+            "name": "Giants Stadium"
+          },
+          "city": "East Rutherford"
+        },
+        {
+          "num": 17,
+          "date": "1994-06-23",
+          "time": "00:00",
+          "team1": {
+            "name": "Korea Republic",
+            "code": "KOR"
+          },
+          "team2": {
+            "name": "Bolivia",
+            "code": "BOL"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "foxborostadium",
+            "name": "Foxboro Stadium"
+          },
+          "city": "Foxborough"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 8",
+      "matches": [
+        {
+          "num": 18,
+          "date": "1994-06-24",
+          "time": "00:00",
+          "team1": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "team2": {
+            "name": "Republic of Ireland",
+            "code": "IRL"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "citrusbowl",
+            "name": "Citrus Bowl"
+          },
+          "city": "Orlando"
+        },
+        {
+          "num": 19,
+          "date": "1994-06-24",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Cameroon",
+            "code": "CMR"
+          },
+          "score1": 3,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "stanfordstadium",
+            "name": "Stanford Stadium"
+          },
+          "city": "Stanford"
+        },
+        {
+          "num": 20,
+          "date": "1994-06-24",
+          "time": "00:00",
+          "team1": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "team2": {
+            "name": "Russia",
+            "code": "RUS"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "pontiacsilverdome",
+            "name": "Pontiac Silverdome"
+          },
+          "city": "Pontiac"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 9",
+      "matches": [
+        {
+          "num": 21,
+          "date": "1994-06-25",
+          "time": "00:00",
+          "team1": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "team2": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "citrusbowl",
+            "name": "Citrus Bowl"
+          },
+          "city": "Orlando"
+        },
+        {
+          "num": 22,
+          "date": "1994-06-25",
+          "time": "00:00",
+          "team1": {
+            "name": "Saudi Arabia",
+            "code": "KSA"
+          },
+          "team2": {
+            "name": "Morocco",
+            "code": "MAR"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "giantsstadium",
+            "name": "Giants Stadium"
+          },
+          "city": "East Rutherford"
+        },
+        {
+          "num": 23,
+          "date": "1994-06-25",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Nigeria",
+            "code": "NGA"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "foxborostadium",
+            "name": "Foxboro Stadium"
+          },
+          "city": "Foxborough"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 10",
+      "matches": [
+        {
+          "num": 24,
+          "date": "1994-06-26",
+          "time": "00:00",
+          "team1": {
+            "name": "Greece",
+            "code": "GRE"
+          },
+          "team2": {
+            "name": "Bulgaria",
+            "code": "BUL"
+          },
+          "score1": 0,
+          "score2": 4,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "soldierfield",
+            "name": "Soldier Field"
+          },
+          "city": "Chicago"
+        },
+        {
+          "num": 25,
+          "date": "1994-06-26",
+          "time": "00:00",
+          "team1": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "team2": {
+            "name": "Romania",
+            "code": "ROU"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "rosebowl",
+            "name": "Rose Bowl"
+          },
+          "city": "Pasadena"
+        },
+        {
+          "num": 26,
+          "date": "1994-06-26",
+          "time": "00:00",
+          "team1": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "team2": {
+            "name": "Colombia",
+            "code": "COL"
+          },
+          "score1": 0,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "stanfordstadium",
+            "name": "Stanford Stadium"
+          },
+          "city": "Stanford"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 11",
+      "matches": [
+        {
+          "num": 27,
+          "date": "1994-06-27",
+          "time": "00:00",
+          "team1": {
+            "name": "Bolivia",
+            "code": "BOL"
+          },
+          "team2": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "score1": 1,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "soldierfield",
+            "name": "Soldier Field"
+          },
+          "city": "Chicago"
+        },
+        {
+          "num": 28,
+          "date": "1994-06-27",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Korea Republic",
+            "code": "KOR"
+          },
+          "score1": 3,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "cottonbowl",
+            "name": "Cotton Bowl"
+          },
+          "city": "Dallas"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 12",
+      "matches": [
+        {
+          "num": 29,
+          "date": "1994-06-28",
+          "time": "00:00",
+          "team1": {
+            "name": "Republic of Ireland",
+            "code": "IRL"
+          },
+          "team2": {
+            "name": "Norway",
+            "code": "NOR"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "giantsstadium",
+            "name": "Giants Stadium"
+          },
+          "city": "East Rutherford"
+        },
+        {
+          "num": 30,
+          "date": "1994-06-28",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "rfkstadium",
+            "name": "RFK Stadium"
+          },
+          "city": "Washington"
+        },
+        {
+          "num": 31,
+          "date": "1994-06-28",
+          "time": "00:00",
+          "team1": {
+            "name": "Russia",
+            "code": "RUS"
+          },
+          "team2": {
+            "name": "Cameroon",
+            "code": "CMR"
+          },
+          "score1": 6,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "stanfordstadium",
+            "name": "Stanford Stadium"
+          },
+          "city": "Stanford"
+        },
+        {
+          "num": 32,
+          "date": "1994-06-28",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "pontiacsilverdome",
+            "name": "Pontiac Silverdome"
+          },
+          "city": "Pontiac"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 13",
+      "matches": [
+        {
+          "num": 33,
+          "date": "1994-06-29",
+          "time": "00:00",
+          "team1": {
+            "name": "Morocco",
+            "code": "MAR"
+          },
+          "team2": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "score1": 1,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "citrusbowl",
+            "name": "Citrus Bowl"
+          },
+          "city": "Orlando"
+        },
+        {
+          "num": 34,
+          "date": "1994-06-29",
+          "time": "00:00",
+          "team1": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "team2": {
+            "name": "Saudi Arabia",
+            "code": "KSA"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "rfkstadium",
+            "name": "RFK Stadium"
+          },
+          "city": "Washington"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 14",
+      "matches": [
+        {
+          "num": 35,
+          "date": "1994-06-30",
+          "time": "00:00",
+          "team1": {
+            "name": "Greece",
+            "code": "GRE"
+          },
+          "team2": {
+            "name": "Nigeria",
+            "code": "NGA"
+          },
+          "score1": 0,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "foxborostadium",
+            "name": "Foxboro Stadium"
+          },
+          "city": "Foxborough"
+        },
+        {
+          "num": 36,
+          "date": "1994-06-30",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Bulgaria",
+            "code": "BUL"
+          },
+          "score1": 0,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "cottonbowl",
+            "name": "Cotton Bowl"
+          },
+          "city": "Dallas"
+        }
+      ]
+    },
+    {
+      "name": "Round of 16",
+      "matches": [
+        {
+          "num": 37,
+          "date": "1994-07-02",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "score1": 3,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "soldierfield",
+            "name": "Soldier Field"
+          },
+          "city": "Chicago"
+        },
+        {
+          "num": 38,
+          "date": "1994-07-02",
+          "time": "00:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "score1": 3,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "rfkstadium",
+            "name": "RFK Stadium"
+          },
+          "city": "Washington"
+        },
+        {
+          "num": 39,
+          "date": "1994-07-03",
+          "time": "00:00",
+          "team1": {
+            "name": "Saudi Arabia",
+            "code": "KSA"
+          },
+          "team2": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "score1": 1,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "cottonbowl",
+            "name": "Cotton Bowl"
+          },
+          "city": "Dallas"
+        },
+        {
+          "num": 40,
+          "date": "1994-07-03",
+          "time": "00:00",
+          "team1": {
+            "name": "Romania",
+            "code": "ROU"
+          },
+          "team2": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "score1": 3,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "rosebowl",
+            "name": "Rose Bowl"
+          },
+          "city": "Pasadena"
+        },
+        {
+          "num": 41,
+          "date": "1994-07-04",
+          "time": "00:00",
+          "team1": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "team2": {
+            "name": "Republic of Ireland",
+            "code": "IRL"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "citrusbowl",
+            "name": "Citrus Bowl"
+          },
+          "city": "Orlando"
+        },
+        {
+          "num": 42,
+          "date": "1994-07-04",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stanfordstadium",
+            "name": "Stanford Stadium"
+          },
+          "city": "Stanford"
+        },
+        {
+          "num": 43,
+          "date": "1994-07-05",
+          "time": "00:00",
+          "team1": {
+            "name": "Nigeria",
+            "code": "NGA"
+          },
+          "team2": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "score1": 1,
+          "score2": 2,
+          "score1i": 1,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 1,
+          "score2et": 2,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "foxborostadium",
+            "name": "Foxboro Stadium"
+          },
+          "city": "Foxborough"
+        },
+        {
+          "num": 44,
+          "date": "1994-07-05",
+          "time": "00:00",
+          "team1": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "team2": {
+            "name": "Bulgaria",
+            "code": "BUL"
+          },
+          "score1": 1,
+          "score2": 3,
+          "score1i": 1,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 1,
+          "score2et": 1,
+          "score1p": 1,
+          "score2p": 3,
+          "stadium": {
+            "key": "giantsstadium",
+            "name": "Giants Stadium"
+          },
+          "city": "East Rutherford"
+        }
+      ]
+    },
+    {
+      "name": "Quarter-finals",
+      "matches": [
+        {
+          "num": 45,
+          "date": "1994-07-09",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "foxborostadium",
+            "name": "Foxboro Stadium"
+          },
+          "city": "Foxborough"
+        },
+        {
+          "num": 46,
+          "date": "1994-07-09",
+          "time": "00:00",
+          "team1": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "team2": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "score1": 2,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "cottonbowl",
+            "name": "Cotton Bowl"
+          },
+          "city": "Dallas"
+        },
+        {
+          "num": 47,
+          "date": "1994-07-10",
+          "time": "00:00",
+          "team1": {
+            "name": "Bulgaria",
+            "code": "BUL"
+          },
+          "team2": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "giantsstadium",
+            "name": "Giants Stadium"
+          },
+          "city": "East Rutherford"
+        },
+        {
+          "num": 48,
+          "date": "1994-07-10",
+          "time": "00:00",
+          "team1": {
+            "name": "Romania",
+            "code": "ROU"
+          },
+          "team2": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "score1": 4,
+          "score2": 5,
+          "score1i": 1,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 2,
+          "score2et": 2,
+          "score1p": 4,
+          "score2p": 5,
+          "stadium": {
+            "key": "stanfordstadium",
+            "name": "Stanford Stadium"
+          },
+          "city": "Stanford"
+        }
+      ]
+    },
+    {
+      "name": "Semi-finals",
+      "matches": [
+        {
+          "num": 49,
+          "date": "1994-07-13",
+          "time": "00:00",
+          "team1": {
+            "name": "Bulgaria",
+            "code": "BUL"
+          },
+          "team2": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "score1": 1,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "giantsstadium",
+            "name": "Giants Stadium"
+          },
+          "city": "East Rutherford"
+        },
+        {
+          "num": 50,
+          "date": "1994-07-13",
+          "time": "00:00",
+          "team1": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "team2": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "rosebowl",
+            "name": "Rose Bowl"
+          },
+          "city": "Pasadena"
+        }
+      ]
+    },
+    {
+      "name": "Third-place match",
+      "matches": [
+        {
+          "num": 51,
+          "date": "1994-07-16",
+          "time": "00:00",
+          "team1": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "team2": {
+            "name": "Bulgaria",
+            "code": "BUL"
+          },
+          "score1": 4,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "rosebowl",
+            "name": "Rose Bowl"
+          },
+          "city": "Pasadena"
+        }
+      ]
+    },
+    {
+      "name": "Final",
+      "matches": [
+        {
+          "num": 52,
+          "date": "1994-07-17",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "score1": 3,
+          "score2": 2,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 0,
+          "score2et": 0,
+          "score1p": 3,
+          "score2p": 2,
+          "stadium": {
+            "key": "rosebowl",
+            "name": "Rose Bowl"
+          },
+          "city": "Pasadena"
+        }
+      ]
+    }
+  ]
+}

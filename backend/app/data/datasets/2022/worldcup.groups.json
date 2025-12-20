@@ -1,0 +1,173 @@
+{
+  "name": "World Cup 2022",
+  "groups": [
+    {
+      "name": "Group A",
+      "teams": [
+        {
+          "name": "Qatar",
+          "code": "QAT"
+        },
+        {
+          "name": "Ecuador",
+          "code": "ECU"
+        },
+        {
+          "name": "Senegal",
+          "code": "SEN"
+        },
+        {
+          "name": "Netherlands",
+          "code": "NED"
+        }
+      ]
+    },
+    {
+      "name": "Group B",
+      "teams": [
+        {
+          "name": "England",
+          "code": "ENG"
+        },
+        {
+          "name": "Iran",
+          "code": "IRN"
+        },
+        {
+          "name": "United States",
+          "code": "USA"
+        },
+        {
+          "name": "Wales",
+          "code": "WAL"
+        }
+      ]
+    },
+    {
+      "name": "Group C",
+      "teams": [
+        {
+          "name": "Argentina",
+          "code": "ARG"
+        },
+        {
+          "name": "Saudi Arabia",
+          "code": "KSA"
+        },
+        {
+          "name": "Mexico",
+          "code": "MEX"
+        },
+        {
+          "name": "Poland",
+          "code": "POL"
+        }
+      ]
+    },
+    {
+      "name": "Group D",
+      "teams": [
+        {
+          "name": "France",
+          "code": "FRA"
+        },
+        {
+          "name": "Australia",
+          "code": "AUS"
+        },
+        {
+          "name": "Denmark",
+          "code": "DEN"
+        },
+        {
+          "name": "Tunisia",
+          "code": "TUN"
+        }
+      ]
+    },
+    {
+      "name": "Group E",
+      "teams": [
+        {
+          "name": "Spain",
+          "code": "ESP"
+        },
+        {
+          "name": "Costa Rica",
+          "code": "CRC"
+        },
+        {
+          "name": "Germany",
+          "code": "GER"
+        },
+        {
+          "name": "Japan",
+          "code": "JPN"
+        }
+      ]
+    },
+    {
+      "name": "Group F",
+      "teams": [
+        {
+          "name": "Belgium",
+          "code": "BEL"
+        },
+        {
+          "name": "Canada",
+          "code": "CAN"
+        },
+        {
+          "name": "Morocco",
+          "code": "MAR"
+        },
+        {
+          "name": "Croatia",
+          "code": "CRO"
+        }
+      ]
+    },
+    {
+      "name": "Group G",
+      "teams": [
+        {
+          "name": "Brazil",
+          "code": "BRA"
+        },
+        {
+          "name": "Serbia",
+          "code": "SRB"
+        },
+        {
+          "name": "Switzerland",
+          "code": "SUI"
+        },
+        {
+          "name": "Cameroon",
+          "code": "CMR"
+        }
+      ]
+    },
+    {
+      "name": "Group H",
+      "teams": [
+        {
+          "name": "Portugal",
+          "code": "POR"
+        },
+        {
+          "name": "Ghana",
+          "code": "GHA"
+        },
+        {
+          "name": "Uruguay",
+          "code": "URU"
+        },
+        {
+          "name": "Korea Republic",
+          "code": "KOR"
+        }
+      ]
+    }
+  ]
+}

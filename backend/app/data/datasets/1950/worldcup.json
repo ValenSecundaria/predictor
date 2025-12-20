@@ -1,0 +1,1059 @@
+{
+  "name": "World Cup 1950",
+  "rounds": [
+    {
+      "name": "Matchday 1",
+      "matches": [
+        {
+          "num": 1,
+          "date": "1950-06-24",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "score1": 4,
+          "score2": 0,
+          "score1i": 1,
+          "score2i": 0,
+          "goals1": [
+            {
+              "name": "Ademir",
+              "minute": 30,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "' Jair",
+              "minute": 65,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Baltazar",
+              "minute": 71,
+              "score1": 3,
+              "score2": 0
+            }
+          ],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "maracana",
+            "name": "Estádio do Maracanã"
+          },
+          "city": "Rio de Janeiro"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 2",
+      "matches": [
+        {
+          "num": 2,
+          "date": "1950-06-25",
+          "time": "00:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [
+            {
+              "name": "Mortensen",
+              "minute": 27,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Mannion",
+              "minute": 51,
+              "score1": 2,
+              "score2": 0
+            }
+          ],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "maracana",
+            "name": "Estádio do Maracanã"
+          },
+          "city": "Rio de Janeiro"
+        },
+        {
+          "num": 3,
+          "date": "1950-06-25",
+          "time": "00:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [
+            {
+              "name": "Igoa",
+              "minute": 81,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Basora",
+              "minute": 83,
+              "score1": 2,
+              "score2": 1
+            },
+            {
+              "name": "Zarra",
+              "minute": 89,
+              "score1": 3,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Pariani",
+              "minute": 17,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
+          "group": "Group 2",
+          "stadium": {
+            "key": "durivaldebritto",
+            "name": "Estádio Durival de Britto"
+          },
+          "city": "Curitiba"
+        },
+        {
+          "num": 4,
+          "date": "1950-06-25",
+          "time": "00:00",
+          "team1": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "team2": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "score1": 3,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [
+            {
+              "name": "Jeppson",
+              "minute": 25,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "' Andersson",
+              "minute": 33,
+              "score1": 2,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Carapellese",
+              "minute": 7,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Muccinelli",
+              "minute": 75,
+              "score1": 2,
+              "score2": 2
+            }
+          ],
+          "group": "Group 3",
+          "stadium": {
+            "key": "pacaembu",
+            "name": "Estádio do Pacaembu"
+          },
+          "city": "São Paulo"
+        },
+        {
+          "num": 5,
+          "date": "1950-06-25",
+          "time": "00:00",
+          "team1": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "team2": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "score1": 3,
+          "score2": 0,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [
+            {
+              "name": "' Ognjanov",
+              "minute": 75,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "independencia",
+            "name": "Estádio Independência"
+          },
+          "city": "Belo Horizonte"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 3",
+      "matches": [
+        {
+          "num": 6,
+          "date": "1950-06-28",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "score1": 2,
+          "score2": 2,
+          "score1i": 2,
+          "score2i": 1,
+          "goals1": [
+            {
+              "name": "Alfredo",
+              "minute": 3,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Baltazar",
+              "minute": 32,
+              "score1": 2,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Fatton",
+              "minute": 17,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "group": "Group 1",
+          "stadium": {
+            "key": "pacaembu",
+            "name": "Estádio do Pacaembu"
+          },
+          "city": "São Paulo"
+        },
+        {
+          "num": 7,
+          "date": "1950-06-28",
+          "time": "00:00",
+          "team1": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "team2": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "score1": 4,
+          "score2": 1,
+          "score1i": 2,
+          "score2i": 0,
+          "goals1": [
+            {
+              "name": "Bobek",
+              "minute": 19,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "ajkovski",
+              "minute": 22,
+              "score1": 2,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Ortiz",
+              "minute": 89,
+              "score1": 2,
+              "score2": 1,
+              "penalty": true
+            }
+          ],
+          "group": "Group 1",
+          "stadium": {
+            "key": "doseucaliptos",
+            "name": "Estádio dos Eucaliptos"
+          },
+          "city": "Porto Alegre"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 4",
+      "matches": [
+        {
+          "num": 8,
+          "date": "1950-06-29",
+          "time": "00:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [
+            {
+              "name": "Basora",
+              "minute": 17,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Zarra",
+              "minute": 30,
+              "score1": 2,
+              "score2": 0
+            }
+          ],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "maracana",
+            "name": "Estádio do Maracanã"
+          },
+          "city": "Rio de Janeiro"
+        },
+        {
+          "num": 9,
+          "date": "1950-06-29",
+          "time": "00:00",
+          "team1": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "team2": {
+            "name": "Paraguay",
+            "code": "PAR"
+          },
+          "score1": 2,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [
+            {
+              "name": "Sundqvist",
+              "minute": 17,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Palmér",
+              "minute": 26,
+              "score1": 2,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "López",
+              "minute": 35,
+              "score1": 2,
+              "score2": 1
+            },
+            {
+              "name": "López Fretes",
+              "minute": 74,
+              "score1": 2,
+              "score2": 2
+            }
+          ],
+          "group": "Group 3",
+          "stadium": {
+            "key": "durivalbritto",
+            "name": "Estádio Durival Britto"
+          },
+          "city": "Curitiba"
+        },
+        {
+          "num": 10,
+          "date": "1950-06-29",
+          "time": "00:00",
+          "team1": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "team2": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [
+            {
+              "name": "Gaetjens",
+              "minute": 38,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "independencia",
+            "name": "Estádio Independência"
+          },
+          "city": "Belo Horizonte"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 5",
+      "matches": [
+        {
+          "num": 11,
+          "date": "1950-07-01",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": 1,
+          "score2i": 0,
+          "goals1": [
+            {
+              "name": "Ademir",
+              "minute": 4,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Zizinho",
+              "minute": 69,
+              "score1": 2,
+              "score2": 0
+            }
+          ],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "maracana",
+            "name": "Estádio do Maracanã"
+          },
+          "city": "Rio de Janeiro"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 6",
+      "matches": [
+        {
+          "num": 12,
+          "date": "1950-07-02",
+          "time": "00:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [
+            {
+              "name": "Zarra",
+              "minute": 48,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "maracana",
+            "name": "Estádio do Maracanã"
+          },
+          "city": "Rio de Janeiro"
+        },
+        {
+          "num": 13,
+          "date": "1950-07-02",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Paraguay",
+            "code": "PAR"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [
+            {
+              "name": "Carapellese",
+              "minute": 12,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Pandolfini",
+              "minute": 62,
+              "score1": 2,
+              "score2": 0
+            }
+          ],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "pacaembu",
+            "name": "Estádio do Pacaembu"
+          },
+          "city": "São Paulo"
+        },
+        {
+          "num": 14,
+          "date": "1950-07-02",
+          "time": "00:00",
+          "team1": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "team2": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": 2,
+          "score2i": 0,
+          "goals1": [
+            {
+              "name": "Bader",
+              "minute": 10,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Antenen",
+              "minute": 44,
+              "score1": 2,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Casarín",
+              "minute": 89,
+              "score1": 2,
+              "score2": 1
+            }
+          ],
+          "group": "Group 1",
+          "stadium": {
+            "key": "doseucaliptos",
+            "name": "Estádio dos Eucaliptos"
+          },
+          "city": "Porto Alegre"
+        },
+        {
+          "num": 15,
+          "date": "1950-07-02",
+          "time": "00:00",
+          "team1": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "team2": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "score1": 5,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [
+            {
+              "name": "Robledo",
+              "minute": 16,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Riera",
+              "minute": 32,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Cremaschi",
+              "minute": 54,
+              "score1": 3,
+              "score2": 2
+            },
+            {
+              "name": "' Prieto",
+              "minute": 60,
+              "score1": 4,
+              "score2": 2
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Wallace",
+              "minute": 47,
+              "score1": 2,
+              "score2": 1
+            },
+            {
+              "name": "Maca",
+              "minute": 48,
+              "score1": 2,
+              "score2": 2,
+              "penalty": true
+            }
+          ],
+          "group": "Group 2",
+          "stadium": {
+            "key": "ilhadoretiro",
+            "name": "Estádio Ilha do Retiro"
+          },
+          "city": "Recife"
+        },
+        {
+          "num": 16,
+          "date": "1950-07-02",
+          "time": "00:00",
+          "team1": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "team2": {
+            "name": "Bolivia",
+            "code": "BOL"
+          },
+          "score1": 8,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [
+            {
+              "name": "Míguez",
+              "minute": 14,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "' Vidal",
+              "minute": 18,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Schiaffino",
+              "minute": 23,
+              "score1": 3,
+              "score2": 0
+            },
+            {
+              "name": "' Pérez",
+              "minute": 83,
+              "score1": 4,
+              "score2": 0
+            },
+            {
+              "name": "Ghiggia",
+              "minute": 87,
+              "score1": 5,
+              "score2": 0
+            }
+          ],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "independencia",
+            "name": "Estádio Independência"
+          },
+          "city": "Belo Horizonte"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 7",
+      "matches": [
+        {
+          "num": 17,
+          "date": "1950-07-09",
+          "time": "00:00",
+          "team1": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "team2": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "score1": 2,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [
+            {
+              "name": "Ghiggia",
+              "minute": 29,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Varela",
+              "minute": 73,
+              "score1": 2,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Basora",
+              "minute": 37,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "group": "Group F",
+          "stadium": {
+            "key": "pacaembu",
+            "name": "Estádio do Pacaembu"
+          },
+          "city": "São Paulo"
+        },
+        {
+          "num": 18,
+          "date": "1950-07-09",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "score1": 7,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [
+            {
+              "name": "Ademir",
+              "minute": 17,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "' Chico",
+              "minute": 39,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "' Maneca",
+              "minute": 85,
+              "score1": 3,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Andersson",
+              "minute": 67,
+              "score1": 2,
+              "score2": 1,
+              "penalty": true
+            }
+          ],
+          "group": "Group F",
+          "stadium": {
+            "key": "maracana",
+            "name": "Estádio do Maracanã"
+          },
+          "city": "Rio de Janeiro"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 8",
+      "matches": [
+        {
+          "num": 19,
+          "date": "1950-07-13",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "score1": 6,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [
+            {
+              "name": "Parra",
+              "minute": 15,
+              "score1": 0,
+              "score2": 1,
+              "owngoal": true
+            },
+            {
+              "name": "Jair",
+              "minute": 21,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Chico",
+              "minute": 31,
+              "score1": 2,
+              "score2": 1
+            },
+            {
+              "name": "' Ademir",
+              "minute": 57,
+              "score1": 3,
+              "score2": 1
+            },
+            {
+              "name": "Zizinho",
+              "minute": 67,
+              "score1": 4,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Igoa",
+              "minute": 71,
+              "score1": 4,
+              "score2": 2
+            }
+          ],
+          "group": "Group F",
+          "stadium": {
+            "key": "maracana",
+            "name": "Estádio do Maracanã"
+          },
+          "city": "Rio de Janeiro"
+        },
+        {
+          "num": 20,
+          "date": "1950-07-13",
+          "time": "00:00",
+          "team1": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "team2": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "score1": 3,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [
+            {
+              "name": "Ghiggia",
+              "minute": 39,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Míguez",
+              "minute": 77,
+              "score1": 2,
+              "score2": 2
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Palmér",
+              "minute": 5,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Sundqvist",
+              "minute": 40,
+              "score1": 1,
+              "score2": 2
+            }
+          ],
+          "group": "Group F",
+          "stadium": {
+            "key": "pacaembu",
+            "name": "Estádio do Pacaembu"
+          },
+          "city": "São Paulo"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 9",
+      "matches": [
+        {
+          "num": 21,
+          "date": "1950-07-16",
+          "time": "00:00",
+          "team1": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "team2": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [
+            {
+              "name": "Sundqvist",
+              "minute": 15,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Mellberg",
+              "minute": 33,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Palmér",
+              "minute": 80,
+              "score1": 3,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Zarra",
+              "minute": 82,
+              "score1": 3,
+              "score2": 1
+            }
+          ],
+          "group": "Group F",
+          "stadium": {
+            "key": "pacaembu",
+            "name": "Estádio do Pacaembu"
+          },
+          "city": "São Paulo"
+        },
+        {
+          "num": 22,
+          "date": "1950-07-16",
+          "time": "00:00",
+          "team1": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "team2": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [
+            {
+              "name": "Schiaffino",
+              "minute": 66,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Ghiggia",
+              "minute": 79,
+              "score1": 2,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Friaça",
+              "minute": 47,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
+          "group": "Group F",
+          "stadium": {
+            "key": "maracana",
+            "name": "Estádio do Maracanã"
+          },
+          "city": "Rio de Janeiro"
+        }
+      ]
+    }
+  ]
+}

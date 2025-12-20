@@ -1,0 +1,1754 @@
+{
+  "name": "World Cup 2006",
+  "rounds": [
+    {
+      "name": "Matchday 1",
+      "matches": [
+        {
+          "num": 1,
+          "date": "2006-06-09",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Costa Rica",
+            "code": "CRC"
+          },
+          "score1": 4,
+          "score2": 2,
+          "score1i": 2,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "arena",
+            "name": "Allianz Arena"
+          },
+          "city": "München"
+        },
+        {
+          "num": 2,
+          "date": "2006-06-09",
+          "time": "00:00",
+          "team1": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "team2": {
+            "name": "Ecuador",
+            "code": "ECU"
+          },
+          "score1": 0,
+          "score2": 2,
+          "score1i": 0,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "veltinsarena",
+            "name": "Veltins-Arena"
+          },
+          "city": "Gelsenkirchen"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 2",
+      "matches": [
+        {
+          "num": 3,
+          "date": "2006-06-10",
+          "time": "00:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Paraguay",
+            "code": "PAR"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": 1,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "commerzbankarena",
+            "name": "Commerzbank-Arena"
+          },
+          "city": "Frankfurt"
+        },
+        {
+          "num": 4,
+          "date": "2006-06-10",
+          "time": "00:00",
+          "team1": {
+            "name": "Trinidad and Tobago",
+            "code": "TRI"
+          },
+          "team2": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "signalidunapark",
+            "name": "Signal Iduna Park"
+          },
+          "city": "Dortmund"
+        },
+        {
+          "num": 5,
+          "date": "2006-06-10",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Côte d'Ivoire",
+            "code": "CIV"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": 2,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "aolarena",
+            "name": "AOL Arena"
+          },
+          "city": "Hamburg"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 3",
+      "matches": [
+        {
+          "num": 6,
+          "date": "2006-06-11",
+          "time": "00:00",
+          "team1": {
+            "name": "Serbia and Montenegro",
+            "code": "SCG"
+          },
+          "team2": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": 0,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "zentralstadion",
+            "name": "Zentralstadion"
+          },
+          "city": "Leipzig"
+        },
+        {
+          "num": 7,
+          "date": "2006-06-11",
+          "time": "00:00",
+          "team1": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "team2": {
+            "name": "Iran",
+            "code": "IRN"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": 1,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "frankenstadion",
+            "name": "Frankenstadion"
+          },
+          "city": "Nürnberg"
+        },
+        {
+          "num": 8,
+          "date": "2006-06-11",
+          "time": "00:00",
+          "team1": {
+            "name": "Angola",
+            "code": "ANG"
+          },
+          "team2": {
+            "name": "Portugal",
+            "code": "POR"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": 0,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "rheinenergiestadion",
+            "name": "RheinEnergieStadion"
+          },
+          "city": "Köln"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 4",
+      "matches": [
+        {
+          "num": 9,
+          "date": "2006-06-12",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Ghana",
+            "code": "GHA"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": 1,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "awdarena",
+            "name": "AWD-Arena"
+          },
+          "city": "Hannover"
+        },
+        {
+          "num": 10,
+          "date": "2006-06-12",
+          "time": "00:00",
+          "team1": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "team2": {
+            "name": "Czech Republic",
+            "code": "CZE"
+          },
+          "score1": 0,
+          "score2": 3,
+          "score1i": 0,
+          "score2i": 2,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "veltinsarena",
+            "name": "Veltins-Arena"
+          },
+          "city": "Gelsenkirchen"
+        },
+        {
+          "num": 12,
+          "date": "2006-06-12",
+          "time": "00:00",
+          "team1": {
+            "name": "Australia",
+            "code": "AUS"
+          },
+          "team2": {
+            "name": "Japan",
+            "code": "JPN"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": 0,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "fritzwalterstadion",
+            "name": "Fritz-Walter-Stadion"
+          },
+          "city": "Kaiserslautern"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 5",
+      "matches": [
+        {
+          "num": 11,
+          "date": "2006-06-13",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Croatia",
+            "code": "CRO"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": 1,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "olympiastadion",
+            "name": "Olympiastadion"
+          },
+          "city": "Berlin"
+        },
+        {
+          "num": 13,
+          "date": "2006-06-13",
+          "time": "00:00",
+          "team1": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "team2": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group G",
+          "stadium": {
+            "key": "gottliebdaimlerstadion",
+            "name": "Gottlieb-Daimler-Stadion"
+          },
+          "city": "Stuttgart"
+        },
+        {
+          "num": 14,
+          "date": "2006-06-13",
+          "time": "00:00",
+          "team1": {
+            "name": "Korea Republic",
+            "code": "KOR"
+          },
+          "team2": {
+            "name": "Togo",
+            "code": "TOG"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": 0,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group G",
+          "stadium": {
+            "key": "commerzbankarena",
+            "name": "Commerzbank-Arena"
+          },
+          "city": "Frankfurt"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 6",
+      "matches": [
+        {
+          "num": 15,
+          "date": "2006-06-14",
+          "time": "00:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "Ukraine",
+            "code": "UKR"
+          },
+          "score1": 4,
+          "score2": 0,
+          "score1i": 2,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group H",
+          "stadium": {
+            "key": "zentralstadion",
+            "name": "Zentralstadion"
+          },
+          "city": "Leipzig"
+        },
+        {
+          "num": 16,
+          "date": "2006-06-14",
+          "time": "00:00",
+          "team1": {
+            "name": "Tunisia",
+            "code": "TUN"
+          },
+          "team2": {
+            "name": "Saudi Arabia",
+            "code": "KSA"
+          },
+          "score1": 2,
+          "score2": 2,
+          "score1i": 1,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group H",
+          "stadium": {
+            "key": "arena",
+            "name": "Allianz Arena"
+          },
+          "city": "München"
+        },
+        {
+          "num": 17,
+          "date": "2006-06-14",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "signalidunapark",
+            "name": "Signal Iduna Park"
+          },
+          "city": "Dortmund"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 7",
+      "matches": [
+        {
+          "num": 18,
+          "date": "2006-06-15",
+          "time": "00:00",
+          "team1": {
+            "name": "Ecuador",
+            "code": "ECU"
+          },
+          "team2": {
+            "name": "Costa Rica",
+            "code": "CRC"
+          },
+          "score1": 3,
+          "score2": 0,
+          "score1i": 1,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "aolarena",
+            "name": "AOL Arena"
+          },
+          "city": "Hamburg"
+        },
+        {
+          "num": 19,
+          "date": "2006-06-15",
+          "time": "00:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Trinidad and Tobago",
+            "code": "TRI"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "frankenstadion",
+            "name": "Frankenstadion"
+          },
+          "city": "Nürnberg"
+        },
+        {
+          "num": 20,
+          "date": "2006-06-15",
+          "time": "00:00",
+          "team1": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "team2": {
+            "name": "Paraguay",
+            "code": "PAR"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "olympiastadion",
+            "name": "Olympiastadion"
+          },
+          "city": "Berlin"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 8",
+      "matches": [
+        {
+          "num": 21,
+          "date": "2006-06-16",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Serbia and Montenegro",
+            "code": "SCG"
+          },
+          "score1": 6,
+          "score2": 0,
+          "score1i": 3,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "veltinsarena",
+            "name": "Veltins-Arena"
+          },
+          "city": "Gelsenkirchen"
+        },
+        {
+          "num": 22,
+          "date": "2006-06-16",
+          "time": "00:00",
+          "team1": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "team2": {
+            "name": "Côte d'Ivoire",
+            "code": "CIV"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": 2,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "gottliebdaimlerstadion",
+            "name": "Gottlieb-Daimler-Stadion"
+          },
+          "city": "Stuttgart"
+        },
+        {
+          "num": 23,
+          "date": "2006-06-16",
+          "time": "00:00",
+          "team1": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "team2": {
+            "name": "Angola",
+            "code": "ANG"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "awdarena",
+            "name": "AWD-Arena"
+          },
+          "city": "Hannover"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 9",
+      "matches": [
+        {
+          "num": 24,
+          "date": "2006-06-17",
+          "time": "00:00",
+          "team1": {
+            "name": "Portugal",
+            "code": "POR"
+          },
+          "team2": {
+            "name": "Iran",
+            "code": "IRN"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "commerzbankarena",
+            "name": "Commerzbank-Arena"
+          },
+          "city": "Frankfurt"
+        },
+        {
+          "num": 25,
+          "date": "2006-06-17",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": 1,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "fritzwalterstadion",
+            "name": "Fritz-Walter-Stadion"
+          },
+          "city": "Kaiserslautern"
+        },
+        {
+          "num": 26,
+          "date": "2006-06-17",
+          "time": "00:00",
+          "team1": {
+            "name": "Czech Republic",
+            "code": "CZE"
+          },
+          "team2": {
+            "name": "Ghana",
+            "code": "GHA"
+          },
+          "score1": 0,
+          "score2": 2,
+          "score1i": 0,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "rheinenergiestadion",
+            "name": "RheinEnergieStadion"
+          },
+          "city": "Köln"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 10",
+      "matches": [
+        {
+          "num": 27,
+          "date": "2006-06-18",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Australia",
+            "code": "AUS"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "arena",
+            "name": "Allianz Arena"
+          },
+          "city": "München"
+        },
+        {
+          "num": 28,
+          "date": "2006-06-18",
+          "time": "00:00",
+          "team1": {
+            "name": "Japan",
+            "code": "JPN"
+          },
+          "team2": {
+            "name": "Croatia",
+            "code": "CRO"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "frankenstadion",
+            "name": "Frankenstadion"
+          },
+          "city": "Nürnberg"
+        },
+        {
+          "num": 29,
+          "date": "2006-06-18",
+          "time": "00:00",
+          "team1": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "team2": {
+            "name": "Korea Republic",
+            "code": "KOR"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": 1,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group G",
+          "stadium": {
+            "key": "zentralstadion",
+            "name": "Zentralstadion"
+          },
+          "city": "Leipzig"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 11",
+      "matches": [
+        {
+          "num": 30,
+          "date": "2006-06-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Togo",
+            "code": "TOG"
+          },
+          "team2": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "score1": 0,
+          "score2": 2,
+          "score1i": 0,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group G",
+          "stadium": {
+            "key": "signalidunapark",
+            "name": "Signal Iduna Park"
+          },
+          "city": "Dortmund"
+        },
+        {
+          "num": 31,
+          "date": "2006-06-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "Tunisia",
+            "code": "TUN"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": 0,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group H",
+          "stadium": {
+            "key": "gottliebdaimlerstadion",
+            "name": "Gottlieb-Daimler-Stadion"
+          },
+          "city": "Stuttgart"
+        },
+        {
+          "num": 32,
+          "date": "2006-06-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Saudi Arabia",
+            "code": "KSA"
+          },
+          "team2": {
+            "name": "Ukraine",
+            "code": "UKR"
+          },
+          "score1": 0,
+          "score2": 4,
+          "score1i": 0,
+          "score2i": 2,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group H",
+          "stadium": {
+            "key": "aolarena",
+            "name": "AOL Arena"
+          },
+          "city": "Hamburg"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 12",
+      "matches": [
+        {
+          "num": 33,
+          "date": "2006-06-20",
+          "time": "00:00",
+          "team1": {
+            "name": "Ecuador",
+            "code": "ECU"
+          },
+          "team2": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "score1": 0,
+          "score2": 3,
+          "score1i": 0,
+          "score2i": 2,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "olympiastadion",
+            "name": "Olympiastadion"
+          },
+          "city": "Berlin"
+        },
+        {
+          "num": 34,
+          "date": "2006-06-20",
+          "time": "00:00",
+          "team1": {
+            "name": "Costa Rica",
+            "code": "CRC"
+          },
+          "team2": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "score1": 1,
+          "score2": 2,
+          "score1i": 1,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "awdarena",
+            "name": "AWD-Arena"
+          },
+          "city": "Hannover"
+        },
+        {
+          "num": 35,
+          "date": "2006-06-20",
+          "time": "00:00",
+          "team1": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "team2": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "score1": 2,
+          "score2": 2,
+          "score1i": 0,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "rheinenergiestadion",
+            "name": "RheinEnergieStadion"
+          },
+          "city": "Köln"
+        },
+        {
+          "num": 36,
+          "date": "2006-06-20",
+          "time": "00:00",
+          "team1": {
+            "name": "Paraguay",
+            "code": "PAR"
+          },
+          "team2": {
+            "name": "Trinidad and Tobago",
+            "code": "TRI"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": 1,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "fritzwalterstadion",
+            "name": "Fritz-Walter-Stadion"
+          },
+          "city": "Kaiserslautern"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 13",
+      "matches": [
+        {
+          "num": 37,
+          "date": "2006-06-21",
+          "time": "00:00",
+          "team1": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "team2": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "commerzbankarena",
+            "name": "Commerzbank-Arena"
+          },
+          "city": "Frankfurt"
+        },
+        {
+          "num": 38,
+          "date": "2006-06-21",
+          "time": "00:00",
+          "team1": {
+            "name": "Côte d'Ivoire",
+            "code": "CIV"
+          },
+          "team2": {
+            "name": "Serbia and Montenegro",
+            "code": "SCG"
+          },
+          "score1": 3,
+          "score2": 2,
+          "score1i": 1,
+          "score2i": 2,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "arena",
+            "name": "Allianz Arena"
+          },
+          "city": "München"
+        },
+        {
+          "num": 39,
+          "date": "2006-06-21",
+          "time": "00:00",
+          "team1": {
+            "name": "Portugal",
+            "code": "POR"
+          },
+          "team2": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": 2,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "veltinsarena",
+            "name": "Veltins-Arena"
+          },
+          "city": "Gelsenkirchen"
+        },
+        {
+          "num": 40,
+          "date": "2006-06-21",
+          "time": "00:00",
+          "team1": {
+            "name": "Iran",
+            "code": "IRN"
+          },
+          "team2": {
+            "name": "Angola",
+            "code": "ANG"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "zentralstadion",
+            "name": "Zentralstadion"
+          },
+          "city": "Leipzig"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 14",
+      "matches": [
+        {
+          "num": 41,
+          "date": "2006-06-22",
+          "time": "00:00",
+          "team1": {
+            "name": "Czech Republic",
+            "code": "CZE"
+          },
+          "team2": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "score1": 0,
+          "score2": 2,
+          "score1i": 0,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "aolarena",
+            "name": "AOL Arena"
+          },
+          "city": "Hamburg"
+        },
+        {
+          "num": 42,
+          "date": "2006-06-22",
+          "time": "00:00",
+          "team1": {
+            "name": "Ghana",
+            "code": "GHA"
+          },
+          "team2": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": 2,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "frankenstadion",
+            "name": "Frankenstadion"
+          },
+          "city": "Nürnberg"
+        },
+        {
+          "num": 43,
+          "date": "2006-06-22",
+          "time": "00:00",
+          "team1": {
+            "name": "Japan",
+            "code": "JPN"
+          },
+          "team2": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "score1": 1,
+          "score2": 4,
+          "score1i": 1,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "signalidunapark",
+            "name": "Signal Iduna Park"
+          },
+          "city": "Dortmund"
+        },
+        {
+          "num": 44,
+          "date": "2006-06-22",
+          "time": "00:00",
+          "team1": {
+            "name": "Croatia",
+            "code": "CRO"
+          },
+          "team2": {
+            "name": "Australia",
+            "code": "AUS"
+          },
+          "score1": 2,
+          "score2": 2,
+          "score1i": 1,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "gottliebdaimlerstadion",
+            "name": "Gottlieb-Daimler-Stadion"
+          },
+          "city": "Stuttgart"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 15",
+      "matches": [
+        {
+          "num": 45,
+          "date": "2006-06-23",
+          "time": "00:00",
+          "team1": {
+            "name": "Togo",
+            "code": "TOG"
+          },
+          "team2": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "score1": 0,
+          "score2": 2,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group G",
+          "stadium": {
+            "key": "rheinenergiestadion",
+            "name": "RheinEnergieStadion"
+          },
+          "city": "Köln"
+        },
+        {
+          "num": 46,
+          "date": "2006-06-23",
+          "time": "00:00",
+          "team1": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "team2": {
+            "name": "Korea Republic",
+            "code": "KOR"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": 1,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group G",
+          "stadium": {
+            "key": "awdarena",
+            "name": "AWD-Arena"
+          },
+          "city": "Hannover"
+        },
+        {
+          "num": 47,
+          "date": "2006-06-23",
+          "time": "00:00",
+          "team1": {
+            "name": "Saudi Arabia",
+            "code": "KSA"
+          },
+          "team2": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": 0,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group H",
+          "stadium": {
+            "key": "fritzwalterstadion",
+            "name": "Fritz-Walter-Stadion"
+          },
+          "city": "Kaiserslautern"
+        },
+        {
+          "num": 48,
+          "date": "2006-06-23",
+          "time": "00:00",
+          "team1": {
+            "name": "Ukraine",
+            "code": "UKR"
+          },
+          "team2": {
+            "name": "Tunisia",
+            "code": "TUN"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group H",
+          "stadium": {
+            "key": "olympiastadion",
+            "name": "Olympiastadion"
+          },
+          "city": "Berlin"
+        }
+      ]
+    },
+    {
+      "name": "Round of 16",
+      "matches": [
+        {
+          "num": 49,
+          "date": "2006-06-24",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": 2,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "arena",
+            "name": "Allianz Arena"
+          },
+          "city": "München"
+        },
+        {
+          "num": 50,
+          "date": "2006-06-24",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 2,
+          "score2et": 1,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "zentralstadion",
+            "name": "Zentralstadion"
+          },
+          "city": "Leipzig"
+        },
+        {
+          "num": 51,
+          "date": "2006-06-25",
+          "time": "00:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Ecuador",
+            "code": "ECU"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "gottliebdaimlerstadion",
+            "name": "Gottlieb-Daimler-Stadion"
+          },
+          "city": "Stuttgart"
+        },
+        {
+          "num": 52,
+          "date": "2006-06-25",
+          "time": "00:00",
+          "team1": {
+            "name": "Portugal",
+            "code": "POR"
+          },
+          "team2": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": 1,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "frankenstadion",
+            "name": "Frankenstadion"
+          },
+          "city": "Nürnberg"
+        },
+        {
+          "num": 53,
+          "date": "2006-06-26",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Australia",
+            "code": "AUS"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "fritzwalterstadion",
+            "name": "Fritz-Walter-Stadion"
+          },
+          "city": "Kaiserslautern"
+        },
+        {
+          "num": 54,
+          "date": "2006-06-26",
+          "time": "00:00",
+          "team1": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "team2": {
+            "name": "Ukraine",
+            "code": "UKR"
+          },
+          "score1": 0,
+          "score2": 3,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 0,
+          "score2et": 0,
+          "score1p": 0,
+          "score2p": 3,
+          "stadium": {
+            "key": "rheinenergiestadion",
+            "name": "RheinEnergieStadion"
+          },
+          "city": "Köln"
+        },
+        {
+          "num": 55,
+          "date": "2006-06-27",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Ghana",
+            "code": "GHA"
+          },
+          "score1": 3,
+          "score2": 0,
+          "score1i": 2,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "signalidunapark",
+            "name": "Signal Iduna Park"
+          },
+          "city": "Dortmund"
+        },
+        {
+          "num": 56,
+          "date": "2006-06-27",
+          "time": "00:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "score1": 1,
+          "score2": 3,
+          "score1i": 1,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "awdarena",
+            "name": "AWD-Arena"
+          },
+          "city": "Hannover"
+        },
+        {
+          "num": 57,
+          "date": "2006-06-30",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "score1": 4,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 1,
+          "score2et": 1,
+          "score1p": 4,
+          "score2p": 2,
+          "stadium": {
+            "key": "olympiastadion",
+            "name": "Olympiastadion"
+          },
+          "city": "Berlin"
+        },
+        {
+          "num": 58,
+          "date": "2006-06-30",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Ukraine",
+            "code": "UKR"
+          },
+          "score1": 3,
+          "score2": 0,
+          "score1i": 1,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "aolarena",
+            "name": "AOL Arena"
+          },
+          "city": "Hamburg"
+        },
+        {
+          "num": 59,
+          "date": "2006-07-01",
+          "time": "00:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Portugal",
+            "code": "POR"
+          },
+          "score1": 1,
+          "score2": 3,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 0,
+          "score2et": 0,
+          "score1p": 1,
+          "score2p": 3,
+          "stadium": {
+            "key": "veltinsarena",
+            "name": "Veltins-Arena"
+          },
+          "city": "Gelsenkirchen"
+        },
+        {
+          "num": 60,
+          "date": "2006-07-01",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "commerzbankarena",
+            "name": "Commerzbank-Arena"
+          },
+          "city": "Frankfurt"
+        },
+        {
+          "num": 61,
+          "date": "2006-07-04",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "score1": 0,
+          "score2": 2,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 0,
+          "score2et": 2,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "signalidunapark",
+            "name": "Signal Iduna Park"
+          },
+          "city": "Dortmund"
+        },
+        {
+          "num": 62,
+          "date": "2006-07-05",
+          "time": "00:00",
+          "team1": {
+            "name": "Portugal",
+            "code": "POR"
+          },
+          "team2": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": 0,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "arena",
+            "name": "Allianz Arena"
+          },
+          "city": "München"
+        },
+        {
+          "num": 63,
+          "date": "2006-07-08",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Portugal",
+            "code": "POR"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "gottliebdaimlerstadion",
+            "name": "Gottlieb-Daimler-Stadion"
+          },
+          "city": "Stuttgart"
+        }
+      ]
+    },
+    {
+      "name": "Final",
+      "matches": [
+        {
+          "num": 64,
+          "date": "2006-07-09",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "score1": 5,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 1,
+          "score2et": 1,
+          "score1p": 5,
+          "score2p": 3,
+          "stadium": {
+            "key": "olympiastadion",
+            "name": "Olympiastadion"
+          },
+          "city": "Berlin"
+        }
+      ]
+    }
+  ]
+}

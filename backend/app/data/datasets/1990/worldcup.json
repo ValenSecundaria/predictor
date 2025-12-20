@@ -1,0 +1,1464 @@
+{
+  "name": "World Cup 1990",
+  "rounds": [
+    {
+      "name": "Matchday 1",
+      "matches": [
+        {
+          "num": 1,
+          "date": "1990-06-08",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Cameroon",
+            "code": "CMR"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "sansiro",
+            "name": "San Siro"
+          },
+          "city": "Milan"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 2",
+      "matches": [
+        {
+          "num": 2,
+          "date": "1990-06-09",
+          "time": "00:00",
+          "team1": {
+            "name": "Soviet Union",
+            "code": "URS"
+          },
+          "team2": {
+            "name": "Romania",
+            "code": "ROU"
+          },
+          "score1": 0,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "stadiosannicola",
+            "name": "Stadio San Nicola"
+          },
+          "city": "Bari"
+        },
+        {
+          "num": 3,
+          "date": "1990-06-09",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Austria",
+            "code": "AUT"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "stadioolimpico",
+            "name": "Stadio Olimpico"
+          },
+          "city": "Rome"
+        },
+        {
+          "num": 4,
+          "date": "1990-06-09",
+          "time": "00:00",
+          "team1": {
+            "name": "UAE",
+            "code": "UAE"
+          },
+          "team2": {
+            "name": "Colombia",
+            "code": "COL"
+          },
+          "score1": 0,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "stadiorenatodallara",
+            "name": "Stadio Renato Dall'Ara"
+          },
+          "city": "Bologna"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 3",
+      "matches": [
+        {
+          "num": 5,
+          "date": "1990-06-10",
+          "time": "00:00",
+          "team1": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "team2": {
+            "name": "Czechoslovakia",
+            "code": "TCH"
+          },
+          "score1": 1,
+          "score2": 5,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "stadiocomunale",
+            "name": "Stadio Comunale"
+          },
+          "city": "Florence"
+        },
+        {
+          "num": 6,
+          "date": "1990-06-10",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "stadiodellealpi",
+            "name": "Stadio Delle Alpi"
+          },
+          "city": "Turin"
+        },
+        {
+          "num": 7,
+          "date": "1990-06-10",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "score1": 4,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "sansiro",
+            "name": "San Siro"
+          },
+          "city": "Milan"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 4",
+      "matches": [
+        {
+          "num": 8,
+          "date": "1990-06-11",
+          "time": "00:00",
+          "team1": {
+            "name": "Costa Rica",
+            "code": "CRC"
+          },
+          "team2": {
+            "name": "Scotland",
+            "code": "SCO"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "stadioluigiferraris",
+            "name": "Stadio Luigi Ferraris"
+          },
+          "city": "Genoa"
+        },
+        {
+          "num": 9,
+          "date": "1990-06-11",
+          "time": "00:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Republic of Ireland",
+            "code": "IRL"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "stadiosantelia",
+            "name": "Stadio Sant'Elia"
+          },
+          "city": "Cagliari"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 5",
+      "matches": [
+        {
+          "num": 10,
+          "date": "1990-06-12",
+          "time": "00:00",
+          "team1": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "team2": {
+            "name": "Korea Republic",
+            "code": "KOR"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "stadiomarcantoniobentegodi",
+            "name": "Stadio Marc'Antonio Bentegodi"
+          },
+          "city": "Verona"
+        },
+        {
+          "num": 11,
+          "date": "1990-06-12",
+          "time": "00:00",
+          "team1": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "team2": {
+            "name": "Egypt",
+            "code": "EGY"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "stadiolafavorita",
+            "name": "Stadio La Favorita"
+          },
+          "city": "Palermo"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 6",
+      "matches": [
+        {
+          "num": 12,
+          "date": "1990-06-13",
+          "time": "00:00",
+          "team1": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "team2": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "stadiofriuli",
+            "name": "Stadio Friuli"
+          },
+          "city": "Udine"
+        },
+        {
+          "num": 13,
+          "date": "1990-06-13",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Soviet Union",
+            "code": "URS"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "stadiosanpaolo",
+            "name": "Stadio San Paolo"
+          },
+          "city": "Naples"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 7",
+      "matches": [
+        {
+          "num": 14,
+          "date": "1990-06-14",
+          "time": "00:00",
+          "team1": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "team2": {
+            "name": "Colombia",
+            "code": "COL"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "stadiorenatodallara",
+            "name": "Stadio Renato Dall'Ara"
+          },
+          "city": "Bologna"
+        },
+        {
+          "num": 15,
+          "date": "1990-06-14",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "stadioolimpico",
+            "name": "Stadio Olimpico"
+          },
+          "city": "Rome"
+        },
+        {
+          "num": 16,
+          "date": "1990-06-14",
+          "time": "00:00",
+          "team1": {
+            "name": "Cameroon",
+            "code": "CMR"
+          },
+          "team2": {
+            "name": "Romania",
+            "code": "ROU"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "stadiosannicola",
+            "name": "Stadio San Nicola"
+          },
+          "city": "Bari"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 8",
+      "matches": [
+        {
+          "num": 17,
+          "date": "1990-06-15",
+          "time": "00:00",
+          "team1": {
+            "name": "Austria",
+            "code": "AUT"
+          },
+          "team2": {
+            "name": "Czechoslovakia",
+            "code": "TCH"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "stadiocomunale",
+            "name": "Stadio Comunale"
+          },
+          "city": "Florence"
+        },
+        {
+          "num": 18,
+          "date": "1990-06-15",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "UAE",
+            "code": "UAE"
+          },
+          "score1": 5,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "sansiro",
+            "name": "San Siro"
+          },
+          "city": "Milan"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 9",
+      "matches": [
+        {
+          "num": 19,
+          "date": "1990-06-16",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Costa Rica",
+            "code": "CRC"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "stadiodellealpi",
+            "name": "Stadio Delle Alpi"
+          },
+          "city": "Turin"
+        },
+        {
+          "num": 20,
+          "date": "1990-06-16",
+          "time": "00:00",
+          "team1": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "team2": {
+            "name": "Scotland",
+            "code": "SCO"
+          },
+          "score1": 1,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "stadioluigiferraris",
+            "name": "Stadio Luigi Ferraris"
+          },
+          "city": "Genoa"
+        },
+        {
+          "num": 21,
+          "date": "1990-06-16",
+          "time": "00:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "stadiosantelia",
+            "name": "Stadio Sant'Elia"
+          },
+          "city": "Cagliari"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 10",
+      "matches": [
+        {
+          "num": 22,
+          "date": "1990-06-17",
+          "time": "00:00",
+          "team1": {
+            "name": "Republic of Ireland",
+            "code": "IRL"
+          },
+          "team2": {
+            "name": "Egypt",
+            "code": "EGY"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "stadiolafavorita",
+            "name": "Stadio La Favorita"
+          },
+          "city": "Palermo"
+        },
+        {
+          "num": 23,
+          "date": "1990-06-17",
+          "time": "00:00",
+          "team1": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "team2": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "stadiomarcantoniobentegodi",
+            "name": "Stadio Marc'Antonio Bentegodi"
+          },
+          "city": "Verona"
+        },
+        {
+          "num": 24,
+          "date": "1990-06-17",
+          "time": "00:00",
+          "team1": {
+            "name": "Korea Republic",
+            "code": "KOR"
+          },
+          "team2": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "score1": 1,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "stadiofriuli",
+            "name": "Stadio Friuli"
+          },
+          "city": "Udine"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 11",
+      "matches": [
+        {
+          "num": 25,
+          "date": "1990-06-18",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Romania",
+            "code": "ROU"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "stadiosanpaolo",
+            "name": "Stadio San Paolo"
+          },
+          "city": "Naples"
+        },
+        {
+          "num": 26,
+          "date": "1990-06-18",
+          "time": "00:00",
+          "team1": {
+            "name": "Cameroon",
+            "code": "CMR"
+          },
+          "team2": {
+            "name": "Soviet Union",
+            "code": "URS"
+          },
+          "score1": 0,
+          "score2": 4,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "stadiosannicola",
+            "name": "Stadio San Nicola"
+          },
+          "city": "Bari"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 12",
+      "matches": [
+        {
+          "num": 27,
+          "date": "1990-06-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Colombia",
+            "code": "COL"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "sansiro",
+            "name": "San Siro"
+          },
+          "city": "Milan"
+        },
+        {
+          "num": 28,
+          "date": "1990-06-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "team2": {
+            "name": "UAE",
+            "code": "UAE"
+          },
+          "score1": 4,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "stadiorenatodallara",
+            "name": "Stadio Renato Dall'Ara"
+          },
+          "city": "Bologna"
+        },
+        {
+          "num": 29,
+          "date": "1990-06-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Czechoslovakia",
+            "code": "TCH"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "stadioolimpico",
+            "name": "Stadio Olimpico"
+          },
+          "city": "Rome"
+        },
+        {
+          "num": 30,
+          "date": "1990-06-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Austria",
+            "code": "AUT"
+          },
+          "team2": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "stadiocomunale",
+            "name": "Stadio Comunale"
+          },
+          "city": "Florence"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 13",
+      "matches": [
+        {
+          "num": 31,
+          "date": "1990-06-20",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Scotland",
+            "code": "SCO"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "stadiodellealpi",
+            "name": "Stadio Delle Alpi"
+          },
+          "city": "Turin"
+        },
+        {
+          "num": 32,
+          "date": "1990-06-20",
+          "time": "00:00",
+          "team1": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "team2": {
+            "name": "Costa Rica",
+            "code": "CRC"
+          },
+          "score1": 1,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "stadioluigiferraris",
+            "name": "Stadio Luigi Ferraris"
+          },
+          "city": "Genoa"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 14",
+      "matches": [
+        {
+          "num": 33,
+          "date": "1990-06-21",
+          "time": "00:00",
+          "team1": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "team2": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "score1": 1,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "stadiomarcantoniobentegodi",
+            "name": "Stadio Marc'Antonio Bentegodi"
+          },
+          "city": "Verona"
+        },
+        {
+          "num": 34,
+          "date": "1990-06-21",
+          "time": "00:00",
+          "team1": {
+            "name": "Korea Republic",
+            "code": "KOR"
+          },
+          "team2": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "stadiofriuli",
+            "name": "Stadio Friuli"
+          },
+          "city": "Udine"
+        },
+        {
+          "num": 35,
+          "date": "1990-06-21",
+          "time": "00:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Egypt",
+            "code": "EGY"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "stadiosantelia",
+            "name": "Stadio Sant'Elia"
+          },
+          "city": "Cagliari"
+        },
+        {
+          "num": 36,
+          "date": "1990-06-21",
+          "time": "00:00",
+          "team1": {
+            "name": "Republic of Ireland",
+            "code": "IRL"
+          },
+          "team2": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "stadiolafavorita",
+            "name": "Stadio La Favorita"
+          },
+          "city": "Palermo"
+        }
+      ]
+    },
+    {
+      "name": "Round of 16",
+      "matches": [
+        {
+          "num": 37,
+          "date": "1990-06-23",
+          "time": "00:00",
+          "team1": {
+            "name": "Cameroon",
+            "code": "CMR"
+          },
+          "team2": {
+            "name": "Colombia",
+            "code": "COL"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 2,
+          "score2et": 1,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadiosanpaolo",
+            "name": "Stadio San Paolo"
+          },
+          "city": "Naples"
+        },
+        {
+          "num": 38,
+          "date": "1990-06-23",
+          "time": "00:00",
+          "team1": {
+            "name": "Czechoslovakia",
+            "code": "TCH"
+          },
+          "team2": {
+            "name": "Costa Rica",
+            "code": "CRC"
+          },
+          "score1": 4,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadiosannicola",
+            "name": "Stadio San Nicola"
+          },
+          "city": "Bari"
+        },
+        {
+          "num": 39,
+          "date": "1990-06-24",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadiodellealpi",
+            "name": "Stadio Delle Alpi"
+          },
+          "city": "Turin"
+        },
+        {
+          "num": 40,
+          "date": "1990-06-24",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "sansiro",
+            "name": "San Siro"
+          },
+          "city": "Milan"
+        },
+        {
+          "num": 41,
+          "date": "1990-06-25",
+          "time": "00:00",
+          "team1": {
+            "name": "Republic of Ireland",
+            "code": "IRL"
+          },
+          "team2": {
+            "name": "Romania",
+            "code": "ROU"
+          },
+          "score1": 5,
+          "score2": 4,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 0,
+          "score2et": 0,
+          "score1p": 5,
+          "score2p": 4,
+          "stadium": {
+            "key": "stadioluigiferraris",
+            "name": "Stadio Luigi Ferraris"
+          },
+          "city": "Genoa"
+        },
+        {
+          "num": 42,
+          "date": "1990-06-25",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadioolimpico",
+            "name": "Stadio Olimpico"
+          },
+          "city": "Rome"
+        },
+        {
+          "num": 43,
+          "date": "1990-06-26",
+          "time": "00:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "score1": 1,
+          "score2": 2,
+          "score1i": 1,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 1,
+          "score2et": 2,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadiomarcantoniobentegodi",
+            "name": "Stadio Marc'Antonio Bentegodi"
+          },
+          "city": "Verona"
+        },
+        {
+          "num": 44,
+          "date": "1990-06-26",
+          "time": "00:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 1,
+          "score2et": 0,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadiorenatodallara",
+            "name": "Stadio Renato Dall'Ara"
+          },
+          "city": "Bologna"
+        }
+      ]
+    },
+    {
+      "name": "Quarter-finals",
+      "matches": [
+        {
+          "num": 45,
+          "date": "1990-06-30",
+          "time": "00:00",
+          "team1": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "team2": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "score1": 2,
+          "score2": 3,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 0,
+          "score2et": 0,
+          "score1p": 2,
+          "score2p": 3,
+          "stadium": {
+            "key": "stadioartemiofranchi",
+            "name": "Stadio Artemio Franchi"
+          },
+          "city": "Florence"
+        },
+        {
+          "num": 46,
+          "date": "1990-06-30",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Republic of Ireland",
+            "code": "IRL"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadioolimpico",
+            "name": "Stadio Olimpico"
+          },
+          "city": "Rome"
+        },
+        {
+          "num": 47,
+          "date": "1990-07-01",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Czechoslovakia",
+            "code": "TCH"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "sansiro",
+            "name": "San Siro"
+          },
+          "city": "Milan"
+        },
+        {
+          "num": 48,
+          "date": "1990-07-01",
+          "time": "00:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Cameroon",
+            "code": "CMR"
+          },
+          "score1": 3,
+          "score2": 2,
+          "score1i": 2,
+          "score2i": 2,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 3,
+          "score2et": 2,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadiosanpaolo",
+            "name": "Stadio San Paolo"
+          },
+          "city": "Naples"
+        }
+      ]
+    },
+    {
+      "name": "Semi-finals",
+      "matches": [
+        {
+          "num": 49,
+          "date": "1990-07-03",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "score1": 3,
+          "score2": 4,
+          "score1i": 1,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 1,
+          "score2et": 1,
+          "score1p": 3,
+          "score2p": 4,
+          "stadium": {
+            "key": "stadiosanpaolo",
+            "name": "Stadio San Paolo"
+          },
+          "city": "Naples"
+        },
+        {
+          "num": 50,
+          "date": "1990-07-04",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "score1": 4,
+          "score2": 3,
+          "score1i": 1,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 1,
+          "score2et": 1,
+          "score1p": 4,
+          "score2p": 3,
+          "stadium": {
+            "key": "stadiodellealpi",
+            "name": "Stadio delle Alpi"
+          },
+          "city": "Turin"
+        }
+      ]
+    },
+    {
+      "name": "Third-place match",
+      "matches": [
+        {
+          "num": 51,
+          "date": "1990-07-07",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadiosannicola",
+            "name": "Stadio San Nicola"
+          },
+          "city": "Bari"
+        }
+      ]
+    },
+    {
+      "name": "Final",
+      "matches": [
+        {
+          "num": 52,
+          "date": "1990-07-08",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadioolimpico",
+            "name": "Stadio Olimpico"
+          },
+          "city": "Rome"
+        }
+      ]
+    }
+  ]
+}

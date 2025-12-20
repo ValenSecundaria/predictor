@@ -1,0 +1,131 @@
+{
+  "name": "World Cup 1974",
+  "groups": [
+    {
+      "name": "Group 1",
+      "teams": [
+        {
+          "name": "East Germany",
+          "code": "GDR"
+        },
+        {
+          "name": "Germany",
+          "code": "GER"
+        },
+        {
+          "name": "Chile",
+          "code": "CHI"
+        },
+        {
+          "name": "Australia",
+          "code": "AUS"
+        }
+      ]
+    },
+    {
+      "name": "Group 2",
+      "teams": [
+        {
+          "name": "Yugoslavia",
+          "code": "YUG"
+        },
+        {
+          "name": "Brazil",
+          "code": "BRA"
+        },
+        {
+          "name": "Scotland",
+          "code": "SCO"
+        },
+        {
+          "name": "DR Congo",
+          "code": "COD"
+        }
+      ]
+    },
+    {
+      "name": "Group 3",
+      "teams": [
+        {
+          "name": "Netherlands",
+          "code": "NED"
+        },
+        {
+          "name": "Sweden",
+          "code": "SWE"
+        },
+        {
+          "name": "Bulgaria",
+          "code": "BUL"
+        },
+        {
+          "name": "Uruguay",
+          "code": "URU"
+        }
+      ]
+    },
+    {
+      "name": "Group 4",
+      "teams": [
+        {
+          "name": "Poland",
+          "code": "POL"
+        },
+        {
+          "name": "Argentina",
+          "code": "ARG"
+        },
+        {
+          "name": "Italy",
+          "code": "ITA"
+        },
+        {
+          "name": "Haiti",
+          "code": "HAI"
+        }
+      ]
+    },
+    {
+      "name": "Group A",
+      "teams": [
+        {
+          "name": "Netherlands",
+          "code": "NED"
+        },
+        {
+          "name": "Brazil",
+          "code": "BRA"
+        },
+        {
+          "name": "East Germany",
+          "code": "GDR"
+        },
+        {
+          "name": "Argentina",
+          "code": "ARG"
+        }
+      ]
+    },
+    {
+      "name": "Group B",
+      "teams": [
+        {
+          "name": "Germany",
+          "code": "GER"
+        },
+        {
+          "name": "Poland",
+          "code": "POL"
+        },
+        {
+          "name": "Sweden",
+          "code": "SWE"
+        },
+        {
+          "name": "Yugoslavia",
+          "code": "YUG"
+        }
+      ]
+    }
+  ]
+}

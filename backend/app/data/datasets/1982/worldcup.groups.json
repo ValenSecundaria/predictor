@@ -1,0 +1,157 @@
+{
+  "name": "World Cup 1982",
+  "groups": [
+    {
+      "name": "Group 1",
+      "teams": [
+        {
+          "name": "Poland",
+          "code": "POL"
+        },
+        {
+          "name": "Italy",
+          "code": "ITA"
+        },
+        {
+          "name": "Cameroon",
+          "code": "CMR"
+        },
+        {
+          "name": "Peru",
+          "code": "PER"
+        }
+      ]
+    },
+    {
+      "name": "Group 2",
+      "teams": [
+        {
+          "name": "Germany",
+          "code": "GER"
+        },
+        {
+          "name": "Austria",
+          "code": "AUT"
+        },
+        {
+          "name": "Algeria",
+          "code": "ALG"
+        },
+        {
+          "name": "Chile",
+          "code": "CHI"
+        }
+      ]
+    },
+    {
+      "name": "Group 3",
+      "teams": [
+        {
+          "name": "Belgium",
+          "code": "BEL"
+        },
+        {
+          "name": "Argentina",
+          "code": "ARG"
+        },
+        {
+          "name": "Hungary",
+          "code": "HUN"
+        },
+        {
+          "name": "El Salvador",
+          "code": "SLV"
+        }
+      ]
+    },
+    {
+      "name": "Group 4",
+      "teams": [
+        {
+          "name": "England",
+          "code": "ENG"
+        },
+        {
+          "name": "France",
+          "code": "FRA"
+        },
+        {
+          "name": "Czechoslovakia",
+          "code": "TCH"
+        },
+        {
+          "name": "Kuwait",
+          "code": "KUW"
+        }
+      ]
+    },
+    {
+      "name": "Group A",
+      "teams": [
+        {
+          "name": "Poland",
+          "code": "POL"
+        },
+        {
+          "name": "Soviet Union",
+          "code": "URS"
+        },
+        {
+          "name": "Belgium",
+          "code": "BEL"
+        }
+      ]
+    },
+    {
+      "name": "Group B",
+      "teams": [
+        {
+          "name": "Germany",
+          "code": "GER"
+        },
+        {
+          "name": "England",
+          "code": "ENG"
+        },
+        {
+          "name": "Spain",
+          "code": "ESP"
+        }
+      ]
+    },
+    {
+      "name": "Group C",
+      "teams": [
+        {
+          "name": "Italy",
+          "code": "ITA"
+        },
+        {
+          "name": "Brazil",
+          "code": "BRA"
+        },
+        {
+          "name": "Argentina",
+          "code": "ARG"
+        }
+      ]
+    },
+    {
+      "name": "Group D",
+      "teams": [
+        {
+          "name": "France",
+          "code": "FRA"
+        },
+        {
+          "name": "Austria",
+          "code": "AUT"
+        },
+        {
+          "name": "Northern Ireland",
+          "code": "NIR"
+        }
+      ]
+    }
+  ]
+}

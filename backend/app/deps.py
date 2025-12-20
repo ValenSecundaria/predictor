@@ -6,9 +6,19 @@ from app.core.entities import ApiMatch, TeamGroupInfo
 from app.data.ingestion.json_reader import load_worldcup_data_from_json, load_worldcup_groups_data_from_json
 from app.data.cleaning.match_cleaner import flatten_and_transform_matches
 
-BASE_DIR = Path(__file__).resolve().parents[2] # Sube dos niveles: app/api -> app -> backend
+BASE_DIR = Path(__file__).resolve().parent # app directory
 DATASETS_DIR = BASE_DIR / "data" / "datasets"
-YEARS = ["2014", "2018"]
+
+def get_available_years(datasets_dir: Path) -> List[str]:
+    years = []
+    if datasets_dir.exists():
+        for item in datasets_dir.iterdir():
+            if item.is_dir() and item.name.isdigit():
+                if (item / "worldcup.json").exists():
+                    years.append(item.name)
+    return sorted(years)
+
+YEARS = get_available_years(DATASETS_DIR)
 
 @lru_cache(maxsize=None)
 def get_all_matches() -> List[ApiMatch]:
@@ -17,7 +27,7 @@ def get_all_matches() -> List[ApiMatch]:
     for year in YEARS:
         worldcup_json_path = DATASETS_DIR / year / "worldcup.json"
         worldcup_data = load_worldcup_data_from_json(worldcup_json_path)
-        all_matches.extend(flatten_and_transform_matches(worldcup_data))
+        all_matches.extend(flatten_and_transform_matches(worldcup_data, year=year))
     return all_matches
 
 @lru_cache(maxsize=None)

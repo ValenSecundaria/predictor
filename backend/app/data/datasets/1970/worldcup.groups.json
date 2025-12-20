@@ -1,0 +1,89 @@
+{
+  "name": "World Cup 1970",
+  "groups": [
+    {
+      "name": "Group 1",
+      "teams": [
+        {
+          "name": "Soviet Union",
+          "code": "URS"
+        },
+        {
+          "name": "Mexico",
+          "code": "MEX"
+        },
+        {
+          "name": "Belgium",
+          "code": "BEL"
+        },
+        {
+          "name": "El Salvador",
+          "code": "SLV"
+        }
+      ]
+    },
+    {
+      "name": "Group 2",
+      "teams": [
+        {
+          "name": "Italy",
+          "code": "ITA"
+        },
+        {
+          "name": "Uruguay",
+          "code": "URU"
+        },
+        {
+          "name": "Sweden",
+          "code": "SWE"
+        },
+        {
+          "name": "Israel",
+          "code": "ISR"
+        }
+      ]
+    },
+    {
+      "name": "Group 3",
+      "teams": [
+        {
+          "name": "Brazil",
+          "code": "BRA"
+        },
+        {
+          "name": "England",
+          "code": "ENG"
+        },
+        {
+          "name": "Romania",
+          "code": "ROU"
+        },
+        {
+          "name": "Czechoslovakia",
+          "code": "TCH"
+        }
+      ]
+    },
+    {
+      "name": "Group 4",
+      "teams": [
+        {
+          "name": "Germany",
+          "code": "GER"
+        },
+        {
+          "name": "Peru",
+          "code": "PER"
+        },
+        {
+          "name": "Bulgaria",
+          "code": "BUL"
+        },
+        {
+          "name": "Morocco",
+          "code": "MAR"
+        }
+      ]
+    }
+  ]
+}

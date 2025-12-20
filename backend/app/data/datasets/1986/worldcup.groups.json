@@ -1,0 +1,131 @@
+{
+  "name": "World Cup 1986",
+  "groups": [
+    {
+      "name": "Group A",
+      "teams": [
+        {
+          "name": "Argentina",
+          "code": "ARG"
+        },
+        {
+          "name": "Italy",
+          "code": "ITA"
+        },
+        {
+          "name": "Bulgaria",
+          "code": "BUL"
+        },
+        {
+          "name": "Korea Republic",
+          "code": "KOR"
+        }
+      ]
+    },
+    {
+      "name": "Group B",
+      "teams": [
+        {
+          "name": "Mexico",
+          "code": "MEX"
+        },
+        {
+          "name": "Paraguay",
+          "code": "PAR"
+        },
+        {
+          "name": "Belgium",
+          "code": "BEL"
+        },
+        {
+          "name": "Iraq",
+          "code": "IRQ"
+        }
+      ]
+    },
+    {
+      "name": "Group C",
+      "teams": [
+        {
+          "name": "Soviet Union",
+          "code": "URS"
+        },
+        {
+          "name": "France",
+          "code": "FRA"
+        },
+        {
+          "name": "Hungary",
+          "code": "HUN"
+        },
+        {
+          "name": "Canada",
+          "code": "CAN"
+        }
+      ]
+    },
+    {
+      "name": "Group D",
+      "teams": [
+        {
+          "name": "Brazil",
+          "code": "BRA"
+        },
+        {
+          "name": "Spain",
+          "code": "ESP"
+        },
+        {
+          "name": "Northern Ireland",
+          "code": "NIR"
+        },
+        {
+          "name": "Algeria",
+          "code": "ALG"
+        }
+      ]
+    },
+    {
+      "name": "Group E",
+      "teams": [
+        {
+          "name": "Denmark",
+          "code": "DEN"
+        },
+        {
+          "name": "Germany",
+          "code": "GER"
+        },
+        {
+          "name": "Uruguay",
+          "code": "URU"
+        },
+        {
+          "name": "Scotland",
+          "code": "SCO"
+        }
+      ]
+    },
+    {
+      "name": "Group F",
+      "teams": [
+        {
+          "name": "Morocco",
+          "code": "MAR"
+        },
+        {
+          "name": "England",
+          "code": "ENG"
+        },
+        {
+          "name": "Poland",
+          "code": "POL"
+        },
+        {
+          "name": "Portugal",
+          "code": "POR"
+        }
+      ]
+    }
+  ]
+}

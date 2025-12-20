@@ -1,0 +1,1023 @@
+{
+  "name": "World Cup 1974",
+  "rounds": [
+    {
+      "name": "Matchday 1",
+      "matches": [
+        {
+          "num": 3,
+          "date": "1974-06-13",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "waldstadion",
+            "name": "Waldstadion"
+          },
+          "city": "Frankfurt"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 2",
+      "matches": [
+        {
+          "num": 1,
+          "date": "1974-06-14",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "olympiastadion",
+            "name": "Olympiastadion"
+          },
+          "city": "West Berlin"
+        },
+        {
+          "num": 2,
+          "date": "1974-06-14",
+          "time": "00:00",
+          "team1": {
+            "name": "East Germany",
+            "code": "GDR"
+          },
+          "team2": {
+            "name": "Australia",
+            "code": "AUS"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "volksparkstadion",
+            "name": "Volksparkstadion"
+          },
+          "city": "Hamburg"
+        },
+        {
+          "num": 4,
+          "date": "1974-06-14",
+          "time": "00:00",
+          "team1": {
+            "name": "DR Congo",
+            "code": "COD"
+          },
+          "team2": {
+            "name": "Scotland",
+            "code": "SCO"
+          },
+          "score1": 0,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "westfalenstadion",
+            "name": "Westfalenstadion"
+          },
+          "city": "Dortmund"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 3",
+      "matches": [
+        {
+          "num": 5,
+          "date": "1974-06-15",
+          "time": "00:00",
+          "team1": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "team2": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "score1": 0,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "niedersachsenstadion",
+            "name": "Niedersachsenstadion"
+          },
+          "city": "Hanover"
+        },
+        {
+          "num": 6,
+          "date": "1974-06-15",
+          "time": "00:00",
+          "team1": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "team2": {
+            "name": "Bulgaria",
+            "code": "BUL"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "rheinstadion",
+            "name": "Rheinstadion"
+          },
+          "city": "Düsseldorf"
+        },
+        {
+          "num": 7,
+          "date": "1974-06-15",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Haiti",
+            "code": "HAI"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "olympiastadion",
+            "name": "Olympiastadion"
+          },
+          "city": "Munich"
+        },
+        {
+          "num": 8,
+          "date": "1974-06-15",
+          "time": "00:00",
+          "team1": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "team2": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "score1": 3,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "neckarstadion",
+            "name": "Neckarstadion"
+          },
+          "city": "Stuttgart"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 4",
+      "matches": [
+        {
+          "num": 9,
+          "date": "1974-06-18",
+          "time": "00:00",
+          "team1": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "team2": {
+            "name": "East Germany",
+            "code": "GDR"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "olympiastadion",
+            "name": "Olympiastadion"
+          },
+          "city": "West Berlin"
+        },
+        {
+          "num": 10,
+          "date": "1974-06-18",
+          "time": "00:00",
+          "team1": {
+            "name": "Australia",
+            "code": "AUS"
+          },
+          "team2": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "score1": 0,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "volksparkstadion",
+            "name": "Volksparkstadion"
+          },
+          "city": "Hamburg"
+        },
+        {
+          "num": 11,
+          "date": "1974-06-18",
+          "time": "00:00",
+          "team1": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "team2": {
+            "name": "DR Congo",
+            "code": "COD"
+          },
+          "score1": 9,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "parkstadion",
+            "name": "Parkstadion"
+          },
+          "city": "Gelsenkirchen"
+        },
+        {
+          "num": 12,
+          "date": "1974-06-18",
+          "time": "00:00",
+          "team1": {
+            "name": "Scotland",
+            "code": "SCO"
+          },
+          "team2": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "waldstadion",
+            "name": "Waldstadion"
+          },
+          "city": "Frankfurt"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 5",
+      "matches": [
+        {
+          "num": 13,
+          "date": "1974-06-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "team2": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "westfalenstadion",
+            "name": "Westfalenstadion"
+          },
+          "city": "Dortmund"
+        },
+        {
+          "num": 14,
+          "date": "1974-06-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "team2": {
+            "name": "Bulgaria",
+            "code": "BUL"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "niedersachsenstadion",
+            "name": "Niedersachsenstadion"
+          },
+          "city": "Hanover"
+        },
+        {
+          "num": 15,
+          "date": "1974-06-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Haiti",
+            "code": "HAI"
+          },
+          "team2": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "score1": 0,
+          "score2": 7,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "olympiastadion",
+            "name": "Olympiastadion"
+          },
+          "city": "Munich"
+        },
+        {
+          "num": 16,
+          "date": "1974-06-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "neckarstadion",
+            "name": "Neckarstadion"
+          },
+          "city": "Stuttgart"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 6",
+      "matches": [
+        {
+          "num": 17,
+          "date": "1974-06-22",
+          "time": "00:00",
+          "team1": {
+            "name": "Australia",
+            "code": "AUS"
+          },
+          "team2": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "olympiastadion",
+            "name": "Olympiastadion"
+          },
+          "city": "West Berlin"
+        },
+        {
+          "num": 18,
+          "date": "1974-06-22",
+          "time": "00:00",
+          "team1": {
+            "name": "East Germany",
+            "code": "GDR"
+          },
+          "team2": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "volksparkstadion",
+            "name": "Volksparkstadion"
+          },
+          "city": "Hamburg"
+        },
+        {
+          "num": 19,
+          "date": "1974-06-22",
+          "time": "00:00",
+          "team1": {
+            "name": "Scotland",
+            "code": "SCO"
+          },
+          "team2": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "waldstadion",
+            "name": "Waldstadion"
+          },
+          "city": "Frankfurt"
+        },
+        {
+          "num": 20,
+          "date": "1974-06-22",
+          "time": "00:00",
+          "team1": {
+            "name": "DR Congo",
+            "code": "COD"
+          },
+          "team2": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "score1": 0,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "parkstadion",
+            "name": "Parkstadion"
+          },
+          "city": "Gelsenkirchen"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 7",
+      "matches": [
+        {
+          "num": 21,
+          "date": "1974-06-23",
+          "time": "00:00",
+          "team1": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "team2": {
+            "name": "Bulgaria",
+            "code": "BUL"
+          },
+          "score1": 4,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "westfalenstadion",
+            "name": "Westfalenstadion"
+          },
+          "city": "Dortmund"
+        },
+        {
+          "num": 22,
+          "date": "1974-06-23",
+          "time": "00:00",
+          "team1": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "team2": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "score1": 3,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "rheinstadion",
+            "name": "Rheinstadion"
+          },
+          "city": "Düsseldorf"
+        },
+        {
+          "num": 23,
+          "date": "1974-06-23",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Haiti",
+            "code": "HAI"
+          },
+          "score1": 4,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "olympiastadion",
+            "name": "Olympiastadion"
+          },
+          "city": "Munich"
+        },
+        {
+          "num": 24,
+          "date": "1974-06-23",
+          "time": "00:00",
+          "team1": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "team2": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "neckarstadion",
+            "name": "Neckarstadion"
+          },
+          "city": "Stuttgart"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 8",
+      "matches": [
+        {
+          "num": 25,
+          "date": "1974-06-26",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "East Germany",
+            "code": "GDR"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "niedersachsenstadion",
+            "name": "Niedersachsenstadion"
+          },
+          "city": "Hanover"
+        },
+        {
+          "num": 26,
+          "date": "1974-06-26",
+          "time": "00:00",
+          "team1": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "team2": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "score1": 4,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "parkstadion",
+            "name": "Parkstadion"
+          },
+          "city": "Gelsenkirchen"
+        },
+        {
+          "num": 27,
+          "date": "1974-06-26",
+          "time": "00:00",
+          "team1": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "team2": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "score1": 0,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "rheinstadion",
+            "name": "Rheinstadion"
+          },
+          "city": "Düsseldorf"
+        },
+        {
+          "num": 28,
+          "date": "1974-06-26",
+          "time": "00:00",
+          "team1": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "team2": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "neckarstadion",
+            "name": "Neckarstadion"
+          },
+          "city": "Stuttgart"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 9",
+      "matches": [
+        {
+          "num": 29,
+          "date": "1974-06-30",
+          "time": "00:00",
+          "team1": {
+            "name": "East Germany",
+            "code": "GDR"
+          },
+          "team2": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "score1": 0,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "parkstadion",
+            "name": "Parkstadion"
+          },
+          "city": "Gelsenkirchen"
+        },
+        {
+          "num": 30,
+          "date": "1974-06-30",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "score1": 1,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "niedersachsenstadion",
+            "name": "Niedersachsenstadion"
+          },
+          "city": "Hanover"
+        },
+        {
+          "num": 31,
+          "date": "1974-06-30",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "score1": 4,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "rheinstadion",
+            "name": "Rheinstadion"
+          },
+          "city": "Düsseldorf"
+        },
+        {
+          "num": 32,
+          "date": "1974-06-30",
+          "time": "00:00",
+          "team1": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "team2": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "waldstadion",
+            "name": "Waldstadion"
+          },
+          "city": "Frankfurt"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 10",
+      "matches": [
+        {
+          "num": 33,
+          "date": "1974-07-03",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "East Germany",
+            "code": "GDR"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "parkstadion",
+            "name": "Parkstadion"
+          },
+          "city": "Gelsenkirchen"
+        },
+        {
+          "num": 34,
+          "date": "1974-07-03",
+          "time": "00:00",
+          "team1": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "team2": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "westfalenstadion",
+            "name": "Westfalenstadion"
+          },
+          "city": "Dortmund"
+        },
+        {
+          "num": 35,
+          "date": "1974-07-03",
+          "time": "00:00",
+          "team1": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "team2": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "waldstadion",
+            "name": "Waldstadion"
+          },
+          "city": "Frankfurt"
+        },
+        {
+          "num": 36,
+          "date": "1974-07-03",
+          "time": "00:00",
+          "team1": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "team2": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "rheinstadion",
+            "name": "Rheinstadion"
+          },
+          "city": "Düsseldorf"
+        }
+      ]
+    },
+    {
+      "name": "Third-place match",
+      "matches": [
+        {
+          "num": 37,
+          "date": "1974-07-06",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "olympiastadion",
+            "name": "Olympiastadion"
+          },
+          "city": "Munich"
+        }
+      ]
+    },
+    {
+      "name": "Final",
+      "matches": [
+        {
+          "num": 38,
+          "date": "1974-07-07",
+          "time": "00:00",
+          "team1": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "team2": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "score1": 1,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "olympiastadion",
+            "name": "Olympiastadion"
+          },
+          "city": "Munich"
+        }
+      ]
+    }
+  ]
+}

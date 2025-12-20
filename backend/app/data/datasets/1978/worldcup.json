@@ -1,0 +1,1023 @@
+{
+  "name": "World Cup 1978",
+  "rounds": [
+    {
+      "name": "Matchday 1",
+      "matches": [
+        {
+          "num": 1,
+          "date": "1978-06-01",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "monumental",
+            "name": "Estadio Monumental"
+          },
+          "city": "Buenos Aires"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 2",
+      "matches": [
+        {
+          "num": 2,
+          "date": "1978-06-02",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Hungary",
+            "code": "HUN"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "monumental",
+            "name": "Estadio Monumental"
+          },
+          "city": "Buenos Aires"
+        },
+        {
+          "num": 3,
+          "date": "1978-06-02",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "josemariaminella",
+            "name": "Estadio José María Minella"
+          },
+          "city": "Mar del Plata"
+        },
+        {
+          "num": 4,
+          "date": "1978-06-02",
+          "time": "00:00",
+          "team1": {
+            "name": "Tunisia",
+            "code": "TUN"
+          },
+          "team2": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "gigantedearroyito",
+            "name": "Estadio Gigante de Arroyito"
+          },
+          "city": "Rosario"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 3",
+      "matches": [
+        {
+          "num": 5,
+          "date": "1978-06-03",
+          "time": "00:00",
+          "team1": {
+            "name": "Austria",
+            "code": "AUT"
+          },
+          "team2": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "joseamalfitani",
+            "name": "Estadio José Amalfitani"
+          },
+          "city": "Buenos Aires"
+        },
+        {
+          "num": 6,
+          "date": "1978-06-03",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "josemariaminella",
+            "name": "Estadio José Maria Minella"
+          },
+          "city": "Mar del Plata"
+        },
+        {
+          "num": 7,
+          "date": "1978-06-03",
+          "time": "00:00",
+          "team1": {
+            "name": "Peru",
+            "code": "PER"
+          },
+          "team2": {
+            "name": "Scotland",
+            "code": "SCO"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "chateaucarreras",
+            "name": "Estadio Chateau Carreras"
+          },
+          "city": "Córdoba"
+        },
+        {
+          "num": 8,
+          "date": "1978-06-03",
+          "time": "00:00",
+          "team1": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "team2": {
+            "name": "Iran",
+            "code": "IRN"
+          },
+          "score1": 3,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "ciudaddemendoza",
+            "name": "Estadio Ciudad de Mendoza"
+          },
+          "city": "Mendoza"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 4",
+      "matches": [
+        {
+          "num": 9,
+          "date": "1978-06-06",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "monumental",
+            "name": "Estadio Monumental"
+          },
+          "city": "Buenos Aires"
+        },
+        {
+          "num": 10,
+          "date": "1978-06-06",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Hungary",
+            "code": "HUN"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "josemariaminella",
+            "name": "Estadio José María Minella"
+          },
+          "city": "Mar del Plata"
+        },
+        {
+          "num": 11,
+          "date": "1978-06-06",
+          "time": "00:00",
+          "team1": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "team2": {
+            "name": "Tunisia",
+            "code": "TUN"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "gigantedearroyito",
+            "name": "Estadio Gigante de Arroyito"
+          },
+          "city": "Rosario"
+        },
+        {
+          "num": 12,
+          "date": "1978-06-06",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "score1": 6,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "chateaucarreras",
+            "name": "Estadio Chateau Carreras"
+          },
+          "city": "Córdoba"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 5",
+      "matches": [
+        {
+          "num": 13,
+          "date": "1978-06-07",
+          "time": "00:00",
+          "team1": {
+            "name": "Austria",
+            "code": "AUT"
+          },
+          "team2": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "joseamalfitani",
+            "name": "Estadio José Amalfitani"
+          },
+          "city": "Buenos Aires"
+        },
+        {
+          "num": 14,
+          "date": "1978-06-07",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "josemariaminella",
+            "name": "Estadio José Maria Minella"
+          },
+          "city": "Mar del Plata"
+        },
+        {
+          "num": 15,
+          "date": "1978-06-07",
+          "time": "00:00",
+          "team1": {
+            "name": "Scotland",
+            "code": "SCO"
+          },
+          "team2": {
+            "name": "Iran",
+            "code": "IRN"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "chateaucarreras",
+            "name": "Estadio Chateau Carreras"
+          },
+          "city": "Córdoba"
+        },
+        {
+          "num": 16,
+          "date": "1978-06-07",
+          "time": "00:00",
+          "team1": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "team2": {
+            "name": "Peru",
+            "code": "PER"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "ciudaddemendoza",
+            "name": "Estadio Ciudad de Mendoza"
+          },
+          "city": "Mendoza"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 6",
+      "matches": [
+        {
+          "num": 17,
+          "date": "1978-06-10",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "monumental",
+            "name": "Estadio Monumental"
+          },
+          "city": "Buenos Aires"
+        },
+        {
+          "num": 18,
+          "date": "1978-06-10",
+          "time": "00:00",
+          "team1": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "team2": {
+            "name": "Hungary",
+            "code": "HUN"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "josemariaminella",
+            "name": "Estadio José María Minella"
+          },
+          "city": "Mar del Plata"
+        },
+        {
+          "num": 19,
+          "date": "1978-06-10",
+          "time": "00:00",
+          "team1": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "team2": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "gigantedearroyito",
+            "name": "Estadio Gigante de Arroyito"
+          },
+          "city": "Rosario"
+        },
+        {
+          "num": 20,
+          "date": "1978-06-10",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Tunisia",
+            "code": "TUN"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "olimpicochateaucarreras",
+            "name": "Estadio Olímpico Chateau Carreras"
+          },
+          "city": "Córdoba"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 7",
+      "matches": [
+        {
+          "num": 21,
+          "date": "1978-06-11",
+          "time": "00:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "joseamalfitani",
+            "name": "Estadio José Amalfitani"
+          },
+          "city": "Buenos Aires"
+        },
+        {
+          "num": 22,
+          "date": "1978-06-11",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Austria",
+            "code": "AUT"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "josemariaminella",
+            "name": "Estadio José Maria Minella"
+          },
+          "city": "Mar del Plata"
+        },
+        {
+          "num": 23,
+          "date": "1978-06-11",
+          "time": "00:00",
+          "team1": {
+            "name": "Peru",
+            "code": "PER"
+          },
+          "team2": {
+            "name": "Iran",
+            "code": "IRN"
+          },
+          "score1": 4,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "chateaucarreras",
+            "name": "Estadio Chateau Carreras"
+          },
+          "city": "Córdoba"
+        },
+        {
+          "num": 24,
+          "date": "1978-06-11",
+          "time": "00:00",
+          "team1": {
+            "name": "Scotland",
+            "code": "SCO"
+          },
+          "team2": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "score1": 3,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "ciudaddemendoza",
+            "name": "Estadio Ciudad de Mendoza"
+          },
+          "city": "Mendoza"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 8",
+      "matches": [
+        {
+          "num": 25,
+          "date": "1978-06-14",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "monumental",
+            "name": "Estadio Monumental"
+          },
+          "city": "Buenos Aires"
+        },
+        {
+          "num": 26,
+          "date": "1978-06-14",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "gigantedearroyito",
+            "name": "Estadio Gigante de Arroyito"
+          },
+          "city": "Rosario"
+        },
+        {
+          "num": 27,
+          "date": "1978-06-14",
+          "time": "00:00",
+          "team1": {
+            "name": "Austria",
+            "code": "AUT"
+          },
+          "team2": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "score1": 1,
+          "score2": 5,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "chateaucarreras",
+            "name": "Estadio Chateau Carreras"
+          },
+          "city": "Córdoba"
+        },
+        {
+          "num": 28,
+          "date": "1978-06-14",
+          "time": "00:00",
+          "team1": {
+            "name": "Peru",
+            "code": "PER"
+          },
+          "team2": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "score1": 0,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "ciudaddemendoza",
+            "name": "Estadio Ciudad de Mendoza"
+          },
+          "city": "Mendoza"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 9",
+      "matches": [
+        {
+          "num": 29,
+          "date": "1978-06-18",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Austria",
+            "code": "AUT"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "monumental",
+            "name": "Estadio Monumental"
+          },
+          "city": "Buenos Aires"
+        },
+        {
+          "num": 30,
+          "date": "1978-06-18",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "gigantedearroyito",
+            "name": "Estadio Gigante de Arroyito"
+          },
+          "city": "Rosario"
+        },
+        {
+          "num": 31,
+          "date": "1978-06-18",
+          "time": "00:00",
+          "team1": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "team2": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "score1": 2,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "chateaucarreras",
+            "name": "Estadio Chateau Carreras"
+          },
+          "city": "Córdoba"
+        },
+        {
+          "num": 32,
+          "date": "1978-06-18",
+          "time": "00:00",
+          "team1": {
+            "name": "Peru",
+            "code": "PER"
+          },
+          "team2": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "ciudaddemendoza",
+            "name": "Estadio Ciudad de Mendoza"
+          },
+          "city": "Mendoza"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 10",
+      "matches": [
+        {
+          "num": 33,
+          "date": "1978-06-21",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "score1": 1,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "monumental",
+            "name": "Estadio Monumental"
+          },
+          "city": "Buenos Aires"
+        },
+        {
+          "num": 34,
+          "date": "1978-06-21",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Peru",
+            "code": "PER"
+          },
+          "score1": 6,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "gigantedearroyito",
+            "name": "Estadio Gigante de Arroyito"
+          },
+          "city": "Rosario"
+        },
+        {
+          "num": 35,
+          "date": "1978-06-21",
+          "time": "00:00",
+          "team1": {
+            "name": "Austria",
+            "code": "AUT"
+          },
+          "team2": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "score1": 3,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "chateaucarreras",
+            "name": "Estadio Chateau Carreras"
+          },
+          "city": "Córdoba"
+        },
+        {
+          "num": 36,
+          "date": "1978-06-21",
+          "time": "00:00",
+          "team1": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "team2": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "score1": 1,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "ciudaddemendoza",
+            "name": "Estadio Ciudad de Mendoza"
+          },
+          "city": "Mendoza"
+        }
+      ]
+    },
+    {
+      "name": "Third-place match",
+      "matches": [
+        {
+          "num": 37,
+          "date": "1978-06-24",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "monumental",
+            "name": "Estadio Monumental"
+          },
+          "city": "Buenos Aires"
+        }
+      ]
+    },
+    {
+      "name": "Final",
+      "matches": [
+        {
+          "num": 38,
+          "date": "1978-06-25",
+          "time": "00:00",
+          "team1": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "team2": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "score1": 1,
+          "score2": 3,
+          "score1i": 1,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 1,
+          "score2et": 3,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "monumental",
+            "name": "Estadio Monumental"
+          },
+          "city": "Buenos Aires"
+        }
+      ]
+    }
+  ]
+}

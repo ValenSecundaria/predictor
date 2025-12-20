@@ -1,0 +1,89 @@
+{
+  "name": "World Cup 1966",
+  "groups": [
+    {
+      "name": "Group 1",
+      "teams": [
+        {
+          "name": "England",
+          "code": "ENG"
+        },
+        {
+          "name": "Uruguay",
+          "code": "URU"
+        },
+        {
+          "name": "Mexico",
+          "code": "MEX"
+        },
+        {
+          "name": "France",
+          "code": "FRA"
+        }
+      ]
+    },
+    {
+      "name": "Group 2",
+      "teams": [
+        {
+          "name": "Germany",
+          "code": "GER"
+        },
+        {
+          "name": "Argentina",
+          "code": "ARG"
+        },
+        {
+          "name": "Spain",
+          "code": "ESP"
+        },
+        {
+          "name": "Switzerland",
+          "code": "SUI"
+        }
+      ]
+    },
+    {
+      "name": "Group 3",
+      "teams": [
+        {
+          "name": "Portugal",
+          "code": "POR"
+        },
+        {
+          "name": "Hungary",
+          "code": "HUN"
+        },
+        {
+          "name": "Brazil",
+          "code": "BRA"
+        },
+        {
+          "name": "Bulgaria",
+          "code": "BUL"
+        }
+      ]
+    },
+    {
+      "name": "Group 4",
+      "teams": [
+        {
+          "name": "Soviet Union",
+          "code": "URS"
+        },
+        {
+          "name": "Korea DPR",
+          "code": "PRK"
+        },
+        {
+          "name": "Italy",
+          "code": "ITA"
+        },
+        {
+          "name": "Chile",
+          "code": "CHI"
+        }
+      ]
+    }
+  ]
+}

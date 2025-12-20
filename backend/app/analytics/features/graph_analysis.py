@@ -53,12 +53,6 @@ def calculate_graph_stats(team_code: str, matches: List[ApiMatch]) -> Dict[str, 
         second_order_victims = wins_graph.get(victim_code, [])
         
         for indirect_victim_code in second_order_victims:
-            # No contar si el rival indirecto es el mismo equipo analizado (ciclo A->B->A)
-            # Y no contar si ya es una víctima directa (A->B y A->C, pero B->C. A ya le ganó a C directamente)
-            # Aunque "Dominancia Indirecta" sigue siendo válida incluso si hubo directa, 
-            # para "descubrimiento" es más interesante si NO jugaron o si perdió.
-            # Por simplicidad, listamos todas las transitividades válidas.
-            
             if indirect_victim_code != team_code:
                 relation_id = f"{victim_code}-{indirect_victim_code}"
                 if relation_id not in seen_indirect_victims:

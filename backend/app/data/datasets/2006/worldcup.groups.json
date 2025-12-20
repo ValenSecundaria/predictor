@@ -1,0 +1,173 @@
+{
+  "name": "World Cup 2006",
+  "groups": [
+    {
+      "name": "Group A",
+      "teams": [
+        {
+          "name": "Germany",
+          "code": "GER"
+        },
+        {
+          "name": "Ecuador",
+          "code": "ECU"
+        },
+        {
+          "name": "Poland",
+          "code": "POL"
+        },
+        {
+          "name": "Costa Rica",
+          "code": "CRC"
+        }
+      ]
+    },
+    {
+      "name": "Group B",
+      "teams": [
+        {
+          "name": "England",
+          "code": "ENG"
+        },
+        {
+          "name": "Sweden",
+          "code": "SWE"
+        },
+        {
+          "name": "Paraguay",
+          "code": "PAR"
+        },
+        {
+          "name": "Trinidad and Tobago",
+          "code": "TRI"
+        }
+      ]
+    },
+    {
+      "name": "Group C",
+      "teams": [
+        {
+          "name": "Argentina",
+          "code": "ARG"
+        },
+        {
+          "name": "Netherlands",
+          "code": "NED"
+        },
+        {
+          "name": "Côte d'Ivoire",
+          "code": "CIV"
+        },
+        {
+          "name": "Serbia and Montenegro",
+          "code": "SCG"
+        }
+      ]
+    },
+    {
+      "name": "Group D",
+      "teams": [
+        {
+          "name": "Portugal",
+          "code": "POR"
+        },
+        {
+          "name": "Mexico",
+          "code": "MEX"
+        },
+        {
+          "name": "Angola",
+          "code": "ANG"
+        },
+        {
+          "name": "Iran",
+          "code": "IRN"
+        }
+      ]
+    },
+    {
+      "name": "Group E",
+      "teams": [
+        {
+          "name": "Italy",
+          "code": "ITA"
+        },
+        {
+          "name": "Ghana",
+          "code": "GHA"
+        },
+        {
+          "name": "Czech Republic",
+          "code": "CZE"
+        },
+        {
+          "name": "United States",
+          "code": "USA"
+        }
+      ]
+    },
+    {
+      "name": "Group F",
+      "teams": [
+        {
+          "name": "Brazil",
+          "code": "BRA"
+        },
+        {
+          "name": "Australia",
+          "code": "AUS"
+        },
+        {
+          "name": "Croatia",
+          "code": "CRO"
+        },
+        {
+          "name": "Japan",
+          "code": "JPN"
+        }
+      ]
+    },
+    {
+      "name": "Group G",
+      "teams": [
+        {
+          "name": "Switzerland",
+          "code": "SUI"
+        },
+        {
+          "name": "France",
+          "code": "FRA"
+        },
+        {
+          "name": "Korea Republic",
+          "code": "KOR"
+        },
+        {
+          "name": "Togo",
+          "code": "TOG"
+        }
+      ]
+    },
+    {
+      "name": "Group H",
+      "teams": [
+        {
+          "name": "Spain",
+          "code": "ESP"
+        },
+        {
+          "name": "Ukraine",
+          "code": "UKR"
+        },
+        {
+          "name": "Tunisia",
+          "code": "TUN"
+        },
+        {
+          "name": "Saudi Arabia",
+          "code": "KSA"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "name": "World Cup 1962",
+  "groups": [
+    {
+      "name": "Group 1",
+      "teams": [
+        {
+          "name": "Soviet Union",
+          "code": "URS"
+        },
+        {
+          "name": "Yugoslavia",
+          "code": "YUG"
+        },
+        {
+          "name": "Uruguay",
+          "code": "URU"
+        },
+        {
+          "name": "Colombia",
+          "code": "COL"
+        }
+      ]
+    },
+    {
+      "name": "Group 2",
+      "teams": [
+        {
+          "name": "Germany",
+          "code": "GER"
+        },
+        {
+          "name": "Chile",
+          "code": "CHI"
+        },
+        {
+          "name": "Italy",
+          "code": "ITA"
+        },
+        {
+          "name": "Switzerland",
+          "code": "SUI"
+        }
+      ]
+    },
+    {
+      "name": "Group 3",
+      "teams": [
+        {
+          "name": "Brazil",
+          "code": "BRA"
+        },
+        {
+          "name": "Czechoslovakia",
+          "code": "TCH"
+        },
+        {
+          "name": "Mexico",
+          "code": "MEX"
+        },
+        {
+          "name": "Spain",
+          "code": "ESP"
+        }
+      ]
+    },
+    {
+      "name": "Group 4",
+      "teams": [
+        {
+          "name": "Hungary",
+          "code": "HUN"
+        },
+        {
+          "name": "England",
+          "code": "ENG"
+        },
+        {
+          "name": "Argentina",
+          "code": "ARG"
+        },
+        {
+          "name": "Bulgaria",
+          "code": "BUL"
+        }
+      ]
+    }
+  ]
+}

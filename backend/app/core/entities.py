@@ -60,7 +60,7 @@ class ApiMatch(BaseModel):
     team_b_code: str
     score_a: int
     score_b: int
-    score_b: int
+
     goals: List[ApiGoal]
     year: str
     competition: str

@@ -1,0 +1,1430 @@
+{
+  "name": "World Cup 1982",
+  "rounds": [
+    {
+      "name": "Matchday 1",
+      "matches": [
+        {
+          "num": 1,
+          "date": "1982-06-13",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "campnou",
+            "name": "Camp Nou"
+          },
+          "city": "Barcelona"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 2",
+      "matches": [
+        {
+          "num": 2,
+          "date": "1982-06-14",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "balaidos",
+            "name": "Balaídos"
+          },
+          "city": "Vigo"
+        },
+        {
+          "num": 3,
+          "date": "1982-06-14",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Soviet Union",
+            "code": "URS"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "ramonsanchezpizjuan",
+            "name": "Estadio Ramón Sánchez Pizjuán"
+          },
+          "city": "Seville"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 3",
+      "matches": [
+        {
+          "num": 4,
+          "date": "1982-06-15",
+          "time": "00:00",
+          "team1": {
+            "name": "Peru",
+            "code": "PER"
+          },
+          "team2": {
+            "name": "Cameroon",
+            "code": "CMR"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "riazor",
+            "name": "Estadio de Riazor"
+          },
+          "city": "A Coruña"
+        },
+        {
+          "num": 5,
+          "date": "1982-06-15",
+          "time": "00:00",
+          "team1": {
+            "name": "Hungary",
+            "code": "HUN"
+          },
+          "team2": {
+            "name": "El Salvador",
+            "code": "SLV"
+          },
+          "score1": 10,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "nuevoestadio",
+            "name": "Nuevo Estadio"
+          },
+          "city": "Elche"
+        },
+        {
+          "num": 6,
+          "date": "1982-06-15",
+          "time": "00:00",
+          "team1": {
+            "name": "Scotland",
+            "code": "SCO"
+          },
+          "team2": {
+            "name": "New Zealand",
+            "code": "NZL"
+          },
+          "score1": 5,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "rosaleda",
+            "name": "Estadio La Rosaleda"
+          },
+          "city": "Málaga"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 4",
+      "matches": [
+        {
+          "num": 7,
+          "date": "1982-06-16",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Algeria",
+            "code": "ALG"
+          },
+          "score1": 1,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "elmolinon",
+            "name": "El Molinón"
+          },
+          "city": "Gijón"
+        },
+        {
+          "num": 8,
+          "date": "1982-06-16",
+          "time": "00:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "sanmames",
+            "name": "Estadio San Mamés"
+          },
+          "city": "Bilbao"
+        },
+        {
+          "num": 9,
+          "date": "1982-06-16",
+          "time": "00:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "Honduras",
+            "code": "HON"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "luiscasanova",
+            "name": "Estadio Luis Casanova"
+          },
+          "city": "Valencia"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 5",
+      "matches": [
+        {
+          "num": 10,
+          "date": "1982-06-17",
+          "time": "00:00",
+          "team1": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "team2": {
+            "name": "Austria",
+            "code": "AUT"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "carlostartiere",
+            "name": "Estadio Carlos Tartiere"
+          },
+          "city": "Oviedo"
+        },
+        {
+          "num": 11,
+          "date": "1982-06-17",
+          "time": "00:00",
+          "team1": {
+            "name": "Czechoslovakia",
+            "code": "TCH"
+          },
+          "team2": {
+            "name": "Kuwait",
+            "code": "KUW"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "josezorrilla",
+            "name": "Estadio José Zorrilla"
+          },
+          "city": "Valladolid"
+        },
+        {
+          "num": 12,
+          "date": "1982-06-17",
+          "time": "00:00",
+          "team1": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "team2": {
+            "name": "Northern Ireland",
+            "code": "NIR"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "romareda",
+            "name": "La Romareda"
+          },
+          "city": "Zaragoza"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 6",
+      "matches": [
+        {
+          "num": 13,
+          "date": "1982-06-18",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Peru",
+            "code": "PER"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "balaidos",
+            "name": "Balaídos"
+          },
+          "city": "Vigo"
+        },
+        {
+          "num": 14,
+          "date": "1982-06-18",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Hungary",
+            "code": "HUN"
+          },
+          "score1": 4,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "josericoperez",
+            "name": "Estadio José Rico Pérez"
+          },
+          "city": "Alicante"
+        },
+        {
+          "num": 15,
+          "date": "1982-06-18",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Scotland",
+            "code": "SCO"
+          },
+          "score1": 4,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "benitovillamarin",
+            "name": "Estadio Benito Villamarín"
+          },
+          "city": "Seville"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 7",
+      "matches": [
+        {
+          "num": 16,
+          "date": "1982-06-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "team2": {
+            "name": "Cameroon",
+            "code": "CMR"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "riazor",
+            "name": "Estadio de Riazor"
+          },
+          "city": "A Coruña"
+        },
+        {
+          "num": 17,
+          "date": "1982-06-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "team2": {
+            "name": "El Salvador",
+            "code": "SLV"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "nuevoestadio",
+            "name": "Nuevo Estadio"
+          },
+          "city": "Elche"
+        },
+        {
+          "num": 18,
+          "date": "1982-06-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Soviet Union",
+            "code": "URS"
+          },
+          "team2": {
+            "name": "New Zealand",
+            "code": "NZL"
+          },
+          "score1": 3,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "rosaleda",
+            "name": "Estadio La Rosaleda"
+          },
+          "city": "Málaga"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 8",
+      "matches": [
+        {
+          "num": 19,
+          "date": "1982-06-20",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "score1": 4,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "elmolinon",
+            "name": "El Molinón"
+          },
+          "city": "Gijón"
+        },
+        {
+          "num": 20,
+          "date": "1982-06-20",
+          "time": "00:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Czechoslovakia",
+            "code": "TCH"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "sanmames",
+            "name": "Estadio San Mamés"
+          },
+          "city": "Bilbao"
+        },
+        {
+          "num": 21,
+          "date": "1982-06-20",
+          "time": "00:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "luiscasanova",
+            "name": "Estadio Luis Casanova"
+          },
+          "city": "Valencia"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 9",
+      "matches": [
+        {
+          "num": 22,
+          "date": "1982-06-21",
+          "time": "00:00",
+          "team1": {
+            "name": "Algeria",
+            "code": "ALG"
+          },
+          "team2": {
+            "name": "Austria",
+            "code": "AUT"
+          },
+          "score1": 0,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "carlostartiere",
+            "name": "Estadio Carlos Tartiere"
+          },
+          "city": "Oviedo"
+        },
+        {
+          "num": 23,
+          "date": "1982-06-21",
+          "time": "00:00",
+          "team1": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "team2": {
+            "name": "Kuwait",
+            "code": "KUW"
+          },
+          "score1": 4,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "josezorrilla",
+            "name": "Estadio José Zorrilla"
+          },
+          "city": "Valladolid"
+        },
+        {
+          "num": 24,
+          "date": "1982-06-21",
+          "time": "00:00",
+          "team1": {
+            "name": "Honduras",
+            "code": "HON"
+          },
+          "team2": {
+            "name": "Northern Ireland",
+            "code": "NIR"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "romareda",
+            "name": "La Romareda"
+          },
+          "city": "Zaragoza"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 10",
+      "matches": [
+        {
+          "num": 25,
+          "date": "1982-06-22",
+          "time": "00:00",
+          "team1": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "team2": {
+            "name": "Peru",
+            "code": "PER"
+          },
+          "score1": 5,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "riazor",
+            "name": "Estadio de Riazor"
+          },
+          "city": "A Coruña"
+        },
+        {
+          "num": 26,
+          "date": "1982-06-22",
+          "time": "00:00",
+          "team1": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "team2": {
+            "name": "Hungary",
+            "code": "HUN"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "nuevoestadio",
+            "name": "Nuevo Estadio"
+          },
+          "city": "Elche"
+        },
+        {
+          "num": 27,
+          "date": "1982-06-22",
+          "time": "00:00",
+          "team1": {
+            "name": "Soviet Union",
+            "code": "URS"
+          },
+          "team2": {
+            "name": "Scotland",
+            "code": "SCO"
+          },
+          "score1": 2,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "rosaleda",
+            "name": "Estadio La Rosaleda"
+          },
+          "city": "Málaga"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 11",
+      "matches": [
+        {
+          "num": 28,
+          "date": "1982-06-23",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Cameroon",
+            "code": "CMR"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 1",
+          "stadium": {
+            "key": "balaidos",
+            "name": "Balaídos"
+          },
+          "city": "Vigo"
+        },
+        {
+          "num": 29,
+          "date": "1982-06-23",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "El Salvador",
+            "code": "SLV"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 3",
+          "stadium": {
+            "key": "josericoperez",
+            "name": "Estadio José Rico Pérez"
+          },
+          "city": "Alicante"
+        },
+        {
+          "num": 30,
+          "date": "1982-06-23",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "New Zealand",
+            "code": "NZL"
+          },
+          "score1": 4,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "benitovillamarin",
+            "name": "Estadio Benito Villamarín"
+          },
+          "city": "Seville"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 12",
+      "matches": [
+        {
+          "num": 31,
+          "date": "1982-06-24",
+          "time": "00:00",
+          "team1": {
+            "name": "Algeria",
+            "code": "ALG"
+          },
+          "team2": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "score1": 3,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "carlostartiere",
+            "name": "Estadio Carlos Tartiere"
+          },
+          "city": "Oviedo"
+        },
+        {
+          "num": 32,
+          "date": "1982-06-24",
+          "time": "00:00",
+          "team1": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "team2": {
+            "name": "Czechoslovakia",
+            "code": "TCH"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "josezorrilla",
+            "name": "Estadio José Zorrilla"
+          },
+          "city": "Valladolid"
+        },
+        {
+          "num": 33,
+          "date": "1982-06-24",
+          "time": "00:00",
+          "team1": {
+            "name": "Honduras",
+            "code": "HON"
+          },
+          "team2": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "romareda",
+            "name": "La Romareda"
+          },
+          "city": "Zaragoza"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 13",
+      "matches": [
+        {
+          "num": 34,
+          "date": "1982-06-25",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Austria",
+            "code": "AUT"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 2",
+          "stadium": {
+            "key": "elmolinon",
+            "name": "El Molinón"
+          },
+          "city": "Gijón"
+        },
+        {
+          "num": 35,
+          "date": "1982-06-25",
+          "time": "00:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Kuwait",
+            "code": "KUW"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "sanmames",
+            "name": "Estadio San Mamés"
+          },
+          "city": "Bilbao"
+        },
+        {
+          "num": 36,
+          "date": "1982-06-25",
+          "time": "00:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "Northern Ireland",
+            "code": "NIR"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group 4",
+          "stadium": {
+            "key": "luiscasanova",
+            "name": "Estadio Luis Casanova"
+          },
+          "city": "Valencia"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 14",
+      "matches": [
+        {
+          "num": 37,
+          "date": "1982-06-28",
+          "time": "00:00",
+          "team1": {
+            "name": "Austria",
+            "code": "AUT"
+          },
+          "team2": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "vicentecalderon",
+            "name": "Estadio Vicente Calderón"
+          },
+          "city": "Madrid"
+        },
+        {
+          "num": 38,
+          "date": "1982-06-28",
+          "time": "00:00",
+          "team1": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "team2": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "score1": 3,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "campnou",
+            "name": "Camp Nou"
+          },
+          "city": "Barcelona"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 15",
+      "matches": [
+        {
+          "num": 39,
+          "date": "1982-06-29",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "sarria",
+            "name": "Estadio Sarriá"
+          },
+          "city": "Barcelona"
+        },
+        {
+          "num": 40,
+          "date": "1982-06-29",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "santiagobernabeu",
+            "name": "Estadio Santiago Bernabéu"
+          },
+          "city": "Madrid"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 16",
+      "matches": [
+        {
+          "num": 41,
+          "date": "1982-07-01",
+          "time": "00:00",
+          "team1": {
+            "name": "Austria",
+            "code": "AUT"
+          },
+          "team2": {
+            "name": "Northern Ireland",
+            "code": "NIR"
+          },
+          "score1": 2,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "vicentecalderon",
+            "name": "Estadio Vicente Calderón"
+          },
+          "city": "Madrid"
+        },
+        {
+          "num": 42,
+          "date": "1982-07-01",
+          "time": "00:00",
+          "team1": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "team2": {
+            "name": "Soviet Union",
+            "code": "URS"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "campnou",
+            "name": "Camp Nou"
+          },
+          "city": "Barcelona"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 17",
+      "matches": [
+        {
+          "num": 43,
+          "date": "1982-07-02",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "score1": 1,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "sarria",
+            "name": "Estadio Sarriá"
+          },
+          "city": "Barcelona"
+        },
+        {
+          "num": 44,
+          "date": "1982-07-02",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "santiagobernabeu",
+            "name": "Estadio Santiago Bernabéu"
+          },
+          "city": "Madrid"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 18",
+      "matches": [
+        {
+          "num": 45,
+          "date": "1982-07-04",
+          "time": "00:00",
+          "team1": {
+            "name": "Northern Ireland",
+            "code": "NIR"
+          },
+          "team2": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "score1": 1,
+          "score2": 4,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "vicentecalderon",
+            "name": "Estadio Vicente Calderón"
+          },
+          "city": "Madrid"
+        },
+        {
+          "num": 46,
+          "date": "1982-07-04",
+          "time": "00:00",
+          "team1": {
+            "name": "Soviet Union",
+            "code": "URS"
+          },
+          "team2": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "campnou",
+            "name": "Camp Nou"
+          },
+          "city": "Barcelona"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 19",
+      "matches": [
+        {
+          "num": 47,
+          "date": "1982-07-05",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "score1": 3,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "sarria",
+            "name": "Estadio Sarriá"
+          },
+          "city": "Barcelona"
+        },
+        {
+          "num": 48,
+          "date": "1982-07-05",
+          "time": "00:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "santiagobernabeu",
+            "name": "Estadio Santiago Bernabéu"
+          },
+          "city": "Madrid"
+        }
+      ]
+    },
+    {
+      "name": "Semi-finals",
+      "matches": [
+        {
+          "num": 49,
+          "date": "1982-07-08",
+          "time": "00:00",
+          "team1": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "team2": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "score1": 0,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "campnou",
+            "name": "Camp Nou"
+          },
+          "city": "Barcelona"
+        },
+        {
+          "num": 50,
+          "date": "1982-07-08",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "score1": 5,
+          "score2": 4,
+          "score1i": 1,
+          "score2i": 1,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 3,
+          "score2et": 3,
+          "score1p": 5,
+          "score2p": 4,
+          "stadium": {
+            "key": "ramonsanchezpizjuan",
+            "name": "Estadio Ramón Sánchez Pizjuán"
+          },
+          "city": "Seville"
+        }
+      ]
+    },
+    {
+      "name": "Third-place match",
+      "matches": [
+        {
+          "num": 51,
+          "date": "1982-07-10",
+          "time": "00:00",
+          "team1": {
+            "name": "Poland",
+            "code": "POL"
+          },
+          "team2": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "score1": 3,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "josericoperez",
+            "name": "Estadio José Rico Pérez"
+          },
+          "city": "Alicante"
+        }
+      ]
+    },
+    {
+      "name": "Final",
+      "matches": [
+        {
+          "num": 52,
+          "date": "1982-07-11",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "score1": 3,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "santiagobernabeu",
+            "name": "Estadio Santiago Bernabéu"
+          }
+        }
+      ]
+    }
+  ]
+}

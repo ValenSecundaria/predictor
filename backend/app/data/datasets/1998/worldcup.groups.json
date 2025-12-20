@@ -1,0 +1,173 @@
+{
+  "name": "World Cup 1998",
+  "groups": [
+    {
+      "name": "Group A",
+      "teams": [
+        {
+          "name": "Brazil",
+          "code": "BRA"
+        },
+        {
+          "name": "Norway",
+          "code": "NOR"
+        },
+        {
+          "name": "Morocco",
+          "code": "MAR"
+        },
+        {
+          "name": "Scotland",
+          "code": "SCO"
+        }
+      ]
+    },
+    {
+      "name": "Group B",
+      "teams": [
+        {
+          "name": "Italy",
+          "code": "ITA"
+        },
+        {
+          "name": "Chile",
+          "code": "CHI"
+        },
+        {
+          "name": "Austria",
+          "code": "AUT"
+        },
+        {
+          "name": "Cameroon",
+          "code": "CMR"
+        }
+      ]
+    },
+    {
+      "name": "Group C",
+      "teams": [
+        {
+          "name": "France",
+          "code": "FRA"
+        },
+        {
+          "name": "Denmark",
+          "code": "DEN"
+        },
+        {
+          "name": "South Africa",
+          "code": "RSA"
+        },
+        {
+          "name": "Saudi Arabia",
+          "code": "KSA"
+        }
+      ]
+    },
+    {
+      "name": "Group D",
+      "teams": [
+        {
+          "name": "Nigeria",
+          "code": "NGA"
+        },
+        {
+          "name": "Paraguay",
+          "code": "PAR"
+        },
+        {
+          "name": "Spain",
+          "code": "ESP"
+        },
+        {
+          "name": "Bulgaria",
+          "code": "BUL"
+        }
+      ]
+    },
+    {
+      "name": "Group E",
+      "teams": [
+        {
+          "name": "Netherlands",
+          "code": "NED"
+        },
+        {
+          "name": "Mexico",
+          "code": "MEX"
+        },
+        {
+          "name": "Belgium",
+          "code": "BEL"
+        },
+        {
+          "name": "Korea Republic",
+          "code": "KOR"
+        }
+      ]
+    },
+    {
+      "name": "Group F",
+      "teams": [
+        {
+          "name": "Germany",
+          "code": "GER"
+        },
+        {
+          "name": "Yugoslavia",
+          "code": "YUG"
+        },
+        {
+          "name": "Iran",
+          "code": "IRN"
+        },
+        {
+          "name": "United States",
+          "code": "USA"
+        }
+      ]
+    },
+    {
+      "name": "Group G",
+      "teams": [
+        {
+          "name": "Romania",
+          "code": "ROU"
+        },
+        {
+          "name": "England",
+          "code": "ENG"
+        },
+        {
+          "name": "Colombia",
+          "code": "COL"
+        },
+        {
+          "name": "Tunisia",
+          "code": "TUN"
+        }
+      ]
+    },
+    {
+      "name": "Group H",
+      "teams": [
+        {
+          "name": "Argentina",
+          "code": "ARG"
+        },
+        {
+          "name": "Croatia",
+          "code": "CRO"
+        },
+        {
+          "name": "Jamaica",
+          "code": "JAM"
+        },
+        {
+          "name": "Japan",
+          "code": "JPN"
+        }
+      ]
+    }
+  ]
+}

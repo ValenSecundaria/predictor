@@ -1,0 +1,131 @@
+{
+  "name": "World Cup 1990",
+  "groups": [
+    {
+      "name": "Group A",
+      "teams": [
+        {
+          "name": "Italy",
+          "code": "ITA"
+        },
+        {
+          "name": "Czechoslovakia",
+          "code": "TCH"
+        },
+        {
+          "name": "Austria",
+          "code": "AUT"
+        },
+        {
+          "name": "United States",
+          "code": "USA"
+        }
+      ]
+    },
+    {
+      "name": "Group B",
+      "teams": [
+        {
+          "name": "Cameroon",
+          "code": "CMR"
+        },
+        {
+          "name": "Romania",
+          "code": "ROU"
+        },
+        {
+          "name": "Argentina",
+          "code": "ARG"
+        },
+        {
+          "name": "Soviet Union",
+          "code": "URS"
+        }
+      ]
+    },
+    {
+      "name": "Group C",
+      "teams": [
+        {
+          "name": "Brazil",
+          "code": "BRA"
+        },
+        {
+          "name": "Costa Rica",
+          "code": "CRC"
+        },
+        {
+          "name": "Scotland",
+          "code": "SCO"
+        },
+        {
+          "name": "Sweden",
+          "code": "SWE"
+        }
+      ]
+    },
+    {
+      "name": "Group D",
+      "teams": [
+        {
+          "name": "Germany",
+          "code": "GER"
+        },
+        {
+          "name": "Yugoslavia",
+          "code": "YUG"
+        },
+        {
+          "name": "Colombia",
+          "code": "COL"
+        },
+        {
+          "name": "UAE",
+          "code": "UAE"
+        }
+      ]
+    },
+    {
+      "name": "Group E",
+      "teams": [
+        {
+          "name": "Spain",
+          "code": "ESP"
+        },
+        {
+          "name": "Belgium",
+          "code": "BEL"
+        },
+        {
+          "name": "Uruguay",
+          "code": "URU"
+        },
+        {
+          "name": "Korea Republic",
+          "code": "KOR"
+        }
+      ]
+    },
+    {
+      "name": "Group F",
+      "teams": [
+        {
+          "name": "England",
+          "code": "ENG"
+        },
+        {
+          "name": "Republic of Ireland",
+          "code": "IRL"
+        },
+        {
+          "name": "Netherlands",
+          "code": "NED"
+        },
+        {
+          "name": "Egypt",
+          "code": "EGY"
+        }
+      ]
+    }
+  ]
+}

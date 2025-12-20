@@ -1,0 +1,1779 @@
+{
+  "name": "World Cup 1998",
+  "rounds": [
+    {
+      "name": "Matchday 1",
+      "matches": [
+        {
+          "num": 1,
+          "date": "1998-06-10",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Scotland",
+            "code": "SCO"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "stadedefrance",
+            "name": "Stade de France"
+          },
+          "city": "Saint-Denis"
+        },
+        {
+          "num": 2,
+          "date": "1998-06-10",
+          "time": "00:00",
+          "team1": {
+            "name": "Morocco",
+            "code": "MAR"
+          },
+          "team2": {
+            "name": "Norway",
+            "code": "NOR"
+          },
+          "score1": 2,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "stadedelamosson",
+            "name": "Stade de la Mosson"
+          },
+          "city": "Montpellier"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 2",
+      "matches": [
+        {
+          "num": 3,
+          "date": "1998-06-11",
+          "time": "00:00",
+          "team1": {
+            "name": "Cameroon",
+            "code": "CMR"
+          },
+          "team2": {
+            "name": "Austria",
+            "code": "AUT"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "stadedetoulouse",
+            "name": "Stade de Toulouse"
+          },
+          "city": "Toulouse"
+        },
+        {
+          "num": 4,
+          "date": "1998-06-11",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "score1": 2,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "parclescure",
+            "name": "Parc Lescure"
+          },
+          "city": "Bordeaux"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 3",
+      "matches": [
+        {
+          "num": 5,
+          "date": "1998-06-12",
+          "time": "00:00",
+          "team1": {
+            "name": "Saudi Arabia",
+            "code": "KSA"
+          },
+          "team2": {
+            "name": "Denmark",
+            "code": "DEN"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "stadefelixbollaert",
+            "name": "Stade Félix Bollaert"
+          },
+          "city": "Lens"
+        },
+        {
+          "num": 6,
+          "date": "1998-06-12",
+          "time": "00:00",
+          "team1": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "team2": {
+            "name": "South Africa",
+            "code": "RSA"
+          },
+          "score1": 3,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "stadevelodrome",
+            "name": "Stade Vélodrome"
+          },
+          "city": "Marseille"
+        },
+        {
+          "num": 7,
+          "date": "1998-06-12",
+          "time": "00:00",
+          "team1": {
+            "name": "Paraguay",
+            "code": "PAR"
+          },
+          "team2": {
+            "name": "Bulgaria",
+            "code": "BUL"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "stadedelamosson",
+            "name": "Stade de la Mosson"
+          },
+          "city": "Montpellier"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 4",
+      "matches": [
+        {
+          "num": 8,
+          "date": "1998-06-13",
+          "time": "00:00",
+          "team1": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "team2": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "stadedefrance",
+            "name": "Stade de France"
+          },
+          "city": "Saint-Denis"
+        },
+        {
+          "num": 9,
+          "date": "1998-06-13",
+          "time": "00:00",
+          "team1": {
+            "name": "Korea Republic",
+            "code": "KOR"
+          },
+          "team2": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "score1": 1,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "stadegerland",
+            "name": "Stade Gerland"
+          },
+          "city": "Lyon"
+        },
+        {
+          "num": 10,
+          "date": "1998-06-13",
+          "time": "00:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "Nigeria",
+            "code": "NGA"
+          },
+          "score1": 2,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "stadedelabeaujoire",
+            "name": "Stade de la Beaujoire"
+          },
+          "city": "Nantes"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 5",
+      "matches": [
+        {
+          "num": 11,
+          "date": "1998-06-14",
+          "time": "00:00",
+          "team1": {
+            "name": "Jamaica",
+            "code": "JAM"
+          },
+          "team2": {
+            "name": "Croatia",
+            "code": "CRO"
+          },
+          "score1": 1,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group H",
+          "stadium": {
+            "key": "stadefelixbollaert",
+            "name": "Stade Félix Bollaert"
+          },
+          "city": "Lens"
+        },
+        {
+          "num": 12,
+          "date": "1998-06-14",
+          "time": "00:00",
+          "team1": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "team2": {
+            "name": "Iran",
+            "code": "IRN"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "stadegeoffroyguichard",
+            "name": "Stade Geoffroy-Guichard"
+          },
+          "city": "Saint-Étienne"
+        },
+        {
+          "num": 13,
+          "date": "1998-06-14",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Japan",
+            "code": "JPN"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group H",
+          "stadium": {
+            "key": "stadedetoulouse",
+            "name": "Stade de Toulouse"
+          },
+          "city": "Toulouse"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 6",
+      "matches": [
+        {
+          "num": 14,
+          "date": "1998-06-15",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "parcdesprinces",
+            "name": "Parc des Princes"
+          },
+          "city": "Paris"
+        },
+        {
+          "num": 15,
+          "date": "1998-06-15",
+          "time": "00:00",
+          "team1": {
+            "name": "Romania",
+            "code": "ROU"
+          },
+          "team2": {
+            "name": "Colombia",
+            "code": "COL"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group G",
+          "stadium": {
+            "key": "stadegerland",
+            "name": "Stade Gerland"
+          },
+          "city": "Lyon"
+        },
+        {
+          "num": 16,
+          "date": "1998-06-15",
+          "time": "00:00",
+          "team1": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "team2": {
+            "name": "Tunisia",
+            "code": "TUN"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group G",
+          "stadium": {
+            "key": "stadevelodrome",
+            "name": "Stade Vélodrome"
+          },
+          "city": "Marseille"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 7",
+      "matches": [
+        {
+          "num": 17,
+          "date": "1998-06-16",
+          "time": "00:00",
+          "team1": {
+            "name": "Scotland",
+            "code": "SCO"
+          },
+          "team2": {
+            "name": "Norway",
+            "code": "NOR"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "parclescure",
+            "name": "Parc Lescure"
+          },
+          "city": "Bordeaux"
+        },
+        {
+          "num": 18,
+          "date": "1998-06-16",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Morocco",
+            "code": "MAR"
+          },
+          "score1": 3,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "stadedelabeaujoire",
+            "name": "Stade de la Beaujoire"
+          },
+          "city": "Nantes"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 8",
+      "matches": [
+        {
+          "num": 19,
+          "date": "1998-06-17",
+          "time": "00:00",
+          "team1": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "team2": {
+            "name": "Austria",
+            "code": "AUT"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "stadegeoffroyguichard",
+            "name": "Stade Geoffroy-Guichard"
+          },
+          "city": "Saint-Étienne"
+        },
+        {
+          "num": 20,
+          "date": "1998-06-17",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Cameroon",
+            "code": "CMR"
+          },
+          "score1": 3,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "stadedelamosson",
+            "name": "Stade de la Mosson"
+          },
+          "city": "Montpellier"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 9",
+      "matches": [
+        {
+          "num": 21,
+          "date": "1998-06-18",
+          "time": "00:00",
+          "team1": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "team2": {
+            "name": "Saudi Arabia",
+            "code": "KSA"
+          },
+          "score1": 4,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "stadedefrance",
+            "name": "Stade de France"
+          },
+          "city": "Saint-Denis"
+        },
+        {
+          "num": 22,
+          "date": "1998-06-18",
+          "time": "00:00",
+          "team1": {
+            "name": "South Africa",
+            "code": "RSA"
+          },
+          "team2": {
+            "name": "Denmark",
+            "code": "DEN"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "stadedetoulouse",
+            "name": "Stade de Toulouse"
+          },
+          "city": "Toulouse"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 10",
+      "matches": [
+        {
+          "num": 23,
+          "date": "1998-06-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Nigeria",
+            "code": "NGA"
+          },
+          "team2": {
+            "name": "Bulgaria",
+            "code": "BUL"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "parcdesprinces",
+            "name": "Parc des Princes"
+          },
+          "city": "Paris"
+        },
+        {
+          "num": 24,
+          "date": "1998-06-19",
+          "time": "00:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "Paraguay",
+            "code": "PAR"
+          },
+          "score1": 0,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "stadegeoffroyguichard",
+            "name": "Stade Geoffroy-Guichard"
+          },
+          "city": "Saint-Étienne"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 11",
+      "matches": [
+        {
+          "num": 25,
+          "date": "1998-06-20",
+          "time": "00:00",
+          "team1": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "team2": {
+            "name": "Korea Republic",
+            "code": "KOR"
+          },
+          "score1": 5,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "stadevelodrome",
+            "name": "Stade Vélodrome"
+          },
+          "city": "Marseille"
+        },
+        {
+          "num": 26,
+          "date": "1998-06-20",
+          "time": "00:00",
+          "team1": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "team2": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "score1": 2,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "parclescure",
+            "name": "Parc Lescure"
+          },
+          "city": "Bordeaux"
+        },
+        {
+          "num": 27,
+          "date": "1998-06-20",
+          "time": "00:00",
+          "team1": {
+            "name": "Japan",
+            "code": "JPN"
+          },
+          "team2": {
+            "name": "Croatia",
+            "code": "CRO"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group H",
+          "stadium": {
+            "key": "stadedelabeaujoire",
+            "name": "Stade de la Beaujoire"
+          },
+          "city": "Nantes"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 12",
+      "matches": [
+        {
+          "num": 28,
+          "date": "1998-06-21",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Jamaica",
+            "code": "JAM"
+          },
+          "score1": 5,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group H",
+          "stadium": {
+            "key": "parcdesprinces",
+            "name": "Parc des Princes"
+          },
+          "city": "Paris"
+        },
+        {
+          "num": 29,
+          "date": "1998-06-21",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "score1": 2,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "stadefelixbollaert",
+            "name": "Stade Félix Bollaert"
+          },
+          "city": "Lens"
+        },
+        {
+          "num": 30,
+          "date": "1998-06-21",
+          "time": "00:00",
+          "team1": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "team2": {
+            "name": "Iran",
+            "code": "IRN"
+          },
+          "score1": 1,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "stadegerland",
+            "name": "Stade Gerland"
+          },
+          "city": "Lyon"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 13",
+      "matches": [
+        {
+          "num": 31,
+          "date": "1998-06-22",
+          "time": "00:00",
+          "team1": {
+            "name": "Colombia",
+            "code": "COL"
+          },
+          "team2": {
+            "name": "Tunisia",
+            "code": "TUN"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group G",
+          "stadium": {
+            "key": "stadedelamosson",
+            "name": "Stade de la Mosson"
+          },
+          "city": "Montpellier"
+        },
+        {
+          "num": 32,
+          "date": "1998-06-22",
+          "time": "00:00",
+          "team1": {
+            "name": "Romania",
+            "code": "ROU"
+          },
+          "team2": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group G",
+          "stadium": {
+            "key": "stadedetoulouse",
+            "name": "Stade de Toulouse"
+          },
+          "city": "Toulouse"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 14",
+      "matches": [
+        {
+          "num": 33,
+          "date": "1998-06-23",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Austria",
+            "code": "AUT"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "stadedefrance",
+            "name": "Stade de France"
+          },
+          "city": "Saint-Denis"
+        },
+        {
+          "num": 34,
+          "date": "1998-06-23",
+          "time": "00:00",
+          "team1": {
+            "name": "Scotland",
+            "code": "SCO"
+          },
+          "team2": {
+            "name": "Morocco",
+            "code": "MAR"
+          },
+          "score1": 0,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "stadegeoffroyguichard",
+            "name": "Stade Geoffroy-Guichard"
+          },
+          "city": "Saint-Étienne"
+        },
+        {
+          "num": 35,
+          "date": "1998-06-23",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Norway",
+            "code": "NOR"
+          },
+          "score1": 1,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "stadevelodrome",
+            "name": "Stade Vélodrome"
+          },
+          "city": "Marseille"
+        },
+        {
+          "num": 36,
+          "date": "1998-06-23",
+          "time": "00:00",
+          "team1": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "team2": {
+            "name": "Cameroon",
+            "code": "CMR"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "stadedelabeaujoire",
+            "name": "Stade de la Beaujoire"
+          },
+          "city": "Nantes"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 15",
+      "matches": [
+        {
+          "num": 37,
+          "date": "1998-06-24",
+          "time": "00:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "Bulgaria",
+            "code": "BUL"
+          },
+          "score1": 6,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "stadefelixbollaert",
+            "name": "Stade Félix Bollaert"
+          },
+          "city": "Lens"
+        },
+        {
+          "num": 38,
+          "date": "1998-06-24",
+          "time": "00:00",
+          "team1": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "team2": {
+            "name": "Denmark",
+            "code": "DEN"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "stadegerland",
+            "name": "Stade Gerland"
+          },
+          "city": "Lyon"
+        },
+        {
+          "num": 39,
+          "date": "1998-06-24",
+          "time": "00:00",
+          "team1": {
+            "name": "Nigeria",
+            "code": "NGA"
+          },
+          "team2": {
+            "name": "Paraguay",
+            "code": "PAR"
+          },
+          "score1": 1,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "stadedetoulouse",
+            "name": "Stade de Toulouse"
+          },
+          "city": "Toulouse"
+        },
+        {
+          "num": 40,
+          "date": "1998-06-24",
+          "time": "00:00",
+          "team1": {
+            "name": "South Africa",
+            "code": "RSA"
+          },
+          "team2": {
+            "name": "Saudi Arabia",
+            "code": "KSA"
+          },
+          "score1": 2,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "parclescure",
+            "name": "Parc Lescure"
+          },
+          "city": "Bordeaux"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 16",
+      "matches": [
+        {
+          "num": 41,
+          "date": "1998-06-25",
+          "time": "00:00",
+          "team1": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "team2": {
+            "name": "Korea Republic",
+            "code": "KOR"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "parcdesprinces",
+            "name": "Parc des Princes"
+          },
+          "city": "Paris"
+        },
+        {
+          "num": 42,
+          "date": "1998-06-25",
+          "time": "00:00",
+          "team1": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "team2": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "score1": 2,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group E",
+          "stadium": {
+            "key": "stadegeoffroyguichard",
+            "name": "Stade Geoffroy-Guichard"
+          },
+          "city": "Saint-Étienne"
+        },
+        {
+          "num": 43,
+          "date": "1998-06-25",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Iran",
+            "code": "IRN"
+          },
+          "score1": 2,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "stadedelamosson",
+            "name": "Stade de la Mosson"
+          },
+          "city": "Montpellier"
+        },
+        {
+          "num": 44,
+          "date": "1998-06-25",
+          "time": "00:00",
+          "team1": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "team2": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group F",
+          "stadium": {
+            "key": "stadedelabeaujoire",
+            "name": "Stade de la Beaujoire"
+          },
+          "city": "Nantes"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 17",
+      "matches": [
+        {
+          "num": 45,
+          "date": "1998-06-26",
+          "time": "00:00",
+          "team1": {
+            "name": "Romania",
+            "code": "ROU"
+          },
+          "team2": {
+            "name": "Tunisia",
+            "code": "TUN"
+          },
+          "score1": 1,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group G",
+          "stadium": {
+            "key": "stadedefrance",
+            "name": "Stade de France"
+          },
+          "city": "Saint-Denis"
+        },
+        {
+          "num": 46,
+          "date": "1998-06-26",
+          "time": "00:00",
+          "team1": {
+            "name": "Colombia",
+            "code": "COL"
+          },
+          "team2": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "score1": 0,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group G",
+          "stadium": {
+            "key": "stadefelixbollaert",
+            "name": "Stade Félix Bollaert"
+          },
+          "city": "Lens"
+        },
+        {
+          "num": 47,
+          "date": "1998-06-26",
+          "time": "00:00",
+          "team1": {
+            "name": "Japan",
+            "code": "JPN"
+          },
+          "team2": {
+            "name": "Jamaica",
+            "code": "JAM"
+          },
+          "score1": 1,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group H",
+          "stadium": {
+            "key": "stadegerland",
+            "name": "Stade Gerland"
+          },
+          "city": "Lyon"
+        },
+        {
+          "num": 48,
+          "date": "1998-06-26",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Croatia",
+            "code": "CRO"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group H",
+          "stadium": {
+            "key": "parclescure",
+            "name": "Parc Lescure"
+          },
+          "city": "Bordeaux"
+        }
+      ]
+    },
+    {
+      "name": "Round of 16",
+      "matches": [
+        {
+          "num": 49,
+          "date": "1998-06-27",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "score1": 4,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "parcdesprinces",
+            "name": "Parc des Princes"
+          },
+          "city": "Paris"
+        },
+        {
+          "num": 50,
+          "date": "1998-06-27",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "Norway",
+            "code": "NOR"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadevelodrome",
+            "name": "Stade Vélodrome"
+          },
+          "city": "Marseille"
+        },
+        {
+          "num": 51,
+          "date": "1998-06-28",
+          "time": "00:00",
+          "team1": {
+            "name": "Nigeria",
+            "code": "NGA"
+          },
+          "team2": {
+            "name": "Denmark",
+            "code": "DEN"
+          },
+          "score1": 1,
+          "score2": 4,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadedefrance",
+            "name": "Stade de France"
+          },
+          "city": "Saint-Denis"
+        },
+        {
+          "num": 52,
+          "date": "1998-06-28",
+          "time": "00:00",
+          "team1": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "team2": {
+            "name": "Paraguay",
+            "code": "PAR"
+          },
+          "score1": 1,
+          "score2": 0,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 1,
+          "score2et": 0,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadefelixbollaert",
+            "name": "Stade Félix Bollaert"
+          },
+          "city": "Lens"
+        },
+        {
+          "num": 53,
+          "date": "1998-06-29",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadedelamosson",
+            "name": "Stade de la Mosson"
+          },
+          "city": "Montpellier"
+        },
+        {
+          "num": 54,
+          "date": "1998-06-29",
+          "time": "00:00",
+          "team1": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "team2": {
+            "name": "Yugoslavia",
+            "code": "YUG"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadedetoulouse",
+            "name": "Stade de Toulouse"
+          },
+          "city": "Toulouse"
+        },
+        {
+          "num": 55,
+          "date": "1998-06-30",
+          "time": "00:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "score1": 4,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 2,
+          "score2et": 2,
+          "score1p": 4,
+          "score2p": 3,
+          "stadium": {
+            "key": "stadegeoffroyguichard",
+            "name": "Stade Geoffroy-Guichard"
+          },
+          "city": "Saint-Étienne"
+        },
+        {
+          "num": 56,
+          "date": "1998-06-30",
+          "time": "00:00",
+          "team1": {
+            "name": "Romania",
+            "code": "ROU"
+          },
+          "team2": {
+            "name": "Croatia",
+            "code": "CRO"
+          },
+          "score1": 0,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "parclescure",
+            "name": "Parc Lescure"
+          },
+          "city": "Bordeaux"
+        }
+      ]
+    },
+    {
+      "name": "Quarter-finals",
+      "matches": [
+        {
+          "num": 57,
+          "date": "1998-07-03",
+          "time": "00:00",
+          "team1": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "team2": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "score1": 3,
+          "score2": 4,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 0,
+          "score2et": 0,
+          "score1p": 3,
+          "score2p": 4,
+          "stadium": {
+            "key": "stadedefrance",
+            "name": "Stade de France"
+          },
+          "city": "Saint-Denis"
+        },
+        {
+          "num": 58,
+          "date": "1998-07-03",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Denmark",
+            "code": "DEN"
+          },
+          "score1": 3,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadedelabeaujoire",
+            "name": "Stade de la Beaujoire"
+          },
+          "city": "Nantes"
+        },
+        {
+          "num": 59,
+          "date": "1998-07-04",
+          "time": "00:00",
+          "team1": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "team2": {
+            "name": "Croatia",
+            "code": "CRO"
+          },
+          "score1": 0,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadegerland",
+            "name": "Stade Gerland"
+          },
+          "city": "Lyon"
+        },
+        {
+          "num": 60,
+          "date": "1998-07-04",
+          "time": "00:00",
+          "team1": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "team2": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadevelodrome",
+            "name": "Stade Vélodrome"
+          },
+          "city": "Marseille"
+        }
+      ]
+    },
+    {
+      "name": "Semi-finals",
+      "matches": [
+        {
+          "num": 61,
+          "date": "1998-07-07",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "score1": 4,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": 1,
+          "score2et": 1,
+          "score1p": 4,
+          "score2p": 2,
+          "stadium": {
+            "key": "stadevelodrome",
+            "name": "Stade Vélodrome"
+          },
+          "city": "Marseille"
+        },
+        {
+          "num": 62,
+          "date": "1998-07-08",
+          "time": "00:00",
+          "team1": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "team2": {
+            "name": "Croatia",
+            "code": "CRO"
+          },
+          "score1": 2,
+          "score2": 1,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadedefrance",
+            "name": "Stade de France"
+          },
+          "city": "Saint-Denis"
+        }
+      ]
+    },
+    {
+      "name": "Third-place match",
+      "matches": [
+        {
+          "num": 63,
+          "date": "1998-07-11",
+          "time": "00:00",
+          "team1": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "team2": {
+            "name": "Croatia",
+            "code": "CRO"
+          },
+          "score1": 1,
+          "score2": 2,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "parcdesprinces",
+            "name": "Parc des Princes"
+          },
+          "city": "Paris"
+        }
+      ]
+    },
+    {
+      "name": "Final",
+      "matches": [
+        {
+          "num": 64,
+          "date": "1998-07-12",
+          "time": "00:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "score1": 0,
+          "score2": 3,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "knockout": true,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "stadium": {
+            "key": "stadedefrance",
+            "name": "Stade de France"
+          },
+          "city": "Saint-Denis"
+        }
+      ]
+    }
+  ]
+}

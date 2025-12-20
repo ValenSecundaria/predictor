@@ -1,0 +1,77 @@
+{
+  "name": "World Cup 1930",
+  "groups": [
+    {
+      "name": "Group 1",
+      "teams": [
+        {
+          "name": "Argentina",
+          "code": "ARG"
+        },
+        {
+          "name": "Chile",
+          "code": "CHI"
+        },
+        {
+          "name": "France",
+          "code": "FRA"
+        },
+        {
+          "name": "Mexico",
+          "code": "MEX"
+        }
+      ]
+    },
+    {
+      "name": "Group 2",
+      "teams": [
+        {
+          "name": "Yugoslavia",
+          "code": "YUG"
+        },
+        {
+          "name": "Brazil",
+          "code": "BRA"
+        },
+        {
+          "name": "Bolivia",
+          "code": "BOL"
+        }
+      ]
+    },
+    {
+      "name": "Group 3",
+      "teams": [
+        {
+          "name": "Uruguay",
+          "code": "URU"
+        },
+        {
+          "name": "Romania",
+          "code": "ROU"
+        },
+        {
+          "name": "Peru",
+          "code": "PER"
+        }
+      ]
+    },
+    {
+      "name": "Group 4",
+      "teams": [
+        {
+          "name": "United States",
+          "code": "USA"
+        },
+        {
+          "name": "Paraguay",
+          "code": "PAR"
+        },
+        {
+          "name": "Belgium",
+          "code": "BEL"
+        }
+      ]
+    }
+  ]
+}

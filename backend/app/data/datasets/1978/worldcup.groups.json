@@ -1,0 +1,131 @@
+{
+  "name": "World Cup 1978",
+  "groups": [
+    {
+      "name": "Group 1",
+      "teams": [
+        {
+          "name": "Italy",
+          "code": "ITA"
+        },
+        {
+          "name": "Argentina",
+          "code": "ARG"
+        },
+        {
+          "name": "France",
+          "code": "FRA"
+        },
+        {
+          "name": "Hungary",
+          "code": "HUN"
+        }
+      ]
+    },
+    {
+      "name": "Group 2",
+      "teams": [
+        {
+          "name": "Poland",
+          "code": "POL"
+        },
+        {
+          "name": "Germany",
+          "code": "GER"
+        },
+        {
+          "name": "Tunisia",
+          "code": "TUN"
+        },
+        {
+          "name": "Mexico",
+          "code": "MEX"
+        }
+      ]
+    },
+    {
+      "name": "Group 3",
+      "teams": [
+        {
+          "name": "Austria",
+          "code": "AUT"
+        },
+        {
+          "name": "Brazil",
+          "code": "BRA"
+        },
+        {
+          "name": "Spain",
+          "code": "ESP"
+        },
+        {
+          "name": "Sweden",
+          "code": "SWE"
+        }
+      ]
+    },
+    {
+      "name": "Group 4",
+      "teams": [
+        {
+          "name": "Peru",
+          "code": "PER"
+        },
+        {
+          "name": "Netherlands",
+          "code": "NED"
+        },
+        {
+          "name": "Scotland",
+          "code": "SCO"
+        },
+        {
+          "name": "Iran",
+          "code": "IRN"
+        }
+      ]
+    },
+    {
+      "name": "Group A",
+      "teams": [
+        {
+          "name": "Netherlands",
+          "code": "NED"
+        },
+        {
+          "name": "Italy",
+          "code": "ITA"
+        },
+        {
+          "name": "Germany",
+          "code": "GER"
+        },
+        {
+          "name": "Austria",
+          "code": "AUT"
+        }
+      ]
+    },
+    {
+      "name": "Group B",
+      "teams": [
+        {
+          "name": "Argentina",
+          "code": "ARG"
+        },
+        {
+          "name": "Brazil",
+          "code": "BRA"
+        },
+        {
+          "name": "Poland",
+          "code": "POL"
+        },
+        {
+          "name": "Peru",
+          "code": "PER"
+        }
+      ]
+    }
+  ]
+}
